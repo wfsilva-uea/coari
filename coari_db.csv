@@ -1,0 +1,462 @@
+﻿Entrevistador,Idade,Faixa,Genero,Renda ,Bairro,Quest. 5,Quest. 6,Quest. 7,Quest. 8,Quest. 9,Quest. 10,Quest. 11,Quest. 12,Quest. 13,Quest. 14,Quest. 15,Quest. 16,Quest. 17,Quest. 18,Quest. 19,Quest. 20,Quest. 21,Quest. 22
+Wanessa,42,40 a 49,Masculino,1000,Urucu,c,b,Ser honesto,Salário,a,a,10,8,0,adail,a,indicado pelo adail,b,sem noção,a,e,Nada mudou,infraestrutura
+Wanessa,48,40 a 49,Masculino,1800,Itamarati,f,a,Ser honesto,Asfalto,a,c,9,8,5,,indeciso,indeciso,,,a,c,Asfaltamento,Nada piorou
+Wanessa,22,22 a 24,Masculino,2500,União,g,b,Ser honesto,Segurança,a,b,7,8,8,Magalhães,c,c,a,ficha suja,a,d,Pagamento em dias,Segurança
+Wanessa,19,18 a 21,Feminino,1000,Itamarati,f,b,Dignidade,Emprego,c,c,9,9,8,Mitouso,b,b,a,Não ajudou a familia,c,e,Pagamento em dias,Saúde
+Wanessa,34,30 a 39,Feminino,500,União,f,a,Dignidade,Emprego,c,a,9,5,1,adail,a,d,b,não fez nada,a,e,Nada mudou,desemprego
+Wanessa,27,25 a 29,Masculino,1200,Chagas,d,a,Outros,Saúde,b,a,9,7,0,,c,c,b,não fez nada,a,d,Pagamento em dias,Segurança
+Wanessa,30,30 a 39,Masculino,600,União,c,c,Ter experiência administrativa ,Corrupção,c,c,10,8,0,adail,a,e,b,não fez nada,a,d,Nada mudou,Saúde
+Wanessa,25,25 a 29,Feminino,150,Itamarati,c,a,Ser trabalhador,Asfalto,a,a,10,5,6,adail,a,a,c,Não Gosto,a,d,Nada mudou,Nada piorou
+Wanessa,54,50 a 59,Feminino,500,Santa Helena,c,b,Ser trabalhador,Saneamento e urbanização,a,b,8,9,5,,a,indicado pelo adail,b,não fez nada,a,c,Nada mudou,Segurança
+Wanessa,35,30 a 39,Masculino,2000,Centro,f,a,Ser honesto,Emprego,c,b,9,10,0,Magalhães,c,c,b,Não tem um bom perfil politico,a,d,Nada mudou,Segurança
+Wanessa,37,30 a 39,Feminino,1300,Centro,g,a,Ser honesto,Saúde,c,c,1,5,0,,c,c,b,não fez nada,a,d,Asfaltamento,salário
+Wanessa,19,18 a 21,Feminino,2000,Santa Efigênia,f,b,Ser honesto,Salário,b,a,6,5,2,,c,c,b,Pessima Adm,a,d,Nada mudou,Saúde
+Wanessa,26,25 a 29,Masculino,2700,Chagas,d,b,Ser honesto,Emprego,b,b,8,7,8,Magalhães,c,c,b,decepcionou,a,d,Nada mudou,infraestrutura
+Wanessa,41,40 a 49,Masculino,400,União,c,a,Ser trabalhador,Renda,c,c,10,8,5,,c,c,b,não fez nada,a,d,Obras,infraestrutura
+Wanessa,32,30 a 39,Masculino,650,Tauá Mirim,e,b,Ser honesto,Administração pública,a,a,8,8,4,adail,a,c,b, Não fez um bom trabalho,a,d,Pagamento em dias,Nada piorou
+Wanessa,33,30 a 39,Masculino,2500,Santa Efigênia,f,a,Ser honesto,Corrupção,c,c,9,7,0,,a,c,b,Piorou o comercio,a,d,Saúde,Segurança
+Wanessa,20,18 a 21,Feminino,2000,Santa Efigênia,f,a,Ser honesto,Emprego,a,a,9,8,1,,c,c,b,não fez nada,a,d,Pagamento em dias,desemprego
+Wanessa,58,50 a 59,Masculino,1000,Chagas,f,a,Ser honesto,Corrupção,b,a,9,5,0,,a,c,b,Afundou coari,a,d,Nada mudou,salário
+Wanessa,48,40 a 49,Masculino,600,Centro,c,a,Ser trabalhador,Salário,a,c,10,10,0,,c,c,b,Pq não quero,a,d,Nada mudou,renda
+Wanessa,58,50 a 59,Masculino,1500,Centro,d,b,Ser honesto,Saúde,c,a,10,10,0,adail,a,c,b,não quero,a,d,Asfaltamento,Saude
+Wanessa,23,22 a 24,Masculino,600,Tauá Mirim,e,a,Ser honesto,Saúde,a,a,9,7,2,,a,indicado pelo adail,b,não fez nada,a,d,Nada mudou,Saude
+Wanessa,46,40 a 49,Masculino,2800,Centro,f,a,Ser honesto,Segurança,a,a,8,8,2,Magalhães,c,c,b,má adm,a,f,Nada mudou,Segurança
+Wanessa,39,30 a 39,Feminino,1000,Itamarati,c,b,Ser trabalhador,Asfalto,c,c,10,10,0,adail,a,c,b,não fez nada,a,f,Asfaltamento,não sei
+Wanessa,38,30 a 39,Feminino,1300,Duque,f,a,Ser honesto,Saúde,c,c,10,8,5,,indeciso,indeciso,b,não fez nada,a,f,Nada mudou,renda
+Wanessa,51,50 a 59,Masculino,0,Tauá Mirim,h,a,Carater,Infraestrutura,c,b,7,8,0,Magalhães,c,c,b,Não tem Moral,a,d,Nada mudou,Saude
+Wanessa,23,22 a 24,Masculino,400,Urucu,d,a,Ser competente,Emprego,a,b,8,8,0,,c,c,a,Não ajudou o povo,c,c,Nada mudou,Saude
+Wanessa,38,30 a 39,Masculino,1000,Santa Efigênia,f,a,Ter boa proposta,Salário,c,b,7,5,7,Mitouso,b,b,a,perseguidor,c,e,De tudo um pouco,desemprego
+Wanessa,38,30 a 39,Masculino,400,Centro,c,b,Ser trabalhador,Renda,c,c,10,6,10,Mitouso,b,b,a,não gosta de vendedor,c,e,Pagamento em dias,renda
+Wanessa,57,50 a 59,Masculino,5000,Centro,h,a,Ser honesto,Saneamento e urbanização,a,b,7,6,8,Mitouso,b,b,a,corrupto,c,e,educação,infraestrutura
+Wanessa,29,25 a 29,Masculino,1000,Urucu,f,a,Ser honesto,Saúde,a,b,8,8,0,,c,c,b,FALSO,a,c,Pagamento em dias,Segurança
+Wanessa,22,22 a 24,Masculino,600,Duque,d,a,Ser honesto,Asfalto,c,a,8,8,4,,c,c,b,não fez nada,a,f,Saúde,salário
+Wanessa,19,18 a 21,Feminino,650,Chagas,f,a,Ser honesto,Corrupção,c,a,10,,9,,c,c,a,pelo passado,c,d,Asfaltamento,Outros
+Wanessa,32,30 a 39,Masculino,1800,Urucu,c,a,Dignidade,Salário,c,a,9,9,0,adail,a,c,b,não gosto dele,a,d,Pagamento em dias,desemprego
+Wanessa,36,30 a 39,Masculino,1200,Tauá Mirim,f,c,Ser honesto,Outros,b,a,8,6,4,Magalhães,c,c,b,corrupto,a,d,Nada mudou,Saude
+Wanessa,32,30 a 39,Feminino,1500,Duque,g,d,Ser competente,Educação,b,a,9,5,7,,e,d,a,não gosto dele,c,c,Outros,saneamento
+Wanessa,21,18 a 21,Feminino,650,Espirito Santo,e,a,Carater,Emprego,a,a,10,10,0,adail,a,c,b,pessimo candidato,a,d,Nada mudou,desemprego
+Wanessa,50,50 a 59,Masculino,1500,Itamarati,c,a,Ser trabalhador,Emprego,c,c,9,5,5,adail,a,b,,pq não conheço,c,b,Pagamento em dias,Economia
+Wanessa,16,16 e 17,Feminino,900,Tauá Mirim,c,a,Ser amigo,Renda,c,a,8,8,0,Magalhães,c,c,b,não fez nada,c,d,Nada mudou,Outros
+Wanessa,52,50 a 59,Masculino,1900,Centro,f,a,Ser competente,Saúde,a,b,8,10,0,adail,a,c,b,Pessima Adm,a,d,Nada mudou,Saúde
+Wanessa,22,22 a 24,Feminino,900,Tauá Mirim,c,b,Ser honesto,Salário,a,a,10,0,10,adail,a,b,,,c,a,Nada mudou,salário
+Wanessa,41,40 a 49,Feminino,1000,Chagas,f,b,Ser honesto,Emprego,c,c,8,5,8,,c,c,b,não fez nada,a,d,Nada mudou,desemprego
+Wanessa,32,30 a 39,Feminino,900,União,f,a,Ser competente,Saúde,a,a,10,8,0,adail,a,c,b,não fez nada,a,d,Nada mudou,infraestrutura
+Wanessa,30,30 a 39,Masculino,2500,centro,d,b,Ser trabalhador,Emprego,c,b,6,6,3,adail,a,c,b,não fez nada,a,a,Nada mudou,saneamento
+Wanessa,18,18 a 21,Feminino,1500,Itamarati,f,a,Ser honesto,Saneamento e urbanização,b,b,10,0,10,Mitouso,b,b,a,tempo já passou,c,e,educação,Segurança
+Wanessa,21,18 a 21,Feminino,4000,Itamarati,d,a,Ser honesto,Saúde,b,b,10,5,0,Magalhães,c,c,a,roubou muito,a,d,Nada mudou,Segurança
+Wanessa,35,30 a 39,Feminino,2500,Itamarati,h,a,Ser honesto,Renda,a,b,8,7,6,,e,d,b,não gostou da adm,a,d,Outros,Economia
+Wanessa,59,50 a 59,Masculino,300,Espirito Santo,e,a,Ser honesto,Saneamento e urbanização,c,c,8,,,,indeciso,indeciso,,,d,c,Nada mudou,salário
+Wanessa,64,60 e +,Masculino,2000,Chagas,f,a,Ter experiência administrativa ,Salário,c,b,6,5,0,adail,a,c,b,não fez nada,a,d,Nada mudou,Outros
+Wanessa,33,30 a 39,Masculino,2000,Tauá Mirim,f,a,Ser trabalhador,Saneamento e urbanização,c,c,10,,6,Mitouso,b,b,a,corrupto,c,e,Saúde,infraestrutura
+Wanessa,20,18 a 21,Feminino,650,Do Pera,f,b,Ser honesto,Emprego,a,a,9,9,0,Magalhães,c,c,b,não fez nada,a,d,Nada mudou,desemprego
+Wanessa,50,50 a 59,Feminino,650,Centro,e,a,Ser trabalhador,Renda,c,c,,,0,,indeciso,indeciso,b,não quero,d,f,,Saúde
+Wanessa,20,18 a 21,Masculino,2000,Itamarati,f,c,Ser honesto,Administração pública,c,a,9,7,0,Magalhães,c,c,b,não merece,a,d,Nada mudou,Segurança
+Wanessa,30,30 a 39,Masculino,510,Chagas,f,b,Responsabilidade,Renda,a,a,10,10,5,,a,c,b,má adm,a,d,Pagamento em dias,Saúde
+Gabriel,40,40 a 49,Masculino,650,Duque,c,d,Ser honesto,Saneamento e urbanização,b,b,10,0,5,,e,d,a,perseguidor,razoável,c,Não tem preserguição,educação
+Gabriel,21,18 a 21,Feminino,1300,Duque,f,a,Ser honesto,Segurança,c,c,7,,8,,f,e,f,,b,c,,
+Gabriel,21,18 a 21,Feminino,2600,Chagas,f,a,Ser amigo,Salário,b,a,10,7,3,,e,d,b,,b,c,,
+Gabriel,21,18 a 21,Masculino,620,Itamarati,d,a,Responsabilidade,Saúde,c,c,9,9,5,,e,d,b,não teve um bom desempenho,b,c,,
+Gabriel,22,22 a 24,Masculino,600,Chagas,d,d,Ser competente,Emprego,b,b,10,10,0,,a,c,b,não fez nada,a,c,,desemprego
+Gabriel,32,30 a 39,Feminino,900,Santa Efigênia,f,a,Ser honesto,Segurança,b,c,8,5,0,,f,e,f,,a,c,Nada mudou,Segurança
+Gabriel,18,18 a 21,Masculino,1800,Itamarati,e,b,Ser honesto,Energia,a,a,9,8,5,,a,a,b,não gosta dele,a,c,,salário
+Gabriel,50,50 a 59,Feminino,100,Chagas,a,a,Ser honesto,Saúde,a,a,10,10,10,,b,b,a,,c,a,,
+Gabriel,16,16 e 17,Feminino,100,Chagas,d,a,Ser honesto,Saúde,a,a,9,7,0,,b,b,a,não fez nada,c,e,educação,Saúde
+Gabriel,33,30 a 39,Masculino,1950,Tauá Mirim,f,b,Outros,Infraestrutura,a,b,9,9,5,,b,b,c,,razoável,a,Pagamento em dias,
+Gabriel,55,50 a 59,Feminino,1000,Centro,d,a,Ser honesto,Segurança,b,b,10,5,8,,c,c,a,corrupto,c,e,Não tem preserguição,Outros
+Gabriel,24,22 a 24,Feminino,1300,Tauá Mirim,f,a,Ser competente,Segurança,c,b,8,7,3,,c,c,a,pedofilia,a,e,Saúde,educação
+Gabriel,21,18 a 21,Feminino,650,Itamarati,f,a,Outros,Asfalto,c,c,10,5,0,,f,e,f,,a,d,,De tudo um pouco
+Gabriel,30,30 a 39,Feminino,650,Urucu,d,a,Ser competente,,a,b,10,10,0,,c,c,c,não ajudo o povo,a,d,Pagamento em dias,
+Gabriel,19,18 a 21,Feminino,800,Itamarati,f,a,Responsabilidade,Segurança,b,a,10,7,0,,a,e,b,inconpetente,a,c,Nada mudou,Nada piorou
+Gabriel,24,22 a 24,Feminino,1000,Chagas,f,a,Ser honesto,Salário,b,a,8,6,0,,c,c,b,fazendo as coisas ,b,d,Nada mudou,De tudo um pouco
+Gabriel,19,18 a 21,Feminino,480,Urucu,e,a,Ser competente,Emprego,a,a,8,8,5,,a,c,b,não gostaram dele ,a,c,Nada mudou,Economia
+Gabriel,28,25 a 29,Feminino,650,Centro,d,b,Ser honesto,Salário,a,a,9,10,5,,a,c,b,não paga o pessoal,c,b,,salário
+Gabriel,28,25 a 29,Feminino,700,Tauá Mirim,e,b,Ser competente,Saúde,c,c,9,9,0,,a,c,b,não é competente,a,c,Nada mudou,Segurança
+Gabriel,24,22 a 24,Masculino,,Chagas,f,b,Ser honesto,Salário,b,b,10,7,0,,c,c,b,ladrao,a,c,Nada mudou,Segurança
+Gabriel,39,30 a 39,Masculino,3000,Tauá Mirim,f,d,Ser honesto,Segurança,c,a,8,8,2,,c,c,a,,a,d,Outros,Segurança
+Gabriel,21,18 a 21,Feminino,622,Do Pera,f,a,Ser competente,Saúde,b,b,10,10,5,,a,b,b,não conhece,a,c,Nada mudou,Segurança
+Gabriel,17,16 e 17,Feminino,1000,Chagas,e,b,Ser honesto,Segurança,a,b,8,8,7,,a,c,c,promete e não cumpri,c,c,Nada mudou,Economia
+Gabriel,43,40 a 49,Feminino,,Centro,c,b,Ser trabalhador,Infraestrutura,b,b,10,10,9,,b,b,a,?,c,e,Pagamento em dias,
+Gabriel,34,30 a 39,Feminino,650,Santa Efigênia,f,a,Ser honesto,Emprego,c,c,10,10,5,,a,e,e,,c,c,Nada mudou,Segurança
+Gabriel,28,25 a 29,Masculino,650,União,f,b,Ser competente,Asfalto,c,c,10,10,10,,b,b,a,,c,e,Pagamento em dias,Nada piorou
+Gabriel,21,18 a 21,Feminino,650,Espirito Santo,f,a,Ser competente,Segurança,c,b,10,8,10,,b,b,a,pedofilia,c,d,Pagamento em dias,De tudo um pouco
+Gabriel,23,22 a 24,Feminino,,Centro,f,b,Ser competente,Saúde,a,a,8,8,7,,b,b,a,processos / pedofilia,c,d,Asfaltamento,Segurança
+Gabriel,17,16 e 17,Feminino,2600,Espirito Santo,f,a,Ser competente,,a,b,8,9,0,,a,c,b,,a,d,Nada mudou,salário
+Gabriel,18,18 a 21,Feminino,,Tauá Mirim,e,a,Ser competente,Saúde,b,b,7,5,0,,f,e,f,,a,d,Nada mudou,Segurança
+Gabriel,18,18 a 21,Feminino,,Do Pera,e,d,Ser competente,Emprego,a,a,7,6,0,,c,c,b,não tem responsabilidade,a,d,Nada mudou,infraestrutura
+Gabriel,36,30 a 39,Feminino,500,Tauá Mirim,c,a,Ser trabalhador,,b,b,9,8,0,,a,c,b,não há trabalho para o povo,a,d,Asfaltamento,salário
+Gabriel,32,30 a 39,Feminino,650,Itamarati,f,a,Ser competente,Saúde,a,a,10,9,5,,a,c,b,,a,d,Nada mudou,Saúde
+Gabriel,16,16 e 17,Masculino,5000,Espirito Santo,e,d,Ser competente,Administração pública,b,b,7,9,5,,c,c,a,pedofilia,a,c,Nada mudou,Nada piorou
+Gabriel,31,30 a 39,Feminino,2000,Tauá Mirim,f,a,Ser honesto,,b,b,9,7,10,,b,b,a,,c,d,Pagamento em dias,Segurança
+Gabriel,33,30 a 39,Feminino,,Centro,d,a,Ser honesto,Segurança,a,a,10,9,0,,f,e,f,,a,c,Pagamento em dias,Saúde
+Gabriel,27,25 a 29,Feminino,650,Itamarati,f,d,Ser competente,Infraestrutura,c,c,8,6,2,,e,d,b,não fez nada,c,c,Nada mudou ,Nada piorou
+Gabriel,28,25 a 29,Masculino,1900,Duque,f,a,Ser honesto,Corrupção,a,a,10,10,0,,a,e,b,corrupto,a,d,Nada mudou,Saúde
+Gabriel,33,30 a 39,Masculino,1950,Itamarati,f,a,Ser competente,Emprego,a,a,9,9,0,,a,e,b,desemprego,a,d,Nada mudou,desemprego
+Gabriel,40,40 a 49,Feminino,1244,Chagas,f,a,Ser honesto,Saúde,a,a,9,10,0,,a,d,e,não fez nada pela cidade,a,d,Nada mudou,Saúde
+Gabriel,31,30 a 39,Masculino,1000,Chagas,h,a,Ser competente,Saúde,b,a,8,6,5,,c,c,d,não conhece,razoável,d,educação,Saúde
+Gabriel,35,30 a 39,Masculino,,Chagas,h,b,Compromisso com o povo,Saneamento e urbanização,c,b,9,9,9,,b,b,d,não conhece,c,a,Limpeza,Outros
+Gabriel,19,18 a 21,Masculino,600,Chagas,f,a,Ser honesto,Emprego,a,a,8,9,0,,a,e,b,falta de emprego,a,d,Nada mudou,Saúde
+Gabriel,27,25 a 29,Masculino,200,União,f,a,Compromisso com o povo,Emprego,c,a,10,9,5,,a,d,b,desemprego,a,c,,Economia
+Gabriel,21,18 a 21,Feminino,5000,Santa Helena,f,d,Ser competente,Asfalto,b,b,8,10,7,,e,d,a,corrupcao,razoável,c,Saúde,Nada piorou
+Gabriel,28,25 a 29,Masculino,2400,Centro,g,a,Outros,Corrupção,c,c,8,8,3,,c,c,b,estadio da cidade,a,c,Nada mudou,Segurança
+Gabriel,16,16 e 17,Masculino,2500,União,e,a,Ser competente,Saúde,a,a,8,6,0,,c,c,b,falta de tudo,a,c,Nada mudou,Segurança
+Gabriel,31,30 a 39,Masculino,2000,Centro,c,b,Ser competente,Segurança,c,c,5,3,1,,c,c,b,má adm,a,c,Nada mudou,Nada piorou
+Gabriel,40,40 a 49,Masculino,1600,Santa Efigênia,c,d,Ter experiência administrativa ,Moradia,a,b,10,10,0,,c,c,a,ladrao,a,c,Asfaltamento,Saúde
+Gabriel,27,25 a 29,Masculino,500,União,c,a,Ser competente,Emprego,c,c,10,10,3,,a,c,d,não conhece,a,c,Outros,Nada piorou
+Gabriel,18,18 a 21,Feminino,1300,Centro,d,d,Ser religioso,,c,a,10,10,0,,a,e,b,não vou com a cara dele,a,c,Nada mudou,infraestrutura
+Gabriel,24,22 a 24,Masculino,1300,Chagas,f,b,Ser trabalhador,Saneamento e urbanização,c,c,8,9,0,,c,c,b,má adm,a,c,Pagamento em dias,
+Gabriel,26,25 a 29,Masculino,500,Do Pera,e,b,,Emprego,a,b,8,9,0,,c,c,b,desonesto,a,c,Nada mudou,salário
+Gabriel,18,18 a 21,Feminino,,Centro,e,a,Ser competente,Emprego,a,a,10,8,10,,b,b,a,pedofilia,c,d,Asfaltamento,Segurança
+Gabriel,21,18 a 21,Masculino,1950,Urucu,f,a,Ser trabalhador,Saúde,c,a,10,10,0,,c,c,b,,a,d,Nada mudou ,Nada piorou
+Gabriel,27,25 a 29,Masculino,1300,Duque,c,a,Ser honesto,Saneamento e urbanização,c,c,6,6,0,,a,c,b,não fez nada,a,c,Nada mudou,Saúde
+GilShow,41,40 a 49,Masculino,2400,Urucu,h,a,Ser honesto,Segurança,c,b,7,7,2,,c,c,b,não fez nada,a,d,De tudo um pouco,Nada piorou
+GilShow,44,40 a 49,Feminino,3000,Centro,c,a,Ser competente,Segurança,b,a,10,8,10,Mitouso,,,a,falta de respeito,c,e,De tudo um pouco,De tudo um pouco
+GilShow,60,60 e +,Feminino,1000,Do Pera,a,a,Ser competente,Educação,b,c,4,5,6,Mitouso,,,,não gosto,c,e,De tudo um pouco,Nada piorou
+GilShow,37,30 a 39,Masculino,800,Itamarati,b,a,Responsabilidade,Saúde,c,c,8,4,0,Magalhães,,,b,não fez nada,a,d,Nada mudou,Nada piorou
+GilShow,32,30 a 39,Feminino,8000,Centro,h,a,Ser honesto,Educação,c,,10,0,0,,c,,b,cidade acabada,a,d,Nada mudou ,De tudo um pouco
+GilShow,48,40 a 49,Masculino,600,Do Pera,a,b,Ser competente,Moradia,b,b,10,10,9,,a,c,b,não fez nada,a,e,Nada mudou ,Nada piorou
+GilShow,26,25 a 29,Masculino,5000,Centro,g,a,Ser trabalhador,Infraestrutura,c,a,5,5,4,,c,,a,não conhece,razoável,f,Nada mudou ,Nada piorou
+GilShow,33,30 a 39,Feminino,1000,Santa Efigênia,f,a,Ser trabalhador,Saúde,c,b,8,7,0,adail,,c,b,não fez nada,a,e,Pagamento em dias,De tudo um pouco
+GilShow,43,40 a 49,Feminino,600,Itamarati,c,a,Ser trabalhador,Segurança,c,c,10,8,10,,a,d,c,não tem experiencia,b,a,Asfaltamento,desemprego
+GilShow,25,25 a 29,Feminino,650,Duque,f,a,,Saúde,a,a,10,9,0,,c,c,b,desemprego,a,a,Asfaltamento,Segurança
+GilShow,33,30 a 39,Masculino,2000,Tauá Mirim,f,b,Ser trabalhador,Emprego,a,c,8,9,5,Mitouso,,,e,não tem humildade,c,f,Pagamento em dias,Nada piorou
+GilShow,22,22 a 24,Feminino,700,União,f,a,Ter experiência administrativa ,Emprego,c,c,7,9,0,,e,d,b,não tem,b,f,Nada mudou ,salário
+GilShow,35,30 a 39,Feminino,650,Santa Helena,f,a,Ser honesto,Saúde,a,c,10,8,0,,a,e,b,muitos,a,e,Nada mudou,Saúde
+GilShow,33,30 a 39,Masculino,650,Urucu,c,a,Ser trabalhador,Asfalto,c,a,8,2,0,adail,,e,b,pessimo gestor,a,c,Nada mudou,educação
+GilShow,29,25 a 29,Masculino,1000,Urucu,e,b,Ser competente,Salário,b,b,7,7,0,,a,e,b,não fez nada,a,e,Nada mudou,De tudo um pouco
+GilShow,51,50 a 59,Masculino,1800,Santa Efigênia,f,a,Ser trabalhador,Salário,a,a,8,6,0,adail,,,f,,a,e,Pagamento em dias,Nada piorou
+GilShow,44,40 a 49,Feminino,500,Santa Efigênia,e,a,Ser competente,Emprego,b,b,10,5,5,Mitouso,,,a,tomou as coisas,c,d,De tudo um pouco,Nada piorou
+GilShow,55,50 a 59,Masculino,650,Santa Efigênia,a,a,Ter experiência administrativa ,Saúde,c,b,9,7,5,,c,c,a,denuncias,c,c,De tudo um pouco,Nada piorou
+GilShow,17,16 e 17,Feminino,2000,Urucu,e,b,Compromisso com o povo,Saúde,b,c,8,8,0,adail,,e,b,não fez nada,a,d,Nada mudou,salário
+GilShow,20,18 a 21,Feminino,1000,Tauá Mirim,f,b,Ser honesto,Segurança,b,b,5,0,5,,c,c,a,falcatruas,c,e,Nada mudou ,Nada piorou
+GilShow,21,18 a 21,Feminino,2000,Santa Efigênia,e,a,Ser competente,Saúde,c,a,10,7,0,,a,c,b,foi pessimo,a,d,Nada mudou,Nada piorou
+GilShow,18,18 a 21,Masculino,2000,Urucu,e,b,Ter experiência administrativa ,Energia,b,b,9,8,1,,a,e,b,falta de emprego,a,d,Nada mudou ,Segurança
+GilShow,49,40 a 49,Feminino,380,Santa Efigênia,b,b,Ser trabalhador,Emprego,b,a,10,10,10,adail,,c,b,emprego,a,e,Nada mudou,Nada piorou
+GilShow,62,60 e +,Masculino,,Centro,a,c,,Saúde,c,c,5,2,0,Magalhães,,,,,a,d,Nada mudou,Nada piorou
+GilShow,70,60 e +,Masculino,650,Tauá Mirim,b,a,Ter experiência administrativa ,Segurança,b,b,10,10,10,Mitouso,,,f,,c,f,seguranca,Nada piorou
+GilShow,63,60 e +,Feminino,6000,Centro,h,b,Ser trabalhador,Educação,c,c,9,8,5,,c,c,b,não fez nada,razoável,f,Nada mudou ,Saúde
+GilShow,19,18 a 21,Masculino,2000,Centro,c,a,Ter experiência administrativa ,Emprego,c,a,9,8,5,Magalhães,,,b,não gerou emprego,c,e,Nada mudou,Saúde
+GilShow,73,60 e +,Masculino,800,Chagas,a,d,,Saúde,c,c,10,10,0,adail,,c,,,a,e,Nada mudou,De tudo um pouco
+GilShow,41,40 a 49,Masculino,,União,c,a,Ser trabalhador,Emprego,c,c,10,8,5,Magalhães,,,b,não cumprio nada,b,d,Asfaltamento,desemprego
+GilShow,23,22 a 24,Feminino,650,Centro,e,a,Ser honesto,Salário,a,b,10,8,0,,c,c,b,tudo,razoável,d,Pagamento em dias,Nada piorou
+GilShow,18,18 a 21,Feminino,800,Itamarati,c,b,Ser honesto,Asfalto,c,a,10,10,0,,a,c,b,não fez nada,a,d,Nada mudou ,Nada piorou
+GilShow,17,16 e 17,Masculino,800,Santa Efigênia,e,b,Ser trabalhador,Emprego,a,a,5,8,3,,a,c,e,não conhece,c,a,De tudo um pouco,Nada piorou
+GilShow,48,40 a 49,Masculino,,Urucu,a,a,Ser trabalhador,Salário,c,c,10,9,0,adail,,e,c,não tem competencia,a,e,De tudo um pouco,Nada piorou
+GilShow,36,30 a 39,Masculino,,Centro,b,b,Ter experiência administrativa ,Saúde,c,c,10,8,0,,a,c,,,a,e,Nada mudou,De tudo um pouco
+GilShow,21,18 a 21,Feminino,650,Duque,f,b,Ser honesto,Emprego,b,a,9,6,2,,c,c,b,não fez nada,a,d,Pagamento em dias,Segurança
+GilShow,40,40 a 49,Masculino,4000,Centro,f,b,Ser honesto,Segurança,b,b,8,8,5,,a,c,b,não cumprio nada,a,d,Nada mudou,Nada piorou
+GilShow,36,30 a 39,Masculino,2000,Urucu,c,a,Ser trabalhador,Moradia,c,b,10,10,9,Mitouso,,,a,não fez nada,c,a,De tudo um pouco,Nada piorou
+GilShow,17,16 e 17,Feminino,1300,Tauá Mirim,e,b,Ser amigo,Moradia,c,b,10,10,10,Mitouso,,,a,pedofilia,razoável,c,De tudo um pouco,Nada piorou
+GilShow,22,22 a 24,Feminino,1300,Itamarati,f,a,Ser competente,Saúde,b,a,8,0,0,,c,,b,pessimo,a,d,Nada mudou,Saúde
+GilShow,18,18 a 21,Masculino,650,Santa Efigênia,c,a,Ser competente,Saúde,a,b,10,10,0,,d,,b,não fez nada,a,e,De tudo um pouco,Nada piorou
+GilShow,18,18 a 21,Feminino,100,Chagas,c,a,Ser amigo,Emprego,b,a,10,9,0,adail,,e,b,má adm,a,c,Nada mudou ,De tudo um pouco
+GilShow,47,40 a 49,Feminino,1800,Centro,f,a,Ser trabalhador,Saúde,a,b,8,8,0,adail,,c,b,não fez nada,a,e,De tudo um pouco,Saúde
+GilShow,40,40 a 49,Masculino,650,Duque,a,a,Ser competente,Educação,a,a,10,10,10,Mitouso,,a,d,não conhece,c,a,De tudo um pouco,Nada piorou
+GilShow,27,25 a 29,Masculino,1300,Chagas,f,a,Ser competente,Asfalto,a,a,10,10,5,,e,d,c,não conhece,a,a,De tudo um pouco,Nada piorou
+GilShow,53,50 a 59,Masculino,1000,Centro,c,a,Ter experiência administrativa ,Saneamento e urbanização,c,c,10,10,0,adail,,c,b,só ajuda quem tem,a,a,Nada mudou ,De tudo um pouco
+GilShow,33,30 a 39,Masculino,8000,União,e,b,Responsabilidade,Salário,a,b,7,10,0,Magalhães,,,b,não fez nada,a,d,De tudo um pouco,Nada piorou
+GilShow,23,22 a 24,Masculino,500,Centro,f,b,Ser honesto,Salário,a,a,10,8,1,adail,,c,b,não fez nada,a,b,De tudo um pouco,Nada piorou
+GilShow,22,22 a 24,Masculino,1200,Chagas,c,a,Ser competente,Emprego,b,b,10,10,0,,a,c,b,não fez nada,a,a,Nada mudou,De tudo um pouco
+GilShow,17,16 e 17,Feminino,800,União,e,a,Ser honesto,Salário,b,b,9,7,0,adail,,c,b,má adm,a,e,Nada mudou,De tudo um pouco
+GilShow,16,16 e 17,Feminino,500,Centro,e,a,Ser competente,Outros,a,a,3,5,0,,d,,b,não fez nada,b,d,Nada mudou,De tudo um pouco
+GilShow,23,22 a 24,Feminino,100,Itamarati,f,c,Ser honesto,Moradia,b,a,10,9,1,,c,c,b,não fez nada,a,e,De tudo um pouco,Nada piorou
+GilShow,40,40 a 49,Masculino,500,Centro,b,a,Ser amigo,Emprego,a,a,10,10,9,,a,e,d,não conhece,razoável,a,Nada mudou ,Nada piorou
+GilShow,36,30 a 39,Masculino,1300,Santa Efigênia,a,a,Ser honesto,Emprego,a,a,8,10,10,Mitouso,,,a,não gosto,c,e,De tudo um pouco,Nada piorou
+GilShow,22,22 a 24,Masculino,1800,Centro,c,a,Ser honesto,Transporte,c,c,10,10,5,,c,c,b,não fez nada,a,d,Nada mudou ,Nada piorou
+GilShow,54,50 a 59,Masculino,10000,Santa Helena,f,a,Ser honesto,Saúde,c,b,8,5,3,,a,c,c,inconpetente,a,c,De tudo um pouco,Nada piorou
+GilShow,30,30 a 39,Masculino,1200,União,f,a,Ser competente,Emprego,b,a,8,4,0,,a,e,b,inconpetente,a,e,Nada mudou ,Nada piorou
+GilShow,18,18 a 21,Feminino,650,Centro,c,a,Ser de Coari,Saúde,b,a,8,10,8,,e,d,a,não fez nada,b,b,Nada mudou,De tudo um pouco
+GilShow,49,40 a 49,Feminino,1200,Centro,e,a,Ser honesto,Emprego,a,a,0,7,8,Mitouso,,,f,,c,a,De tudo um pouco,Nada piorou
+Emily,35,30 a 39,Feminino,200,União,c,a,Ser trabalhador,Emprego,c,a,10,0,10,,f,,c,não conhece,c,f,,salário
+Emily,24,22 a 24,Feminino,,Centro,h,a,Ter experiência administrativa ,Saúde,b,c,8,0,5,,h,,e,não gosto dele,b,f,Nada mudou,desemprego
+Emily,36,30 a 39,Feminino,600,Urucu,e,a,Ter experiência administrativa ,Saúde,b,b,9,5,0,,a,,b,má adm,a,f,,Nada piorou
+Emily,47,40 a 49,Masculino,300,União,c,a,Ter experiência administrativa ,Corrupção,c,a,9,5,0,Magalhães,c,c,a,não gosto,b,f,Não tem preserguição,Outros
+Emily,50,50 a 59,Masculino,,Itamarati,c,b,Ter experiência administrativa ,Moradia,b,b,10,10,0,adail,a,e,b,não gosto dele,a,f,Nada mudou,salário
+Emily,24,22 a 24,Masculino,600,Itamarati,c,a,Ser de Coari,Emprego,c,a,10,9,0,Magalhães,,,b,,a,f,Nada mudou,De tudo um pouco
+Emily,27,25 a 29,Masculino,400,Z - Rural,c,a,Ser de Coari,Emprego,a,a,10,7,0,Magalhães,,,b,,a,f,Não sei,Nada piorou
+Emily,43,40 a 49,Masculino,1300,Do Pera,h,a,Ser honesto,Saúde,b,c,8,8,7,,f,,a,varias,a,f,Outros,infraestrutura
+Emily,20,18 a 21,Masculino,1600,Urucu,h,a,Ter experiência administrativa ,Saúde,a,b,8,8,3,,c,,b,corrupto,b,f,Pagamento em dias,Saúde
+Emily,45,40 a 49,Feminino,,Espirito Santo,c,b,Ter experiência administrativa ,Emprego,b,c,10,0,0,adail,a,c,b,me demitiu,a,d,Nada mudou,Outros
+Emily,21,18 a 21,Masculino,,Santa Helena,c,b,Ser trabalhador,Saúde,a,a,5,4,0,Magalhães,c,c,b,o municipio abandonado,a,f,Não sei,Saúde
+Emily,23,22 a 24,Masculino,1000,Chagas,e,a,Ser de Coari,Educação,b,a,10,10,0,adail,a,d,b,salario atrasado / infraestrutura,a,d,Nada mudou,Segurança
+Emily,19,18 a 21,Masculino,200,Tauá Mirim,c,d,Ser amigo,Outros,b,a,10,8,0,,c,c,b,promete e não cumpri,b,f,Nada mudou,Nada piorou
+Emily,48,40 a 49,Masculino,500,Z - Rural,c,a,Ser honesto,Corrupção,c,c,8,8,7,,e,d,c,foi tem dinheiro,c,f,Pagamento em dias,Segurança
+Emily,49,40 a 49,Feminino,530,Z - Rural,c,a,Ser honesto,Corrupção,a,c,7,1,8,raison,e,e,f,,c,f,Não sei,Segurança
+Emily,26,25 a 29,Masculino,1000,Do Pera,c,a,Ser honesto,Emprego,a,a,10,9,5,adail,a,c,e,não conhece,b,b,Não sei,não sei
+Emily,20,18 a 21,Feminino,1300,Chagas,f,a,Ser honesto,Emprego,a,a,9,8,0,,f,,b,deixo a cidade abandonada,a,d,Não sei,Economia
+Wanessa,29,25 a 29,Feminino,3000,União,g,a,Responsabilidade,Segurança,c,a,7,5,0,adail,a,indicado pelo adail,b,não fez nada,a,e,Nada mudou,Nada piorou
+Wanessa,26,25 a 29,Feminino,650,Espirito Santo,c,a,Ser trabalhador,Saúde,b,a,10,0,0,adail,a,e,b,não fez nada,a,e,Nada mudou,desemprego
+Wanessa,23,22 a 24,Feminino,650,Espirito Santo,f,a,Ser honesto,Salário,c,c,10,0,0,adail,a,c,b,não goto,a,d,Nada mudou,De tudo um pouco
+Wanessa,28,25 a 29,Feminino,650,Santa Helena,c,c,Ser honesto,Renda,a,a,10,10,0,adail,a,indeciso,b,pessimo prefeito,a,e,Nada mudou,Economia
+Wanessa,26,25 a 29,Feminino,650,Urucu,f,b,Ter experiência administrativa ,Saúde,b,c,8,6,0,Magalhães,c,c,a,não gosto,a,d,Limpeza,Saúde
+Wanessa,41,40 a 49,Masculino,5000,Itamarati,d,b,Ser honesto,Emprego,a,b,7,7,2,Magalhães,c,c,a,tive problema,a,d,Nada mudou,Segurança
+Wanessa,22,22 a 24,Feminino,180,Urucu,c,a,Ter boa proposta,Emprego,a,a,10,8,0,adail,a,,b,não fez nada,a,c,Nada mudou,infraestrutura
+Wanessa,29,25 a 29,Feminino,650,Centro,f,b,Ser competente,Saúde,a,a,8,9,2,,a,c,b,não gosto,a,d,Nada mudou,Segurança
+Wanessa,16,16 e 17,Feminino,1000,Urucu,e,b,Ser honesto,Administração pública,a,a,10,9,2,adail,a,c,b,falta de competencia,a,d,educação,Outros
+Wanessa,28,25 a 29,Feminino,600,Urucu,f,a,Carater,Saúde,c,c,8,6,0,,a,c,b,mal carater,a,d,Nada mudou,Saúde
+Wanessa,29,25 a 29,Feminino,5000,Chagas,d,b,Ser competente,Renda,b,a,9,0,0,adail,a,c,b,deixou coari de lado,a,d,Nada mudou,Saúde
+Wanessa,18,18 a 21,Feminino,650,Tauá Mirim,e,a,Ser competente,Saneamento e urbanização,c,a,9,6,0,sabino,a,c,b,não fez nada,a,d,Nada mudou,desemprego
+Wanessa,28,25 a 29,Feminino,500,Chagas,f,a,Ser trabalhador,Renda,c,b,10,9,0,,d,a,b,não fez nada,a,d,Nada mudou,renda
+Wanessa,24,22 a 24,Feminino,600,Urucu,d,b,Ser competente,Segurança,c,a,10,10,2,,a,e,g,falta de competencia,a,d,Nada mudou,educação
+Wanessa,28,25 a 29,Feminino,800,Centro,f,a,Compromisso com o povo,Educação,a,b,9,8,9,Mitouso,b,b,a,pedofilia,c,d,Não sei,Saúde
+Wanessa,29,25 a 29,Feminino,1000,Tauá Mirim,g,b,Compromisso com o povo,Emprego,c,a,7,6,4,,e,g,a,enganou a populacao,c,f,educação,desemprego
+Wanessa,37,30 a 39,Masculino,150000,União,c,b,Ser competente,Saúde,a,a,1,10,0,adail,a,c,b,pilantra,a,d,Nada mudou,Saúde
+Wanessa,22,22 a 24,Feminino,1300,União,f,b,Ser honesto,Administração pública,a,a,8,5,3,Magalhães,c,c,a,não sabe,a,f,Nada mudou,renda
+Wanessa,29,25 a 29,Feminino,1000,Chagas,f,b,Ser honesto,Salário,a,a,9,9,0,adail,a,indicado pelo adail,b,não trabalha direito,a,e,Nada mudou,salário
+Wanessa,28,25 a 29,Feminino,1950,Urucu,g,a,Ser honesto,Emprego,c,c,8,7,2,,c,c,b,não fez nada,a,d,Nada mudou,De tudo um pouco
+Wanessa,18,18 a 21,Feminino,400,Chagas,e,a,Ser honesto,Infraestrutura,a,a,10,9,0,,c,c,b,não gostei do governo,a,d,Nada mudou,desemprego
+Wanessa,29,25 a 29,Feminino,300,Urucu,c,a,Ser honesto,Corrupção,a,a,10,8,0,,a,c,b,não fez nada,a,f,Nada mudou,De tudo um pouco
+Wanessa,22,22 a 24,Feminino,1300,Chagas,g,b,Ser competente,Segurança,c,c,7,7,0,Magalhães,c,c,b,má adm,a,d,Nada mudou,Saúde
+Wanessa,28,25 a 29,Feminino,300,Do Pera,c,b,Outros,Infraestrutura,c,c,10,,0,,indeciso,indeciso,a,não me ajudou,Outros,f,Asfaltamento,não sei
+Wanessa,27,25 a 29,Feminino,650,Do Pera,c,a,Ser honesto,Saúde,a,a,10,7,0,adail,a,c,b,me decepicionei,a,d,Nada mudou,Saúde
+Wanessa,29,25 a 29,Feminino,1500,Chagas,f,b,Ser honesto,Emprego,a,b,10,2,10,Mitouso,b,b,a,fez,c,a,Não sei,Segurança
+Wanessa,27,25 a 29,Feminino,4000,Santa Helena,h,a,Ser trabalhador,Saúde,a,b,8,8,0,adail,a,indicado pelo adail,b,não fez nada,a,e,Asfaltamento,Nada piorou
+Wanessa,27,25 a 29,Feminino,400,Duque,c,a,Ser honesto,Saúde,c,c,10,10,0,adail,a,c,b,não quero,a,d,Nada mudou,Nada piorou
+Wanessa,16,16 e 17,Feminino,3250,União,c,b,Ser honesto,Renda,b,a,10,9,10,Magalhães,c,c,b,não fez nada,a,d,seguranca,infraestrutura
+Wanessa,32,30 a 39,Masculino,1300,Centro,f,a,Ser honesto,Segurança,c,a,9,7,5,,a,a,c,sem motivo,a,d,Nada mudou,Segurança
+Wanessa,26,25 a 29,Feminino,,União,f,a,Ser competente,Emprego,b,b ,10,0,0,,f,e,a,pedofilia,a,d,Nada mudou,desemprego
+Wanessa,29,25 a 29,Feminino,,Santa Efigênia,f,a,Ser honesto,Emprego,b,b,10,0,0,,f,e,a,corrupto,a,d,Nada mudou,educação
+Wanessa,27,25 a 29,Feminino,682,União,e,a,Ser competente,Saúde,a,a,9,8,6,,e,d,b,não fez nada,a,f,Saúde,não sei
+Wanessa,18,18 a 21,Feminino,650,União,f,b,Ser trabalhador,Emprego,c,c,9,8,0,,d,a,a,fez muita coisa ruim,a,f,Nada mudou,De tudo um pouco
+Emily,17,16 e 17,Masculino,1300,Chagas,c,a,Ser honesto,Emprego,a,a,5,7,0,,c,c,b,faz nada,a,f,Asfaltamento,Outros
+Emily,24,22 a 24,Masculino,650,Urucu,e,b,Ter experiência administrativa ,Educação,c,c,5,6,2,,f,,c,carater,a,d,Nada mudou,Segurança
+Emily,20,18 a 21,Feminino,800,Itamarati,f,b,Ser de Coari,Emprego,b,a,10,8,0,,c,c,b,não fez nada pelo povo,b,d,educação,desemprego
+Emily,25,25 a 29,Masculino,650,Tauá Mirim,f,b,Ter experiência administrativa ,Moradia,b,c,8,7,2,,c,c,b,não cumprio nada,c,f,De tudo um pouco,educação
+Emily,19,18 a 21,Masculino,,Do Pera,e,b,Ser honesto,Corrupção,c,c,9,6,2,Magalhães,c,c,b,não faz o dever,a,d,Nada mudou,Outros
+Emily,19,18 a 21,Masculino,650,Do Pera,e,b,Ser honesto,Corrupção,c,c,8,10,0,Magalhães,c,c,b,não ajuda,a,f,Nada mudou,infraestrutura
+Emily,21,18 a 21,Masculino,1200,Urucu,f,b,Ser trabalhador,Segurança,a,b,7,8,0,Magalhães,c,c,a,corrupto,a,d,Nada mudou,Segurança
+Emily,22,22 a 24,Masculino,1200,Tauá Mirim,e,a,Ser honesto,Emprego,b,b,8,6,1,adail,a,c,b,desvio de verba,a,d,Nada mudou,Outros
+Emily,49,40 a 49,Masculino,3000,Centro,f,a,Ser honesto,Emprego,c,c,10,0,0,adail,a,c,b,roubo,a,f,Nada mudou,De tudo um pouco
+Emily,39,30 a 39,Masculino,1000,Duque,f,a,Ser honesto,Saneamento e urbanização,b,b,10,0,0,adail,a,c,b,inutil,a,f,Saúde,educação
+Emily,38,30 a 39,Masculino,650,Centro,f,a,Ser trabalhador,Saúde,a,b,8,8,0,Magalhães,c,c,b,não ta fazendo nada,a,d,Nada mudou,De tudo um pouco
+Emily,54,50 a 59,Masculino,1400,União,h,b,Ser trabalhador,Segurança,a,b,7,8,0,Magalhães,c,c,a,corrupto,a,c,Nada mudou,Segurança
+Emily,19,18 a 21,Masculino,1000,Urucu,f,a,Ter experiência administrativa ,Emprego,b,b,9,8,5,Magalhães,,,d,não conhece,razoável,f,Nada mudou,não sei
+Emily,20,18 a 21,Masculino,,Urucu,e,a,Ser competente,Emprego,b,a,9,7,6,,c,c,f,,b,c,Não sei,não sei
+Emily,31,30 a 39,Masculino,1000,Chagas,c,a,Ter experiência administrativa ,Saúde,b,b,8,8,0,adail,a,indicado pelo adail,b,esqueceu o povo,a,d,Nada mudou,De tudo um pouco
+Emily,32,30 a 39,Masculino,7000,Centro,h,a,Ser honesto,Corrupção,a,a,5,8,3,Magalhães,c,c,b,corrupto,a,d,Nada mudou,Segurança
+Emily,30,30 a 39,Feminino,871,Itamarati,h,a,Ser competente,Saúde,a,a,9,10,0,,a,e,b,piorou a cidade quer mudar agora ?,a,d,Pagamento em dias,desemprego
+Emily,28,25 a 29,Masculino,1500,Tauá Mirim,f,a,Ter experiência administrativa ,Emprego,b,a,9,7,0,adail,a,e,b,corrupto,a,d,Nada mudou,Segurança
+Emily,29,25 a 29,Masculino,600,Santa Helena,c,b,Ser honesto,Outros,c,b,8,9,0,Magalhães,c,c,e,não trabalha direito,a,d,Nada mudou,Nada piorou
+Emily,23,22 a 24,Masculino,2000,Duque,e,a,Ter experiência administrativa ,Emprego,b,b,3,7,0,Magalhães,c,c,b,má adm,a,d,Nada mudou,Outros
+Emily,19,18 a 21,Masculino,3250,União,e,,Ser competente,Segurança,b,b,7,3,2,Magalhães,c,c,a,roubo,a,d,Não sei,De tudo um pouco
+Emily,23,22 a 24,Masculino,783,Itamarati,f,b,Ser competente,Saúde,c,b,9,7,2,,a,c,b,não trabalha direito,a,e,Não sei,De tudo um pouco
+Emily,51,50 a 59,Masculino,1500,Duque,c,b,Ser honesto,Emprego,b,b,5,0,0,,c,c,a,não quero votar nele,Outros,d,Nada mudou,Nada piorou
+Emily,51,50 a 59,Feminino,600,Itamarati,c,a,Ter experiência administrativa ,Emprego,b,b,10,5,10,,c,c,f,,c,d,Não sei,Segurança
+Emily,27,25 a 29,Masculino,650,Urucu,c,b,Ser competente,Energia,b,b,10,5,10,Magalhães,b,,f,,c,a,De tudo um pouco,Nada piorou
+Emily,18,18 a 21,Masculino,1500,Itamarati,e,b,Ter experiência administrativa ,Educação,a,a,9,9,7,,a,c,b,falta de experiencia na adm,b,d,Nada mudou,não sei
+Emily,30,30 a 39,Masculino,1200,Espirito Santo,h,a,Ter experiência administrativa ,Infraestrutura,b,b,7,7,7,Magalhães,c,c,a,corrupto,razoável,c,Nada mudou,Segurança
+Emily,18,18 a 21,Masculino,3900,Espirito Santo,f,a,Ter experiência administrativa ,Segurança,b,a,9,8,8,Magalhães,c,c,a,propina / pedofiliz,c,b,Pagamento em dias,Segurança
+Emily,27,25 a 29,Masculino,650,Espirito Santo,f,a,Ser honesto,Salário,a,b,10,8,0,,c,c,b,carater,a,f,Não sei,não sei
+Emily,17,16 e 17,Masculino,,Tauá Mirim,e,a,Ser honesto,Educação,b,b,9,9,0,,d,,b,inconpetente,a,f,Não sei,Segurança
+Emily,18,18 a 21,Masculino,,Itamarati,e,a,Ser honesto,Emprego,b,a,9,5,4,,c,c,b,não gosto dele,a,f,Nada mudou,salário
+Emily,21,18 a 21,Masculino,630,Espirito Santo,f,a,Ser honesto,Emprego,b,a,8,7,0,Magalhães,c,c,b,todos os motivos,a,c,Outros,Segurança
+GilShow,32,30 a 39,Feminino,800,Duque,f,a,Ser honesto,Emprego,c,c,10,10,0,Magalhães,,,b,não ajuda,a,d,Nada mudou,De tudo um pouco
+GilShow,73,60 e +,Feminino,650,Chagas,c,a,Ser honesto,Saúde,c,c,10,8,5,,c,c,b,não paga o pessoal,c,d,Nada mudou,Nada piorou
+GilShow,32,30 a 39,Feminino,1800,Chagas,g,a,Ser honesto,Saúde,a,a,9,9,5,,f,,c,não fez um bom trabalho,c,f,De tudo um pouco,Nada piorou
+GilShow,61,60 e +,Feminino,100,Centro,f,a,Ser honesto,Saúde,a,b,10,9,0,Magalhães,f,,b,não cumprio nada,a,d,De tudo um pouco,De tudo um pouco
+GilShow,30,30 a 39,Feminino,2500,Santa Helena,f,a,Ter boa proposta,Saneamento e urbanização,c,a,8,8,3,,c,c,a,lavagem de dinheiro,a,d,De tudo um pouco,Nada piorou
+GilShow,30,30 a 39,Feminino,1900,Chagas,f,a,Ser competente,Salário,a,a,9,10,8,,f,,f,,c,f,De tudo um pouco,Nada piorou
+GilShow,50,50 a 59,Feminino,650,Duque,b,b,Ser trabalhador,Emprego,a,a,7,10,0,,a,c,b,mentiu,a,e,Nada mudou,Nada piorou
+GilShow,34,30 a 39,Feminino,700,Itamarati,b,a,Ser de Coari,Saúde,c,a,9,10,0,Magalhães,,,b,não fez nada,a,d,Nada mudou,De tudo um pouco
+GilShow,51,50 a 59,Feminino,650,Tauá Mirim,c,a,Ser competente,Renda,b,b,10,0,10,Mitouso,,,c,não conhece,c,e,De tudo um pouco,Nada piorou
+GilShow,53,50 a 59,Feminino,1000,Espirito Santo,f,a,Ser honesto,Emprego,c,c,9,9,5,,c,c,b,não fez nada,a,d,De tudo um pouco,Nada piorou
+GilShow,33,30 a 39,Feminino,1000,União,f,a,Ser honesto,Saúde,c,c,9,8,7,,indeciso,,a,não fez nada,a,d,Nada mudou,De tudo um pouco
+GilShow,34,30 a 39,Feminino,1900,Chagas,h,a,Ser competente,Saúde,c,c,8,8,0,Magalhães,c,c,b,má adm,a,d,Outros,Saúde
+GilShow,42,40 a 49,Feminino,2000,Urucu,f,a,Ser de Coari,Saneamento e urbanização,c,c,10,10,10,Mitouso,b,b,a,Pedofilo,razoável,d,De tudo um pouco,Nada piorou
+GilShow,60,60 e +,Feminino,650,Itamarati,b,a,Ser de Coari,Saúde,a,a,10,9,9,,c,c,a,Pedofilo,razoável,f,De tudo um pouco,Nada piorou
+GilShow,35,30 a 39,Feminino,2000,Tauá Mirim,f,a,Ser competente,,c,c,9,9,8,,f,e,a,Corrupto,a,d,Nada mudou,Nada piorou
+GilShow,46,40 a 49,Feminino,600,Do Pera,b,a,Ser competente,Saúde,c,c,10,10,0,,a,c,b,Não fez nada,a,e,Nada mudou,Nada piorou
+GilShow,32,30 a 39,Feminino,1300,Chagas,f,a,Ser honesto,Saúde,a,a,8,8,0,Magalhães,c,c,b,Não Paga,a,d,Nada mudou,De tudo um pouco
+GilShow,42,40 a 49,Feminino,20000,Itamarati,c,b,Ser trabalhador,Emprego,c,c,8,10,0,,f,e,b,Não fez nada,a,f,Nada mudou,De tudo um pouco
+GilShow,42,40 a 49,Feminino,170,Duque,c,a,Ser competente,Saúde,c,c,10,8,0,,a,e,b,Não fez nada,a,f,Nada mudou,De tudo um pouco
+GilShow,33,30 a 39,Feminino,240,Itamarati,c,a,Ser honesto,Emprego,a,a,10,9,0,,f,e,b,Mentiu,a,e,De tudo um pouco,desemprego
+GilShow,53,50 a 59,Feminino,800,Santa Efigênia,b,a,Ser honesto,Saúde,c,c,9,5,0,Adail,a,e,b,Não Presta,a,e,Nada mudou,Nada piorou
+GilShow,30,30 a 39,Feminino,2000,Espirito Santo,e,a,Ser amigo,Salário,c,c,8,5,7,Mitouso,b,b,a,Má Adm,b,c,De tudo um pouco,Nada piorou
+GilShow,48,40 a 49,Feminino,650,União,b,a,Ter experiência administrativa ,Emprego,b,b,10,0,0,,a,a,b,Nunca Ajudou,a,f,De tudo um pouco,Nada piorou
+GilShow,34,30 a 39,Feminino,1200,União,f,d,Ser honesto,Outros,b,b,10,0,6,Mitouso,b,b,a,Carrasco,c,e,De tudo um pouco,Nada piorou
+GilShow,40,40 a 49,Feminino,650,Santa Efigênia,b,b,Ter experiência administrativa ,Emprego,a,a,10,10,0,Adail,a,c,b,Não tem experiencia,a,d,Nada mudou,De tudo um pouco
+GilShow,57,50 a 59,Feminino,,Itamarati,a,b,Ser trabalhador,Segurança,c,c,10,0,5,,b,b,f,,razoável,f,De tudo um pouco,Nada piorou
+GilShow,39,30 a 39,Feminino,1000,Santa Helena,b,a,Ser amigo,Asfalto,b,a,9,7,10,Adail,a,e,c,Não gosta dele,a,f,De tudo um pouco,infraestrutura
+GilShow,31,30 a 39,Feminino,650,União,e,a,Ser trabalhador,Saúde,a,a,10,9,0,,a,c,b,Não tá sendo um bom adm,c,d,Nada mudou,Nada piorou
+GilShow,16,16 e 17,Feminino,650,Urucu,e,a,Ser competente,Asfalto,a,b,10,9,0,Magalhães,c,c,b,Não fez nada,a,d,Nada mudou,Nada piorou
+GilShow,36,30 a 39,Feminino,2000,Tauá Mirim,e,a,Ser honesto,Saúde,b,b,6,6,5,,d,a,a,Corrupto,a,d,De tudo um pouco,Nada piorou
+Wanessa,21,18 a 21,Feminino,3000,Centro,f,b,Ter boa proposta,Salário,a,a,8,9,5,Magalhães,c,c,b,Má Adm,a,f,Nada mudou,Economia
+Wanessa,24,22 a 24,Feminino,1000,Urucu,f,a,Ser honesto,Segurança,b,b,8,5,0,,c,c,b,Não fez nada,a,d,Limpeza,desemprego
+Wanessa,54,50 a 59,Masculino,2000,Centro,f,c,Responsabilidade,Renda,a,b,10,7,0,Magalhães,c,c,a,Pelo que ele fez,a,d,Nada mudou,salário
+Wanessa,60,60 e +,Masculino,6000,Centro,g,a,Ser competente,Emprego,a,b,9,10,0,Magalhães,c,c,b,Não merece,a,d,Nada mudou,Saúde
+Wanessa,16,16 e 17,Feminino,1300,Duque,e,a,Ser honesto,Salário,a,b,9,6,0,Magalhães,c,c,b,Não quero,a,d,Nada mudou,salário
+Wanessa,18,18 a 21,Feminino,1300,União,g,b,Carater,Infraestrutura,a,c,5,7,0,,indeciso,indeciso,a,Não quero,Outros,d,Nada mudou,De tudo um pouco
+Wanessa,24,22 a 24,Feminino,650,Do Pera,d,b,Ser honesto,Infraestrutura,c,c,10,8,0,,a,c,b,Não voto nele,a,f,Nada mudou,não sei
+Wanessa,29,25 a 29,Feminino,10000,Tauá Mirim,h,c,Ser honesto,Outros,c,c,5,,5,,indeciso,indeciso,,,Outros,f,Saúde,Saneamento
+Wanessa,26,25 a 29,Feminino,1300,União,f,a,Ser honesto,Emprego,c,c,8,8,4,Magalhães,c,c,b,Má Adm,a,f,Pagamento em dias,desemprego
+Wanessa,20,18 a 21,Feminino,650,Urucu,f,a,Ser honesto,Saúde,c,c,8,8,5,,e,d,b,Não fez nada,a,f,Nada mudou,Saúde
+Wanessa,29,25 a 29,Feminino,,Itamarati,f,b,Carater,Saúde,c,c,9,9,0,Adail,a,e,b,Péssimo,a,e,Nada mudou,De tudo um pouco
+Wanessa,29,25 a 29,Feminino,500,Santa Efigênia,d,b,Dignidade,Saúde,a,b,10,8,5,Magalhães,c,c,b,Devagar,a,d,Nada mudou,Saúde
+Gabriel,63,60 e +,Masculino,500,Chagas,b,a,Ser religioso,Moradia,a,a,10,10,0,,a,c,b,,a,b,Nada mudou,desemprego
+Gabriel,40,40 a 49,Masculino,400,Itamarati,d,a,Ser honesto,Emprego,c,c,8,8,6,,c,c,a,Pedofilo,c,c,Outros,desemprego
+Gabriel,64,60 e +,Masculino,600,Duque,a,a,Ser honesto,Asfalto,b,b,8,8,7,,b,b,a,Prometia e não cumpria,a,c,Asfaltamento,desemprego
+Gabriel,53,50 a 59,Masculino,1500,Chagas,c,a,Ser trabalhador,,b,a,10,10,10,,b,b,a,Não me ajudou,a,d,Asfaltamento,Nada piorou
+Gabriel,36,30 a 39,Masculino,1300,União,f,a,Compromisso com o povo,Saúde,c,c,6,5,2,,a,c,e,Falta de compromisso,a,d,Não tem preserguição,Saúde
+Gabriel,45,40 a 49,Masculino,500,Chagas,c,a,Ser competente,Emprego,c,c,9,8,5,,c,c,a,,a,d,Nada mudou,salário
+Gabriel,55,50 a 59,Masculino,600,Duque,c,a,Ser honesto,Corrupção,c,a,0,0,0,,a,d,b,Enganou,a,b,Não tem preserguição,Economia
+Gabriel,38,30 a 39,Masculino,,União,c,a,Ser trabalhador,Emprego,c,c,8,5,3,,indeciso,indeciso,a,,a,f,De tudo um pouco,salário
+Gabriel,59,50 a 59,Masculino,,Chagas,c,a,Ser honesto,Asfalto,c,c,10,0,2,,e,d,a,,c,f,Nada mudou,infraestrutura
+Gabriel,45,40 a 49,Masculino,650,Chagas,a,a,,Emprego,c,c,10,9,10,,b,b,,,c,c,,Outros
+Gabriel,45,40 a 49,Masculino,700,Itamarati,c,a,Ser honesto,Administração pública,a,a,10,5,0,,c,c,b,Má Adm,a,c,Nada mudou,salário
+Gabriel,34,30 a 39,Masculino,5000,Chagas,d,a,Ser honesto,Corrupção,c,c,10,7,0,,a,c,b,Dinheiro,a,c,Nada mudou,infraestrutura
+Gabriel,31,30 a 39,Masculino,200,Urucu,a,a,,,c,a,10,10,0,,a,c,b,,a,d,Nada mudou,Nada piorou
+Gabriel,34,30 a 39,Masculino,650,Chagas,f,b,Ser competente,Saúde,c,c,4,8,0,,f,e,f,,a,c,Nada mudou,infraestrutura
+Gabriel,37,30 a 39,Masculino,1200,Itamarati,f,a,Ser honesto,Saúde,c,c,8,8,0,,a,c,b,Enganou o povo,a,c,Nada mudou,desemprego
+Gabriel,52,50 a 59,Masculino,650,União,f,a,Ser religioso,Educação,b,b,6,0,6,,f,e,f,,c,d,De tudo um pouco,Segurança
+Gabriel,64,60 e +,Masculino,650,União,f,a,Ser honesto,Emprego,a,b,9,8,8,,a,c,,,c,f,Nada mudou,desemprego
+Gabriel,41,40 a 49,Masculino,6500,União,f,d,Ser honesto,Infraestrutura,c,b,8,8,6,,b,b,a,Moral,razoável,c,Nada mudou,infraestrutura
+Gabriel,78,60 e +,Feminino,800,União,a,a,Ser religioso,Emprego,a,a,8,10,0,,a,c,b,,a,c,Nada mudou,Saúde
+Gabriel,46,40 a 49,Masculino,1000,Espirito Santo,f,c,,Administração pública,c,c,5,0,0,,a,e,e,,a,d,Nada mudou,De tudo um pouco
+Gabriel,38,30 a 39,Masculino,700,União,c,d,Ter experiência administrativa ,Corrupção,c,c,10,5,10,,b,b,a,Perseguição,c,e,Nada mudou,Segurança
+Gabriel,33,30 a 39,Masculino,650,União,f,a,Ser competente,Saúde,c,a,9,6,0,,a,c,b,Falta de competencia,a,c,Nada mudou,infraestrutura
+Gabriel,60,60 e +,Masculino,1300,Urucu,f,a,Compromisso com o povo,Asfalto,c,c,10,10,7,,b,b,a,Corrupto,razoável,c,Nada mudou,
+Gabriel,50,50 a 59,Masculino,1000,União,c,a,Compromisso com o povo,Corrupção,c,c,10,10,0,,e,d,a,,a,d,Nada mudou,desemprego
+Gabriel,91,60 e +,Masculino,650,União,a,a,Ser honesto,Emprego,c,a,10,,10,,c,c,,,c,f,Nada mudou,salário
+Gabriel,49,40 a 49,Masculino,600,Chagas,c,a,Ser competente,Emprego,c,c,10,8,0,,c,c,b,aumentou o desemprego,a,c,Nada mudou,infraestrutura
+Gabriel,60,60 e +,Masculino,1000,Santa Efigênia,c,b,Ser honesto,Saúde,c,b,10,8,0,,c,c,a,,a,c,Nada mudou,Saúde
+Gabriel,43,40 a 49,Masculino,2000,Tauá Mirim,d,a,Ser honesto,Segurança,a,a,10,10,7,,a,b,,,a,b,Não tem preserguição,educação
+Gabriel,64,60 e +,Masculino,,Tauá Mirim,a,a,,Saúde,c,c,8,8,0,,,,,,a,f,Nada mudou,Saúde
+Gabriel,31,30 a 39,Masculino,650,Urucu,f,a,Ser competente,Outros,c,c,10,10,8,,,,d,Não conhece,c,d,Nada mudou,educação
+Gabriel,54,50 a 59,Masculino,650,Tauá Mirim,c,a,Ser honesto,Emprego,c,c,10,6,5,,c,c,a,Esqueceu o povo,razoável,c,Nada mudou,renda
+GilShow,41,40 a 49,Feminino,600,Urucu,b,a,Ser amigo,Saúde,c,c,10,0,0,Adail,a,e,b,Não fez nada,a,d,Nada mudou,De tudo um pouco
+GilShow,40,40 a 49,Feminino,650,Santa Helena,f,a,Ser competente,Salário,c,a,9,9,0,,a,c,b,Pessima adm,a,d,Nada mudou,De tudo um pouco
+GilShow,43,40 a 49,Feminino,400,União,c,b,Ser honesto,Saúde,c,c,7,7,0,,c,c,b,Muito Mal falado,a,f,Nada mudou,De tudo um pouco
+GilShow,26,25 a 29,Feminino,1300,Itamarati,f,b,Ser honesto,Emprego,c,a,7,7,0,Magalhães,c,c,b,Má Adm,a,e,De tudo um pouco,Outros
+GilShow,43,40 a 49,Feminino,1300,Chagas,f,a,Ser honesto,Saúde,b,a,8,8,4,Adail,a,c,b,Não fez nada,a,b,Nada mudou,De tudo um pouco
+GilShow,59,50 a 59,Feminino,400,Tauá Mirim,b,a,Ser trabalhador,Saúde,a,a,9,10,0,Adail,a,c,b,Não fez nada,a,d,Nada mudou,De tudo um pouco
+GilShow,30,30 a 39,Feminino,650,Urucu,f,a,Ser honesto,Educação,b,a,8,5,0,Adail,a,e,b,Pessima adm,a,e,Nada mudou,De tudo um pouco
+GilShow,51,50 a 59,Feminino,1200,União,f,b,Ser honesto,Saúde,a,c,9,9,5,Magalhães,c,c,a,Vingativo,a,e,Nada mudou,Nada piorou
+GilShow,63,60 e +,Feminino,600,Duque,a,b,Ser honesto,Asfalto,a,b,5,5,10,,b,b,a,Não fez nada,c,f,De tudo um pouco,Nada piorou
+GilShow,50,50 a 59,Feminino,500,União,b,b,Ser honesto,Salário,a,a,10,10,0,,a,c,b,Não fez nada,a,d,De tudo um pouco,De tudo um pouco
+GilShow,40,40 a 49,Feminino,,União,b,a,Ser honesto,Emprego,b,a,10,9,0,Adail,a,c,b,Não presta,a,e,Nada mudou,De tudo um pouco
+GilShow,61,60 e +,Feminino,650,Centro,b,a,Ser competente,Saneamento e urbanização,c,a,0,5,0,Adail,a,e,b,Não fez nada,a,e,Nada mudou,De tudo um pouco
+GilShow,33,30 a 39,Feminino,650,Do Pera,b,b,Ser honesto,Saúde,a,b,10,10,0,Adail,a,c,b,Má Adm,a,a,Nada mudou,De tudo um pouco
+GilShow,43,40 a 49,Feminino,1300,Chagas,f,b,Ser honesto,Saúde,c,c,8,5,0,Adail,a,c,b,Má Adm,a,e,De tudo um pouco,De tudo um pouco
+GilShow,67,60 e +,Feminino,650,Duque,a,a,Ser religioso,Emprego,c,c,10,10,10,,b,b,a,Falta de emprego,c,a,De tudo um pouco,Nada piorou
+GilShow,66,60 e +,Feminino,650,Chagas,a,b,Ser honesto,Saúde,a,c,10,10,0,,c,c,b,Devagar,a,f,Nada mudou,De tudo um pouco
+GilShow,38,30 a 39,Feminino,600,União,c,a,Ser honesto,Emprego,c,a,10,10,0,Adail,a,c,b,Não ajudou,a,e,Nada mudou,De tudo um pouco
+GilShow,62,60 e +,Feminino,650,Chagas,f,a,Ser competente,Asfalto,c,c,7,6,5,,f,e,a,Roubou,a,d,De tudo um pouco,Nada piorou
+GilShow,45,40 a 49,Feminino,650,Itamarati,d,b,Ser competente,Saúde,c,c,9,9,0,,a,e,b,Incompetente,a,e,Nada mudou,De tudo um pouco
+GilShow,46,40 a 49,Feminino,500,Duque,c,b,Ser competente,Outros,a,a,10,10,0,,a,e,b,Má Adm,a,a,Nada mudou,De tudo um pouco
+GilShow,62,60 e +,Feminino,600,Santa Helena,a,b,Ser religioso,Emprego,c,a,10,5,0,Magalhães,c,c,b,Prejudicou,a,d,De tudo um pouco,Nada piorou
+GilShow,19,18 a 21,Feminino,,União,f,b,Ser honesto,Emprego,a,c,8,9,1,,a,c,b,Má Adm,a,a,Nada mudou,De tudo um pouco
+GilShow,30,30 a 39,Feminino,600,Urucu,f,a,Ser trabalhador,Saúde,a,a,10,10,0,Adail,a,c,b,Não gosta dele,a,e,Nada mudou,De tudo um pouco
+GilShow,39,30 a 39,Feminino,300,Centro,f,a,Ser honesto,Saúde,a,c,8,8,0,,a,a,b,Má Adm,a,f,De tudo um pouco,Saúde
+GilShow,30,30 a 39,Feminino,1300,Chagas,f,b,Ser competente,Saúde,a,a,7,7,5,Magalhães,c,c,b,Má Adm,a,d,De tudo um pouco,Nada piorou
+GilShow,22,22 a 24,Feminino,1900,Urucu,g,b,Ser honesto,Educação,b,b,5,6,6,,b,b,a,Por causa dos escandalos,c,f,Nada mudou,Nada piorou
+GilShow,41,40 a 49,Feminino,650,Do Pera,e,a,Ser honesto,Salário,a,c,10,8,0,,c,c,b,Pagamento,a,f,Nada mudou,Nada piorou
+GilShow,63,60 e +,Feminino,1000,Itamarati,c,a,Ser trabalhador,Saúde,c,c,6,5,4,,f,e,f,,b,f,De tudo um pouco,Nada piorou
+GilShow,31,30 a 39,Feminino,120,Urucu,b,a,Ser honesto,Água,a,a,10,9,0,,a,c,b,Não Ajudou,razoável,b,Nada mudou,Nada piorou
+Emily,57,50 a 59,Masculino,3141,Itamarati,f,a,Ter experiência administrativa ,Segurança,b,c,8,8,4,Dr. Ercir,d,d,a,Historico Ruim,a,d,Não tem preserguição,Saúde
+Emily,18,18 a 21,Masculino,,Chagas,c,a,Ser trabalhador,Segurança,a,a,10,10,7,,a,b,c,Já tem muito dinheiro,c,f,Asfaltamento,Segurança
+Emily,29,25 a 29,Feminino,980,Itamarati,f,b,Carater,Corrupção,b,b,9,5,0,Adail,a,c,b,Falta de adm,a,d,Nada mudou,Segurança
+Emily,29,25 a 29,Feminino,1000,Centro,f,a,Carater,Corrupção,b,b,7,5,0,Adail,a,c,b,Não sabe adm,a,d,Nada mudou,Segurança
+Emily,20,18 a 21,Masculino,800,Duque,c,c,Ser trabalhador,Emprego,a,b,10,10,0,Adail,a,e,b,Não ajudar os pobres,a,d,Não sei,não sei
+Emily,18,18 a 21,Masculino,1000,Urucu,e,b,Ser competente,Energia,b,a,9,5,1,Adail,a,e,b,Falta de honestidade,d,d,Nada mudou,Segurança
+Emily,29,25 a 29,Masculino,1800,União,g,c,Ser de Coari,Corrupção,b,b,9,5,0,,c,c,b,Faz pouco,a,d,Outros,desemprego
+Emily,18,18 a 21,Masculino,,Duque,f,d,Ter experiência administrativa ,Emprego,b,b,8,7,5,,a,e,b,Não houve mudança na cidade,c,f,Asfaltamento,Economia
+Emily,16,16 e 17,Masculino,800,Chagas,c,b,Ser trabalhador,Segurança,b,a,8,5,0,,a,d,b,Não fez nada,a,d,Asfaltamento,Segurança
+Emily,16,16 e 17,Masculino,,União,e,a,Ser competente,Corrupção,b,b,5,5,7,,c,c,a,Pedofilo,b,f,Nada mudou,infraestrutura
+Emily,22,22 a 24,Masculino,,Itamarati,c,c,Ser honesto,Emprego,a,b,10,5,0,George (Conselho tutelar),George (Conselho tutelar),f,a,Tem que vir outro,a,b,Pagamento em dias,não sei
+Emily,19,18 a 21,Masculino,1000,Centro,f,a,Ter experiência administrativa ,Saúde,a,b,8,8,0,Magalhães,c,c,b,Não voto nele,a,f,Nada mudou,De tudo um pouco
+Emily,30,30 a 39,Masculino,570,Itamarati,c,a,Ter experiência administrativa ,Saúde,a,c,10,9,3,Adail,a,c,e,Não quero,a,f,Pagamento em dias,não sei
+Emily,18,18 a 21,Masculino,400,Tauá Mirim,e,b,Ser competente,Educação,b,a,8,5,2,Adail,a,c,b,Não fez nada,b,f,Não sei,salário
+Emily,19,18 a 21,Masculino,1300,Urucu,e,b,Ser honesto,Infraestrutura,b,a,8,6,2,Magalhães,c,c,b,Não fez nada,a,d,Nada mudou,De tudo um pouco
+Emily,16,16 e 17,Masculino,,Itamarati,e,a,Ter experiência administrativa ,Corrupção,a,b,7,8,3,,c,c,a,Não tem que sonhar mais,a,f,Não sei,Corrupção
+Emily,43,40 a 49,Feminino,650,Tauá Mirim,e,a,Ter experiência administrativa ,Saúde,a,b,10,9,0,Adail,a,c,b,Só tá fazendo agora no fim,a,f,Nada mudou,De tudo um pouco
+Emily,45,40 a 49,Feminino,1000,Tauá Mirim,c,a,Ser trabalhador,Saúde,b,b,10,10,3,,f,e,f,,b,f,,Segurança
+Emily,32,30 a 39,Masculino,800,Duque,e,a,Ter experiência administrativa ,Saúde,c,c,9,8,7,Magalhães,c,c,a,Pedofilo e corrupto,b,d,Pagamento em dias,Segurança
+Emily,23,22 a 24,Feminino,300,Duque,e,a,Ser trabalhador,Corrupção,b,b,10,9,0,Adail,a,c,b,Não ajudou,b,c,Nada mudou,De tudo um pouco
+Emily,79,60 e +,Feminino,650,Tauá Mirim,c,a,Ser honesto,Saúde,b,b,5,2,9,Mitouso,b,b,a,Pedofilo e abuso de poder,c,f,Não sei,Nada piorou
+Emily,32,30 a 39,Feminino,135,Tauá Mirim,b,a,Outros,Emprego,c,c,10,5,0,,c,c,b,Adm Fraca,b,f,Nada mudou,desemprego
+Emily,32,60 e +,Masculino,2000,Tauá Mirim,f,c,Ter experiência administrativa ,Emprego,c,b,10,8,7,Mitouso,b,b,a,Por td que ele fez de ruim,c,f,Não tem preserguição,Infraestrutura
+Emily,20,18 a 21,Masculino,1000,Tauá Mirim,g,b,Ser honesto,Emprego,c,c,9,9,7,,b,b,a,Voraz mostrou quem ele é,b,c,Pagamento em dias,Infraestrutura
+Emily,43,40 a 49,Masculino,4000,Tauá Mirim,e,c,Ter experiência administrativa ,Segurança,b,b,8,5,8,,b,b,a,Pedofilia,c,d,Saúde,Segurança
+Emily,19,18 a 21,Masculino,1000,Duque,e,a,Ser trabalhador,Emprego,c,b,8,6,0,Magalhães,c,c,b,Não fez nada,a,f,Nada mudou,Nada piorou
+Emily,80,60 e +,Feminino,650,Tauá Mirim,c,b,Ser de Coari,Emprego,b,b,0,0,10,Mitouso,b,b,a,"Pedofilo, ladrão e perseguidor",c,c,Asfaltamento,não sei
+Emily,40,40 a 49,Masculino,1350,Tauá Mirim,g,b,Carater,Emprego,b,b,5,0,8,Mitouso,b,b,a,Corrupto e pedofilo,c,f,Não tem preserguição,Economia
+Emily,43,40 a 49,Feminino,,Tauá Mirim,f,b,Ser competente,Saúde,b,a,10,4,0,Adail,a,indicado pelo adail,b,Pessima adm,a,d,Nada mudou,salário
+Emily,21,18 a 21,Feminino,,Tauá Mirim,c,c,,Educação,b,b,,4,6,,f,e,b,Sem motivo,a,d,Nada mudou,Nada piorou
+Emily,75,60 e +,Feminino,650,Tauá Mirim,c,a,Ser amigo,Saúde,b,c,9,7,7,,f,e,f,,a,f,Pagamento em dias,não sei
+Emily,77,60 e +,Feminino,,Tauá Mirim,a,b,Ser honesto,Emprego,b,b,10,10,10,Mitouso,b,b,a,Pedofilo,c,f,Não sei,Nada piorou
+Emily,38,30 a 39,Masculino,1500,Duque,c,a,Ser honesto,Saúde,b,b,10,8,6,,f,e,f,,b,f,Não sei,Segurança
+GilShow,24,22 a 24,Masculino,2000,Espirito Santo,f,a,Ser trabalhador,Saúde,b,b,5,4,10,Mitouso,b,b,c,Não vale nada,c,a,Nada mudou,Nada piorou
+GilShow,63,60 e +,Masculino,1000,Urucu,e,a,Ser honesto,Saúde,a,a,8,10,0,Adail,a,e,b,Não aprovado,a,e,Nada mudou,De tudo um pouco
+GilShow,33,30 a 39,Feminino,,Urucu,c,a,Ser honesto,Emprego,a,a,10,10,0,Adail,a,e,b,Não ajudar os pobres,a,e,Nada mudou,De tudo um pouco
+GilShow,62,60 e +,Feminino,700,Urucu,a,a,Ser competente,Emprego,b,a,8,7,0,,a,e,f,,a,f,Nada mudou,Nada piorou
+GilShow,21,18 a 21,Feminino,650,Urucu,e,a,Ter experiência administrativa ,Emprego,a,b,10,5,0,Adail,a,e,c,Não conhece,a,e,Nada mudou,De tudo um pouco
+GilShow,25,25 a 29,Masculino,,Urucu,b,b,Ser competente,Emprego,c,c,10,6,0,,a,c,b,Não fez nada,a,d,Nada mudou,De tudo um pouco
+GilShow,50,50 a 59,Feminino,1500,Urucu,g,b,Ter experiência administrativa ,Saúde,b,b,8,5,4,,c,c,b,Má Adm,a,d,De tudo um pouco,Nada piorou
+GilShow,50,50 a 59,Feminino,650,Urucu,c,a,Ser honesto,Educação,b,b,8,7,3,Magalhães,c,c,a,Pedofilo,a,d,De tudo um pouco,Nada piorou
+GilShow,50,50 a 59,Masculino,400,Urucu,b,a,Ser competente,Emprego,a,b,10,10,0,Magalhães,c,c,e,Não fez nada,a,d,Nada mudou,De tudo um pouco
+GilShow,19,18 a 21,Feminino,800,Urucu,e,b,Ser honesto,Saúde,a,a,8,10,3,,a,c,b,Não Ajudou,a,d,Nada mudou,De tudo um pouco
+GilShow,40,40 a 49,Feminino,1300,Urucu,c,a,Ser competente,Saúde,c,c,8,8,5,,c,c,b,Desemprego,a,d,De tudo um pouco,Nada piorou
+GilShow,30,30 a 39,Masculino,1200,Urucu,f,b,Ser trabalhador,Segurança,a,b,7,9,0,Magalhães,c,c,a,Corrupto,a,d,Nada mudou,De tudo um pouco
+GilShow,61,60 e +,Feminino,650,Urucu,a,a,Ser honesto,Asfalto,c,c,10,10,10,,e,d,c,Já tem muito dinheiro,a,f,Nada mudou,Nada piorou
+GilShow,53,50 a 59,Masculino,2500,Urucu,f,a,Ser honesto,Saúde,b,a,10,8,0,,a,e,c,Corrupto,a,d,De tudo um pouco,Nada piorou
+GilShow,25,25 a 29,Feminino,650,Espirito Santo,c,b,Ser honesto,Saúde,c,a,9,8,0,Magalhães,c,c,b,Má Adm,a,b,De tudo um pouco,De tudo um pouco
+GilShow,60,60 e +,Feminino,800,Espirito Santo,a,a,Ser honesto,Saúde,a,a,10,10,9,Mitouso,b,b,a,Acabou com a cidade,a,a,Nada mudou,Nada piorou
+GilShow,46,40 a 49,Masculino,,Espirito Santo,f,a,Ter experiência administrativa ,Emprego,c,c,10,0,0,Adail,a,e,e,Não fez nada,a,e,Nada mudou,De tudo um pouco
+GilShow,39,30 a 39,Masculino,650,Espirito Santo,b,a,Ser trabalhador,Saúde,c,c,7,5,0,,a,c,b,Não fez nada,a,d,Nada mudou,Nada piorou
+GilShow,39,30 a 39,Feminino,100,Espirito Santo,b,a,Ser honesto,Saúde,a,a,10,10,0,Adail,a,e,b,Não fez nada,a,e,Nada mudou,Nada piorou
+GilShow,69,60 e +,Masculino,650,Espirito Santo,a,a,Ser honesto,Emprego,a,a,6,6,5,,f,e,f,,b,f,Nada mudou,Nada piorou
+GilShow,29,25 a 29,Masculino,1500,Espirito Santo,f,b,Ser trabalhador,Saúde,b,b,7,9,10,Mitouso,b,b,d,Não conhece,c,d,Nada mudou,Nada piorou
+Wanessa,17,16 e 17,Feminino,650,Santa Helena,e,b,Ser honesto,Emprego,c,c,9,7,0,Adail,a,c,b,Não fez nada,a,d,Nada mudou,De tudo um pouco
+Wanessa,18,18 a 21,Feminino,650,Santa Helena,e,a,Ser honesto,Emprego,c,a,8,7,0,Adail,a,c,b,Parou a cidade,a,d,Nada mudou,infraestrutura
+Wanessa,49,40 a 49,Masculino,1000,Santa Helena,e,b,Ser trabalhador,Emprego,c,c,10,10,0,Adail,a,indeciso,b,Não fez nada,a,e,Nada mudou,desemprego
+Wanessa,23,22 a 24,Feminino,400,Santa Helena,d,b,Carater,Emprego,c,a,10,10,0,Adail,a,indicado pelo adail,b,Por tudo,a,f,Não sei,Saúde
+Wanessa,61,60 e +,Feminino,1300,Santa Helena,f,a,Carater,Emprego,c,c,8,5,6,,e,d,a,Pedofilo,razoável,f,Não tem preserguição,não sei
+Wanessa,42,40 a 49,Feminino,1300,Santa Helena,f,a,Ser competente,Saúde,c,c,10,9,2,,a,c,b,Não fez nada,a,d,Pagamento em dias,Saúde
+Wanessa,44,40 a 49,Masculino,650,Santa Helena,c,a,Ser competente,Corrupção,b,b,0,8,0,,e,d,b,Má Adm,á,d,saúde,Saneamento
+Wanessa,30,30 a 39,Masculino,1300,Santa Helena,d,a,Responsabilidade,Saúde,c,c,9,10,0,,a,c,b,Má Adm,a,d,Nada mudou,Saúde
+Wanessa,39,30 a 39,Masculino,500,Santa Helena,c,b,Ter boa proposta,Emprego,c,c,5,5,0,Adail,a,c,b,Enganou o povo,a,d,Nada mudou,De tudo um pouco
+Wanessa,24,22 a 24,Masculino,,Santa Helena,c,c,Ser honesto,Segurança,c,c,5,,5,,f,e,a,Pa não,razoável,c,educação,Segurança
+Wanessa,35,30 a 39,Masculino,650,Santa Helena,c,a,Ser honesto,Emprego,c,c,10,0,0,Adail,a,e,b,Não tá nem ai pro povo,a,e,Nada mudou,De tudo um pouco
+Wanessa,29,25 a 29,Masculino,650,Santa Helena,c,a,Ser competente,Emprego,b,b,10,0,0,Adail,a,e,b,Mentiroso,a,d,Nada mudou,desemprego
+Wanessa,60,60 e +,Masculino,650,Santa Helena,f,a,Ser trabalhador,Saneamento e urbanização,c,c,8,5,0,Adail,a,indicado pelo adail,b,Não fez nada,a,e,Nada mudou,infraestrutura
+Wanessa,21,18 a 21,Masculino,1500,Santa Helena,g,c,Responsabilidade,Infraestrutura,a,a,9,9,3,,a,d,b,Falta de respeito,a,d,Nada mudou,Nada piorou
+Wanessa,65,60 e +,Feminino,300,Santa Efigênia,a,a,Ser honesto,Saúde,a,b,10,10,0,Magalhães,c,c,b,Não fez nada,a,d,Não sei,De tudo um pouco
+Wanessa,19,18 a 21,Masculino,600,Santa Efigênia,e,b,Ser competente,Emprego,c,c,9,9,3,,c,c,b,Prometia e não cumpria,a,f,Nada mudou,desemprego
+Wanessa,16,16 e 17,Masculino,640,Santa Helena,c,b,Ser honesto,Infraestrutura,c,c,10,5,9,Adail,a,d,d,Não conhece,razoável,c,educação,salário
+Wanessa,22,22 a 24,Masculino,650,Santa Helena,c,a,Carater,Infraestrutura,a,a,9,10,a,Magalhães,c,c,b,Não gosta dele,a,d,Nada mudou,Corrupção
+Wanessa,21,18 a 21,Masculino,500,Santa Efigênia,e,b,Ter boa proposta,Saneamento e urbanização,b,a,10,5,0,Adail,a,a,b,Sõ trouxe problema,a,d,Nada mudou,De tudo um pouco
+Wanessa,40,40 a 49,Masculino,4500,Santa Efigênia,h,b,Outros,Corrupção,c,b,7,6,5,Magalhães,c,c,a,ficha suja,a,d,Asfaltamento,Saúde
+Wanessa,29,25 a 29,Masculino,650,Santa Efigênia,c,a,Outros,Saúde,c,c,8,8,0,Adail,a,e,b,Má Adm,a,e,Nada mudou,De tudo um pouco
+Wanessa,17,16 e 17,Feminino,650,Santa Efigênia,c,b,Ser honesto,Saúde,a,b,8,9,10,Magalhães,c,c,b,Pq nao quero,razoável,c,Nada mudou,Saúde
+Wanessa,24,22 a 24,Feminino,700,Santa Efigênia,f,a,Carater,Saúde,c,b,8,7,0,Magalhães,c,c,b,Nao fez nada,a,d,Nada mudou,Saúde
+Wanessa,28,25 a 29,Masculino,700,Santa Efigênia,f,c,Ser honesto,Saneamento e urbanização,c,c,6,8,0,Magalhães,c,c,b,Não fez nada,a,d,,Saúde
+Wanessa,18,18 a 21,Masculino,1300,Santa Efigênia,e,a,Ser honesto,Renda,a,a,8,9,5,Magalhães,c,c,b,Não é a cara de coari,razoável,f,Limpeza,salário
+Wanessa,24,22 a 24,Feminino,650,Santa Efigênia,f,b,Ser honesto,Emprego,b,b,10,5,0,Magalhães,c,c,a,Nao gosto,a,f,Limpeza,Saúde
+Emily,19,18 a 21,Feminino,,Centro,c,a,Ser honesto,Saúde,a,a,10,8,0,Adail,a,indicado pelo adail,b,demissão em massa,a,d,Nada mudou,Outros
+Emily,19,18 a 21,Feminino,650,Centro,f,a,Ser trabalhador,Emprego,c,c,10,7,5,,c,c,d,Nao conhece,a,a,Asfaltamento,Nada piorou
+Emily,18,18 a 21,Masculino,1500,Centro,e,a,Ser amigo,Emprego,a,a,10,8,5,,c,c,b,Nao fez nada,b,c,Outros,desemprego
+Emily,25,25 a 29,Masculino,2000,Centro,c,a,Ter experiência administrativa ,Emprego,b,a,9,5,2,,a,c,b,Pagamento,b,f,Nada mudou,salário
+Gabriel,22,22 a 24,Masculino,7500,União,f,b,Outros,Emprego,c,a,9,7,7,,b,b,a,sem trabalho,c,e,Nada mudou,infraestrutura
+Gabriel,18,18 a 21,Feminino,1300,União,e,,Ser de Coari,Segurança,a,a,10,9,8,,c,c,a,,b,b,Outros,Nada piorou
+Gabriel,20,18 a 21,Feminino,1000,União,e,d,Outros,Salário,c,c,8,9,5,,f,e,f,,razoável,c,Nada mudou,Nada piorou
+Gabriel,18,18 a 21,Feminino,650,União,c,,Ser honesto,Emprego,a,a,10,10,9,Vicente,a,d,b,Nao fez nada,a,a,Nada mudou,Nada piorou
+Gabriel,58,50 a 59,Masculino,,Do Pera,a,a,Ser trabalhador,Saúde,a,a,3,2,10,,a,c,f,,a,c,Nada mudou,Saúde
+Gabriel,19,18 a 21,Masculino,883,União,f,d,Ser competente,Saneamento e urbanização,a,a,9,9,5,,g,f,b,Falta de empenho,c,c,Asfaltamento,Nada piorou
+Gabriel,49,40 a 49,Masculino,650,Chagas,c,a,Ser honesto,Asfalto,a,a,10,5,0,,a,e,c,,a,c,Nada mudou,renda
+Gabriel,20,18 a 21,Feminino,1300,Chagas,f,a,Ser honesto,Saúde,c,a,9,8,0,,a,a,b,Nao fez nada,a,b,Nada mudou,salário
+Gabriel,18,18 a 21,Masculino,650,Chagas,e,b,Ser honesto,Segurança,a,c,8,6,9,,f,e,d,Nao conhece,c,e,Asfaltamento,Saneamento
+Gabriel,55,50 a 59,Feminino,1350,Chagas,g,a,Ser honesto,Administração pública,c,c,9,7,0,,,,b,Nao sabe adm,a,c,Nada mudou,Nada piorou
+Gabriel,25,25 a 29,Masculino,650,Chagas,f,a,Ser honesto,Saúde,b,b,7,0,0,,f,e,f,,a,c,Nada mudou,Saúde
+Gabriel,20,18 a 21,Masculino,650,Chagas,g,b,Responsabilidade,Segurança,c,c,8,8,6,,c,c,a,Perseguição,a,c,Nada mudou,Economia
+Gabriel,21,18 a 21,Masculino,200,União,e,d,Ser honesto,Emprego,a,c,7,10,0,,a,c,b,Prometia e não cumpria,a,c,Nada mudou,renda
+Gabriel,18,18 a 21,Masculino,1300,Chagas,f,b,Ter experiência administrativa ,Administração pública,a,c,10,10,9,,b,b,a,,c,a,educação,Nada piorou
+Gabriel,23,22 a 24,Masculino,200,Do Pera,f,a,Ser honesto,Saúde,c,c,4,1,0,,c,c,b,ladrao,a,d,Nada mudou,educação
+Gabriel,68,60 e +,Masculino,400,Do Pera,a,b,Ser trabalhador,Outros,a,a,8,8,2,,a,c,,,razoável,b,,infraestrutura
+Gabriel,24,22 a 24,Feminino,1300,Do Pera,c,a,Ter experiência administrativa ,Renda,a,a,10,10,0,,a,c,b,,a,b,Nada mudou,Segurança
+Gabriel,34,30 a 39,Feminino,300,Do Pera,c,a,Ser honesto,Emprego,a,a,10,10,0,,a,c,b,,Outros,f,Nada mudou,Nada piorou
+Gabriel,29,25 a 29,Masculino,,Do Pera,c,a,Ser competente,Saúde,a,b,9,9,5,,c,c,b,Nunca deu trabalho pra minha familia,a,d,Nada mudou,infraestrutura
+Gabriel,37,30 a 39,Feminino,600,Do Pera,d,a,Ser honesto,Água,c,c,10,10,10,,b,b,d,,c,c,Obras,salário
+Gabriel,16,16 e 17,Masculino,,Do Pera,a,b,Ser trabalhador,Segurança,a,a,8,7,5,,a,d,b,,a,d,Nada mudou,infraestrutura
+Gabriel,37,30 a 39,Masculino,700,Do Pera,d,d,Compromisso com o povo,Infraestrutura,c,a,10,10,0,,a,indicado pelo adail,b,,a,f,Obras,Nada piorou
+Gabriel,30,30 a 39,Masculino,1300,Do Pera,f,a,Ser honesto,Emprego,a,b,10,8,8,,a,d,b,nao ajuda ninguem,razoável,,Nada mudou,Nada piorou
+Gabriel,32,30 a 39,Masculino,,Do Pera,c,a,Ser trabalhador,Emprego,c,c,7,8,0,,a,,b,,a,c,Nada mudou,Segurança
+Gabriel,54,50 a 59,Feminino,450,Do Pera,c,a,Ser religioso,Emprego,a,b,10,10,0,,a,indicado pelo adail,b,Pagamento,a,b,Nada mudou,infraestrutura
