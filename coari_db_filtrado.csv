@@ -1,0 +1,462 @@
+Idade,Faixa,Bairro,Genero,Prioridade,Intencao,Por Omar,Por Braga
+42,40 a 49,Urucu,Masculino,Salário,Adail,Sim,Sim
+48,40 a 49,Itamarati,Masculino,Asfalto,indeciso,Sim,Sem Opiniao
+22,22 a 24,União,Masculino,Segurança,Magalhaes,Sim,Não
+19,18 a 21,Itamarati,Feminino,Emprego,Mitouso,Sem Opiniao,Sem Opiniao
+34,30 a 39,União,Feminino,Emprego,Adail,Sem Opiniao,Sim
+27,25 a 29,Chagas,Masculino,Saúde,Magalhaes,Não,Sim
+30,30 a 39,União,Masculino,Corrupção,Adail,Sem Opiniao,Sem Opiniao
+25,25 a 29,Itamarati,Feminino,Asfalto,Adail,Sim,Sim
+54,50 a 59,Santa Helena,Feminino,Saneamento e urbanização,Adail,Sim,Não
+35,30 a 39,Centro,Masculino,Emprego,Magalhaes,Sem Opiniao,Não
+37,30 a 39,Centro,Feminino,Saúde,Magalhaes,Sem Opiniao,Sem Opiniao
+19,18 a 21,Santa Efigênia,Feminino,Salário,Magalhaes,Não,Sim
+26,25 a 29,Chagas,Masculino,Emprego,Magalhaes,Não,Não
+41,40 a 49,União,Masculino,Renda,Magalhaes,Sem Opiniao,Sem Opiniao
+32,30 a 39,Tauá Mirim,Masculino,Administração pública,Adail,Sim,Sim
+33,30 a 39,Santa Efigênia,Masculino,Corrupção,Adail,Sem Opiniao,Sem Opiniao
+20,18 a 21,Santa Efigênia,Feminino,Emprego,Magalhaes,Sim,Sim
+58,50 a 59,Chagas,Masculino,Corrupção,Adail,Não,Sim
+48,40 a 49,Centro,Masculino,Salário,Magalhaes,Sim,Sem Opiniao
+58,50 a 59,Centro,Masculino,Saúde,Adail,Sem Opiniao,Sim
+23,22 a 24,Tauá Mirim,Masculino,Saúde,Adail,Sim,Sim
+46,40 a 49,Centro,Masculino,Segurança,Magalhaes,Sim,Sim
+39,30 a 39,Itamarati,Feminino,Asfalto,Adail,Sem Opiniao,Sem Opiniao
+38,30 a 39,Duque,Feminino,Saúde,indeciso,Sem Opiniao,Sem Opiniao
+51,50 a 59,Tauá Mirim,Masculino,Infraestrutura,Magalhaes,Sem Opiniao,Não
+23,22 a 24,Urucu,Masculino,Emprego,Magalhaes,Sim,Não
+38,30 a 39,Santa Efigênia,Masculino,Salário,Mitouso,Sem Opiniao,Não
+38,30 a 39,Centro,Masculino,Renda,Mitouso,Sem Opiniao,Sem Opiniao
+57,50 a 59,Centro,Masculino,Saneamento e urbanização,Mitouso,Sim,Não
+29,25 a 29,Urucu,Masculino,Saúde,Magalhaes,Sim,Não
+22,22 a 24,Duque,Masculino,Asfalto,Magalhaes,Sem Opiniao,Sim
+19,18 a 21,Chagas,Feminino,Corrupção,Magalhaes,Sem Opiniao,Sim
+32,30 a 39,Urucu,Masculino,Salário,Adail,Sem Opiniao,Sim
+36,30 a 39,Tauá Mirim,Masculino,Outros,Magalhaes,Não,Sim
+32,30 a 39,Duque,Feminino,Educação,Nulo,Não,Sim
+21,18 a 21,Espirito Santo,Feminino,Emprego,Adail,Sim,Sim
+50,50 a 59,Itamarati,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+16,16 e 17,Tauá Mirim,Feminino,Renda,Magalhaes,Sem Opiniao,Sim
+52,50 a 59,Centro,Masculino,Saúde,Adail,Sim,Não
+22,22 a 24,Tauá Mirim,Feminino,Salário,Adail,Sim,Sim
+41,40 a 49,Chagas,Feminino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+32,30 a 39,União,Feminino,Saúde,Adail,Sim,Sim
+30,30 a 39,centro,Masculino,Emprego,Adail,Sem Opiniao,Não
+18,18 a 21,Itamarati,Feminino,Saneamento e urbanização,Mitouso,Não,Não
+21,18 a 21,Itamarati,Feminino,Saúde,Magalhaes,Não,Não
+35,30 a 39,Itamarati,Feminino,Renda,Nulo,Sim,Não
+59,50 a 59,Espirito Santo,Masculino,Saneamento e urbanização,indeciso,Sem Opiniao,Sem Opiniao
+64,60 e +,Chagas,Masculino,Salário,Adail,Sem Opiniao,Não
+33,30 a 39,Tauá Mirim,Masculino,Saneamento e urbanização,Mitouso,Sem Opiniao,Sem Opiniao
+20,18 a 21,Do Pera,Feminino,Emprego,Magalhaes,Sim,Sim
+50,50 a 59,Centro,Feminino,Renda,indeciso,Sem Opiniao,Sem Opiniao
+20,18 a 21,Itamarati,Masculino,Administração pública,Magalhaes,Sem Opiniao,Sim
+30,30 a 39,Chagas,Masculino,Renda,Adail,Sim,Sim
+40,40 a 49,Duque,Masculino,Saneamento e urbanização,Nulo,Não,Não
+21,18 a 21,Duque,Feminino,Segurança,f,Sem Opiniao,Sem Opiniao
+21,18 a 21,Chagas,Feminino,Salário,Nulo,Não,Sim
+21,18 a 21,Itamarati,Masculino,Saúde,Nulo,Sem Opiniao,Sem Opiniao
+22,22 a 24,Chagas,Masculino,Emprego,Adail,Não,Não
+32,30 a 39,Santa Efigênia,Feminino,Segurança,f,Não,Sem Opiniao
+18,18 a 21,Itamarati,Masculino,Energia,Adail,Sim,Sim
+50,50 a 59,Chagas,Feminino,Saúde,Mitouso,Sim,Sim
+16,16 e 17,Chagas,Feminino,Saúde,Mitouso,Sim,Sim
+33,30 a 39,Tauá Mirim,Masculino,Infraestrutura,Mitouso,Sim,Não
+55,50 a 59,Centro,Feminino,Segurança,Magalhaes,Não,Não
+24,22 a 24,Tauá Mirim,Feminino,Segurança,Magalhaes,Sem Opiniao,Não
+21,18 a 21,Itamarati,Feminino,Asfalto,f,Sem Opiniao,Sem Opiniao
+30,30 a 39,Urucu,Feminino,,Magalhaes,Sim,Não
+19,18 a 21,Itamarati,Feminino,Segurança,Adail,Não,Sim
+24,22 a 24,Chagas,Feminino,Salário,Magalhaes,Não,Sim
+19,18 a 21,Urucu,Feminino,Emprego,Adail,Sim,Sim
+28,25 a 29,Centro,Feminino,Salário,Adail,Sim,Sim
+28,25 a 29,Tauá Mirim,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+24,22 a 24,Chagas,Masculino,Salário,Magalhaes,Não,Não
+39,30 a 39,Tauá Mirim,Masculino,Segurança,Magalhaes,Sem Opiniao,Sim
+21,18 a 21,Do Pera,Feminino,Saúde,Adail,Não,Não
+17,16 e 17,Chagas,Feminino,Segurança,Adail,Sim,Não
+43,40 a 49,Centro,Feminino,Infraestrutura,Mitouso,Não,Não
+34,30 a 39,Santa Efigênia,Feminino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+28,25 a 29,União,Masculino,Asfalto,Mitouso,Sem Opiniao,Sem Opiniao
+21,18 a 21,Espirito Santo,Feminino,Segurança,Mitouso,Sem Opiniao,Não
+23,22 a 24,Centro,Feminino,Saúde,Mitouso,Sim,Sim
+17,16 e 17,Espirito Santo,Feminino,,Adail,Sim,Não
+18,18 a 21,Tauá Mirim,Feminino,Saúde,f,Não,Não
+18,18 a 21,Do Pera,Feminino,Emprego,Magalhaes,Sim,Sim
+36,30 a 39,Tauá Mirim,Feminino,,Adail,Não,Não
+32,30 a 39,Itamarati,Feminino,Saúde,Adail,Sim,Sim
+16,16 e 17,Espirito Santo,Masculino,Administração pública,Magalhaes,Não,Não
+31,30 a 39,Tauá Mirim,Feminino,,Mitouso,Não,Não
+33,30 a 39,Centro,Feminino,Segurança,f,Sim,Sim
+27,25 a 29,Itamarati,Feminino,Infraestrutura,Nulo,Sem Opiniao,Sem Opiniao
+28,25 a 29,Duque,Masculino,Corrupção,Adail,Sim,Sim
+33,30 a 39,Itamarati,Masculino,Emprego,Adail,Sim,Sim
+40,40 a 49,Chagas,Feminino,Saúde,Adail,Sim,Sim
+31,30 a 39,Chagas,Masculino,Saúde,Magalhaes,Não,Sim
+35,30 a 39,Chagas,Masculino,Saneamento e urbanização,Mitouso,Sem Opiniao,Não
+19,18 a 21,Chagas,Masculino,Emprego,Adail,Sim,Sim
+27,25 a 29,União,Masculino,Emprego,Adail,Sem Opiniao,Sim
+21,18 a 21,Santa Helena,Feminino,Asfalto,Nulo,Não,Não
+28,25 a 29,Centro,Masculino,Corrupção,Magalhaes,Sem Opiniao,Sem Opiniao
+16,16 e 17,União,Masculino,Saúde,Magalhaes,Sim,Sim
+31,30 a 39,Centro,Masculino,Segurança,Magalhaes,Sem Opiniao,Sem Opiniao
+40,40 a 49,Santa Efigênia,Masculino,Moradia,Magalhaes,Sim,Não
+27,25 a 29,União,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+18,18 a 21,Centro,Feminino,,Adail,Sem Opiniao,Sim
+24,22 a 24,Chagas,Masculino,Saneamento e urbanização,Magalhaes,Sem Opiniao,Sem Opiniao
+26,25 a 29,Do Pera,Masculino,Emprego,Magalhaes,Sim,Não
+18,18 a 21,Centro,Feminino,Emprego,Mitouso,Sim,Sim
+21,18 a 21,Urucu,Masculino,Saúde,Magalhaes,Sem Opiniao,Sim
+27,25 a 29,Duque,Masculino,Saneamento e urbanização,Adail,Sem Opiniao,Sem Opiniao
+41,40 a 49,Urucu,Masculino,Segurança,Magalhaes,Sem Opiniao,Não
+44,40 a 49,Centro,Feminino,Segurança,,Não,Sim
+60,60 e +,Do Pera,Feminino,Educação,,Não,Sem Opiniao
+37,30 a 39,Itamarati,Masculino,Saúde,,Sem Opiniao,Sem Opiniao
+32,30 a 39,Centro,Feminino,Educação,Magalhaes,Sem Opiniao,
+48,40 a 49,Do Pera,Masculino,Moradia,Adail,Não,Não
+26,25 a 29,Centro,Masculino,Infraestrutura,Magalhaes,Sem Opiniao,Sim
+33,30 a 39,Santa Efigênia,Feminino,Saúde,,Sem Opiniao,Não
+43,40 a 49,Itamarati,Feminino,Segurança,Adail,Sem Opiniao,Sem Opiniao
+25,25 a 29,Duque,Feminino,Saúde,Magalhaes,Sim,Sim
+33,30 a 39,Tauá Mirim,Masculino,Emprego,,Sim,Sem Opiniao
+22,22 a 24,União,Feminino,Emprego,Nulo,Sem Opiniao,Sem Opiniao
+35,30 a 39,Santa Helena,Feminino,Saúde,Adail,Sim,Sem Opiniao
+33,30 a 39,Urucu,Masculino,Asfalto,,Sem Opiniao,Sim
+29,25 a 29,Urucu,Masculino,Salário,Adail,Não,Não
+51,50 a 59,Santa Efigênia,Masculino,Salário,,Sim,Sim
+44,40 a 49,Santa Efigênia,Feminino,Emprego,,Não,Não
+55,50 a 59,Santa Efigênia,Masculino,Saúde,Magalhaes,Sem Opiniao,Não
+17,16 e 17,Urucu,Feminino,Saúde,,Não,Sem Opiniao
+20,18 a 21,Tauá Mirim,Feminino,Segurança,Magalhaes,Não,Não
+21,18 a 21,Santa Efigênia,Feminino,Saúde,Adail,Sem Opiniao,Sim
+18,18 a 21,Urucu,Masculino,Energia,Adail,Não,Não
+49,40 a 49,Santa Efigênia,Feminino,Emprego,,Não,Sim
+62,60 e +,Centro,Masculino,Saúde,,Sem Opiniao,Sem Opiniao
+70,60 e +,Tauá Mirim,Masculino,Segurança,,Não,Não
+63,60 e +,Centro,Feminino,Educação,Magalhaes,Sem Opiniao,Sem Opiniao
+19,18 a 21,Centro,Masculino,Emprego,,Sem Opiniao,Sim
+73,60 e +,Chagas,Masculino,Saúde,,Sem Opiniao,Sem Opiniao
+41,40 a 49,União,Masculino,Emprego,,Sem Opiniao,Sem Opiniao
+23,22 a 24,Centro,Feminino,Salário,Magalhaes,Sim,Não
+18,18 a 21,Itamarati,Feminino,Asfalto,Adail,Sem Opiniao,Sim
+17,16 e 17,Santa Efigênia,Masculino,Emprego,Adail,Sim,Sim
+48,40 a 49,Urucu,Masculino,Salário,,Sem Opiniao,Sem Opiniao
+36,30 a 39,Centro,Masculino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+21,18 a 21,Duque,Feminino,Emprego,Magalhaes,Não,Sim
+40,40 a 49,Centro,Masculino,Segurança,Adail,Não,Não
+36,30 a 39,Urucu,Masculino,Moradia,,Sem Opiniao,Não
+17,16 e 17,Tauá Mirim,Feminino,Moradia,,Sem Opiniao,Não
+22,22 a 24,Itamarati,Feminino,Saúde,Magalhaes,Não,Sim
+18,18 a 21,Santa Efigênia,Masculino,Saúde,Iran,Sim,Não
+18,18 a 21,Chagas,Feminino,Emprego,,Não,Sim
+47,40 a 49,Centro,Feminino,Saúde,,Sim,Não
+40,40 a 49,Duque,Masculino,Educação,,Sim,Sim
+27,25 a 29,Chagas,Masculino,Asfalto,Nulo,Sim,Sim
+53,50 a 59,Centro,Masculino,Saneamento e urbanização,,Sem Opiniao,Sem Opiniao
+33,30 a 39,União,Masculino,Salário,,Sim,Não
+23,22 a 24,Centro,Masculino,Salário,,Sim,Sim
+22,22 a 24,Chagas,Masculino,Emprego,Adail,Não,Não
+17,16 e 17,União,Feminino,Salário,,Não,Não
+16,16 e 17,Centro,Feminino,Outros,Iran,Sim,Sim
+23,22 a 24,Itamarati,Feminino,Moradia,Magalhaes,Não,Sim
+40,40 a 49,Centro,Masculino,Emprego,Adail,Sim,Sim
+36,30 a 39,Santa Efigênia,Masculino,Emprego,,Sim,Sim
+22,22 a 24,Centro,Masculino,Transporte,Magalhaes,Sem Opiniao,Sem Opiniao
+54,50 a 59,Santa Helena,Masculino,Saúde,Adail,Sem Opiniao,Não
+30,30 a 39,União,Masculino,Emprego,Adail,Não,Sim
+18,18 a 21,Centro,Feminino,Saúde,Nulo,Não,Sim
+49,40 a 49,Centro,Feminino,Emprego,,Sim,Sim
+35,30 a 39,União,Feminino,Emprego,f,Sem Opiniao,Sim
+24,22 a 24,Centro,Feminino,Saúde,h,Não,Sem Opiniao
+36,30 a 39,Urucu,Feminino,Saúde,Adail,Não,Não
+47,40 a 49,União,Masculino,Corrupção,Magalhaes,Sem Opiniao,Sim
+50,50 a 59,Itamarati,Masculino,Moradia,Adail,Não,Não
+24,22 a 24,Itamarati,Masculino,Emprego,,Sem Opiniao,Sim
+27,25 a 29,Z - Rural,Masculino,Emprego,,Sim,Sim
+43,40 a 49,Do Pera,Masculino,Saúde,f,Não,Sem Opiniao
+20,18 a 21,Urucu,Masculino,Saúde,Magalhaes,Sim,Não
+45,40 a 49,Espirito Santo,Feminino,Emprego,Adail,Não,Sem Opiniao
+21,18 a 21,Santa Helena,Masculino,Saúde,Magalhaes,Sim,Sim
+23,22 a 24,Chagas,Masculino,Educação,Adail,Não,Sim
+19,18 a 21,Tauá Mirim,Masculino,Outros,Magalhaes,Não,Sim
+48,40 a 49,Z - Rural,Masculino,Corrupção,Nulo,Sem Opiniao,Sem Opiniao
+49,40 a 49,Z - Rural,Feminino,Corrupção,Nulo,Sim,Sem Opiniao
+26,25 a 29,Do Pera,Masculino,Emprego,Adail,Sim,Sim
+20,18 a 21,Chagas,Feminino,Emprego,f,Sim,Sim
+29,25 a 29,União,Feminino,Segurança,Adail,Sem Opiniao,Sim
+26,25 a 29,Espirito Santo,Feminino,Saúde,Adail,Não,Sim
+23,22 a 24,Espirito Santo,Feminino,Salário,Adail,Sem Opiniao,Sem Opiniao
+28,25 a 29,Santa Helena,Feminino,Renda,Adail,Sim,Sim
+26,25 a 29,Urucu,Feminino,Saúde,Magalhaes,Não,Sem Opiniao
+41,40 a 49,Itamarati,Masculino,Emprego,Magalhaes,Sim,Não
+22,22 a 24,Urucu,Feminino,Emprego,Adail,Sim,Sim
+29,25 a 29,Centro,Feminino,Saúde,Adail,Sim,Sim
+16,16 e 17,Urucu,Feminino,Administração pública,Adail,Sim,Sim
+28,25 a 29,Urucu,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+29,25 a 29,Chagas,Feminino,Renda,Adail,Não,Sim
+18,18 a 21,Tauá Mirim,Feminino,Saneamento e urbanização,Adail,Sem Opiniao,Sim
+28,25 a 29,Chagas,Feminino,Renda,Iran,Sem Opiniao,Não
+24,22 a 24,Urucu,Feminino,Segurança,Adail,Sem Opiniao,Sim
+28,25 a 29,Centro,Feminino,Educação,Mitouso,Sim,Não
+29,25 a 29,Tauá Mirim,Feminino,Emprego,Nulo,Sem Opiniao,Sim
+37,30 a 39,União,Masculino,Saúde,Adail,Sim,Sim
+22,22 a 24,União,Feminino,Administração pública,Magalhaes,Sim,Sim
+29,25 a 29,Chagas,Feminino,Salário,Adail,Sim,Sim
+28,25 a 29,Urucu,Feminino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+18,18 a 21,Chagas,Feminino,Infraestrutura,Magalhaes,Sim,Sim
+29,25 a 29,Urucu,Feminino,Corrupção,Adail,Sim,Sim
+22,22 a 24,Chagas,Feminino,Segurança,Magalhaes,Sem Opiniao,Sem Opiniao
+28,25 a 29,Do Pera,Feminino,Infraestrutura,indeciso,Sem Opiniao,Sem Opiniao
+27,25 a 29,Do Pera,Feminino,Saúde,Adail,Sim,Sim
+29,25 a 29,Chagas,Feminino,Emprego,Mitouso,Sim,Não
+27,25 a 29,Santa Helena,Feminino,Saúde,Adail,Sim,Não
+27,25 a 29,Duque,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+16,16 e 17,União,Feminino,Renda,Magalhaes,Não,Sim
+32,30 a 39,Centro,Masculino,Segurança,Adail,Sem Opiniao,Sim
+26,25 a 29,União,Feminino,Emprego,f,Não,b 
+29,25 a 29,Santa Efigênia,Feminino,Emprego,f,Não,Não
+27,25 a 29,União,Feminino,Saúde,Nulo,Sim,Sim
+18,18 a 21,União,Feminino,Emprego,Iran,Sem Opiniao,Sem Opiniao
+17,16 e 17,Chagas,Masculino,Emprego,Magalhaes,Sim,Sim
+24,22 a 24,Urucu,Masculino,Educação,f,Sem Opiniao,Sem Opiniao
+20,18 a 21,Itamarati,Feminino,Emprego,Magalhaes,Não,Sim
+25,25 a 29,Tauá Mirim,Masculino,Moradia,Magalhaes,Não,Sem Opiniao
+19,18 a 21,Do Pera,Masculino,Corrupção,Magalhaes,Sem Opiniao,Sem Opiniao
+19,18 a 21,Do Pera,Masculino,Corrupção,Magalhaes,Sem Opiniao,Sem Opiniao
+21,18 a 21,Urucu,Masculino,Segurança,Magalhaes,Sim,Não
+22,22 a 24,Tauá Mirim,Masculino,Emprego,Adail,Não,Não
+49,40 a 49,Centro,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+39,30 a 39,Duque,Masculino,Saneamento e urbanização,Adail,Não,Não
+38,30 a 39,Centro,Masculino,Saúde,Magalhaes,Sim,Não
+54,50 a 59,União,Masculino,Segurança,Magalhaes,Sim,Não
+19,18 a 21,Urucu,Masculino,Emprego,,Não,Não
+20,18 a 21,Urucu,Masculino,Emprego,Magalhaes,Não,Sim
+31,30 a 39,Chagas,Masculino,Saúde,Adail,Não,Não
+32,30 a 39,Centro,Masculino,Corrupção,Magalhaes,Sim,Sim
+30,30 a 39,Itamarati,Feminino,Saúde,Adail,Sim,Sim
+28,25 a 29,Tauá Mirim,Masculino,Emprego,Adail,Não,Sim
+29,25 a 29,Santa Helena,Masculino,Outros,Magalhaes,Sem Opiniao,Não
+23,22 a 24,Duque,Masculino,Emprego,Magalhaes,Não,Não
+19,18 a 21,União,Masculino,Segurança,Magalhaes,Não,Não
+23,22 a 24,Itamarati,Masculino,Saúde,Adail,Sem Opiniao,Não
+51,50 a 59,Duque,Masculino,Emprego,Magalhaes,Não,Não
+51,50 a 59,Itamarati,Feminino,Emprego,Magalhaes,Não,Não
+27,25 a 29,Urucu,Masculino,Energia,Mitouso,Não,Não
+18,18 a 21,Itamarati,Masculino,Educação,Adail,Sim,Sim
+30,30 a 39,Espirito Santo,Masculino,Infraestrutura,Magalhaes,Não,Não
+18,18 a 21,Espirito Santo,Masculino,Segurança,Magalhaes,Não,Sim
+27,25 a 29,Espirito Santo,Masculino,Salário,Magalhaes,Sim,Não
+17,16 e 17,Tauá Mirim,Masculino,Educação,Iran,Não,Não
+18,18 a 21,Itamarati,Masculino,Emprego,Magalhaes,Não,Sim
+21,18 a 21,Espirito Santo,Masculino,Emprego,Magalhaes,Não,Sim
+32,30 a 39,Duque,Feminino,Emprego,,Sem Opiniao,Sem Opiniao
+73,60 e +,Chagas,Feminino,Saúde,Magalhaes,Sem Opiniao,Sem Opiniao
+32,30 a 39,Chagas,Feminino,Saúde,f,Sim,Sim
+61,60 e +,Centro,Feminino,Saúde,f,Sim,Não
+30,30 a 39,Santa Helena,Feminino,Saneamento e urbanização,Magalhaes,Sem Opiniao,Sim
+30,30 a 39,Chagas,Feminino,Salário,f,Sim,Sim
+50,50 a 59,Duque,Feminino,Emprego,Adail,Sim,Sim
+34,30 a 39,Itamarati,Feminino,Saúde,,Sem Opiniao,Sim
+51,50 a 59,Tauá Mirim,Feminino,Renda,,Não,Não
+53,50 a 59,Espirito Santo,Feminino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+33,30 a 39,União,Feminino,Saúde,indeciso,Sem Opiniao,Sem Opiniao
+34,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sem Opiniao,Sem Opiniao
+42,40 a 49,Urucu,Feminino,Saneamento e urbanização,Mitouso,Sem Opiniao,Sem Opiniao
+60,60 e +,Itamarati,Feminino,Saúde,Magalhaes,Sim,Sim
+35,30 a 39,Tauá Mirim,Feminino,,f,Sem Opiniao,Sem Opiniao
+46,40 a 49,Do Pera,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+32,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sim,Sim
+42,40 a 49,Itamarati,Feminino,Emprego,f,Sem Opiniao,Sem Opiniao
+42,40 a 49,Duque,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+33,30 a 39,Itamarati,Feminino,Emprego,f,Sim,Sim
+53,50 a 59,Santa Efigênia,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+30,30 a 39,Espirito Santo,Feminino,Salário,Mitouso,Sem Opiniao,Sem Opiniao
+48,40 a 49,União,Feminino,Emprego,Adail,Não,Não
+34,30 a 39,União,Feminino,Outros,Mitouso,Não,Não
+40,40 a 49,Santa Efigênia,Feminino,Emprego,Adail,Sim,Sim
+57,50 a 59,Itamarati,Feminino,Segurança,Mitouso,Sem Opiniao,Sem Opiniao
+39,30 a 39,Santa Helena,Feminino,Asfalto,Adail,Não,Sim
+31,30 a 39,União,Feminino,Saúde,Adail,Sim,Sim
+16,16 e 17,Urucu,Feminino,Asfalto,Magalhaes,Sim,Não
+36,30 a 39,Tauá Mirim,Feminino,Saúde,Iran,Não,Não
+21,18 a 21,Centro,Feminino,Salário,Magalhaes,Sim,Sim
+24,22 a 24,Urucu,Feminino,Segurança,Magalhaes,Não,Não
+54,50 a 59,Centro,Masculino,Renda,Magalhaes,Sim,Não
+60,60 e +,Centro,Masculino,Emprego,Magalhaes,Sim,Não
+16,16 e 17,Duque,Feminino,Salário,Magalhaes,Sim,Não
+18,18 a 21,União,Feminino,Infraestrutura,indeciso,Sim,Sem Opiniao
+24,22 a 24,Do Pera,Feminino,Infraestrutura,Adail,Sem Opiniao,Sem Opiniao
+29,25 a 29,Tauá Mirim,Feminino,Outros,indeciso,Sem Opiniao,Sem Opiniao
+26,25 a 29,União,Feminino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+20,18 a 21,Urucu,Feminino,Saúde,Nulo,Sem Opiniao,Sem Opiniao
+29,25 a 29,Itamarati,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+29,25 a 29,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não
+63,60 e +,Chagas,Masculino,Moradia,Adail,Sim,Sim
+40,40 a 49,Itamarati,Masculino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+64,60 e +,Duque,Masculino,Asfalto,Mitouso,Não,Não
+53,50 a 59,Chagas,Masculino,,Mitouso,Não,Sim
+36,30 a 39,União,Masculino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+45,40 a 49,Chagas,Masculino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+55,50 a 59,Duque,Masculino,Corrupção,Adail,Sem Opiniao,Sim
+38,30 a 39,União,Masculino,Emprego,indeciso,Sem Opiniao,Sem Opiniao
+59,50 a 59,Chagas,Masculino,Asfalto,Nulo,Sem Opiniao,Sem Opiniao
+45,40 a 49,Chagas,Masculino,Emprego,Mitouso,Sem Opiniao,Sem Opiniao
+45,40 a 49,Itamarati,Masculino,Administração pública,Magalhaes,Sim,Sim
+34,30 a 39,Chagas,Masculino,Corrupção,Adail,Sem Opiniao,Sem Opiniao
+31,30 a 39,Urucu,Masculino,,Adail,Sem Opiniao,Sim
+34,30 a 39,Chagas,Masculino,Saúde,f,Sem Opiniao,Sem Opiniao
+37,30 a 39,Itamarati,Masculino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+52,50 a 59,União,Masculino,Educação,f,Não,Não
+64,60 e +,União,Masculino,Emprego,Adail,Sim,Não
+41,40 a 49,União,Masculino,Infraestrutura,Mitouso,Sem Opiniao,Não
+78,60 e +,União,Feminino,Emprego,Adail,Sim,Sim
+46,40 a 49,Espirito Santo,Masculino,Administração pública,Adail,Sem Opiniao,Sem Opiniao
+38,30 a 39,União,Masculino,Corrupção,Mitouso,Sem Opiniao,Sem Opiniao
+33,30 a 39,União,Masculino,Saúde,Adail,Sem Opiniao,Sim
+60,60 e +,Urucu,Masculino,Asfalto,Mitouso,Sem Opiniao,Sem Opiniao
+50,50 a 59,União,Masculino,Corrupção,Nulo,Sem Opiniao,Sem Opiniao
+91,60 e +,União,Masculino,Emprego,Magalhaes,Sem Opiniao,Sim
+49,40 a 49,Chagas,Masculino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+60,60 e +,Santa Efigênia,Masculino,Saúde,Magalhaes,Sem Opiniao,Não
+43,40 a 49,Tauá Mirim,Masculino,Segurança,Adail,Sim,Sim
+64,60 e +,Tauá Mirim,Masculino,Saúde,,Sem Opiniao,Sem Opiniao
+31,30 a 39,Urucu,Masculino,Outros,,Sem Opiniao,Sem Opiniao
+54,50 a 59,Tauá Mirim,Masculino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+41,40 a 49,Urucu,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+40,40 a 49,Santa Helena,Feminino,Salário,Adail,Sem Opiniao,Sim
+43,40 a 49,União,Feminino,Saúde,Magalhaes,Sem Opiniao,Sem Opiniao
+26,25 a 29,Itamarati,Feminino,Emprego,Magalhaes,Sem Opiniao,Sim
+43,40 a 49,Chagas,Feminino,Saúde,Adail,Não,Sim
+59,50 a 59,Tauá Mirim,Feminino,Saúde,Adail,Sim,Sim
+30,30 a 39,Urucu,Feminino,Educação,Adail,Não,Sim
+51,50 a 59,União,Feminino,Saúde,Magalhaes,Sim,Sem Opiniao
+63,60 e +,Duque,Feminino,Asfalto,Mitouso,Sim,Não
+50,50 a 59,União,Feminino,Salário,Adail,Sim,Sim
+40,40 a 49,União,Feminino,Emprego,Adail,Não,Sim
+61,60 e +,Centro,Feminino,Saneamento e urbanização,Adail,Sem Opiniao,Sim
+33,30 a 39,Do Pera,Feminino,Saúde,Adail,Sim,Não
+43,40 a 49,Chagas,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+67,60 e +,Duque,Feminino,Emprego,Mitouso,Sem Opiniao,Sem Opiniao
+66,60 e +,Chagas,Feminino,Saúde,Magalhaes,Sim,Sem Opiniao
+38,30 a 39,União,Feminino,Emprego,Adail,Sem Opiniao,Sim
+62,60 e +,Chagas,Feminino,Asfalto,f,Sem Opiniao,Sem Opiniao
+45,40 a 49,Itamarati,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+46,40 a 49,Duque,Feminino,Outros,Adail,Sim,Sim
+62,60 e +,Santa Helena,Feminino,Emprego,Magalhaes,Sem Opiniao,Sim
+19,18 a 21,União,Feminino,Emprego,Adail,Sim,Sem Opiniao
+30,30 a 39,Urucu,Feminino,Saúde,Adail,Sim,Sim
+39,30 a 39,Centro,Feminino,Saúde,Adail,Sim,Sem Opiniao
+30,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sim,Sim
+22,22 a 24,Urucu,Feminino,Educação,Mitouso,Não,Não
+41,40 a 49,Do Pera,Feminino,Salário,Magalhaes,Sim,Sem Opiniao
+63,60 e +,Itamarati,Feminino,Saúde,f,Sem Opiniao,Sem Opiniao
+31,30 a 39,Urucu,Feminino,Água,Adail,Sim,Sim
+57,50 a 59,Itamarati,Masculino,Segurança,Iran,Não,Sem Opiniao
+18,18 a 21,Chagas,Masculino,Segurança,Adail,Sim,Sim
+29,25 a 29,Itamarati,Feminino,Corrupção,Adail,Não,Não
+29,25 a 29,Centro,Feminino,Corrupção,Adail,Não,Não
+20,18 a 21,Duque,Masculino,Emprego,Adail,Sim,Não
+18,18 a 21,Urucu,Masculino,Energia,Adail,Não,Sim
+29,25 a 29,União,Masculino,Corrupção,Magalhaes,Não,Não
+18,18 a 21,Duque,Masculino,Emprego,Adail,Não,Não
+16,16 e 17,Chagas,Masculino,Segurança,Adail,Não,Sim
+16,16 e 17,União,Masculino,Corrupção,Magalhaes,Não,Não
+22,22 a 24,Itamarati,Masculino,Emprego,C.T.,Sim,Não
+19,18 a 21,Centro,Masculino,Saúde,Magalhaes,Sim,Não
+30,30 a 39,Itamarati,Masculino,Saúde,Adail,Sim,Sem Opiniao
+18,18 a 21,Tauá Mirim,Masculino,Educação,Adail,Não,Sim
+19,18 a 21,Urucu,Masculino,Infraestrutura,Magalhaes,Não,Sim
+16,16 e 17,Itamarati,Masculino,Corrupção,Magalhaes,Sim,Não
+43,40 a 49,Tauá Mirim,Feminino,Saúde,Adail,Sim,Não
+45,40 a 49,Tauá Mirim,Feminino,Saúde,f,Não,Não
+32,30 a 39,Duque,Masculino,Saúde,Magalhaes,Sem Opiniao,Sem Opiniao
+23,22 a 24,Duque,Feminino,Corrupção,Adail,Não,Não
+79,60 e +,Tauá Mirim,Feminino,Saúde,Mitouso,Não,Não
+32,30 a 39,Tauá Mirim,Feminino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+32,60 e +,Tauá Mirim,Masculino,Emprego,Mitouso,Sem Opiniao,Não
+20,18 a 21,Tauá Mirim,Masculino,Emprego,Mitouso,Sem Opiniao,Sem Opiniao
+43,40 a 49,Tauá Mirim,Masculino,Segurança,Mitouso,Não,Não
+19,18 a 21,Duque,Masculino,Emprego,Magalhaes,Sem Opiniao,Não
+80,60 e +,Tauá Mirim,Feminino,Emprego,Mitouso,Não,Não
+40,40 a 49,Tauá Mirim,Masculino,Emprego,Mitouso,Não,Não
+43,40 a 49,Tauá Mirim,Feminino,Saúde,Adail,Não,Sim
+21,18 a 21,Tauá Mirim,Feminino,Educação,f,Não,Não
+75,60 e +,Tauá Mirim,Feminino,Saúde,f,Não,Sem Opiniao
+77,60 e +,Tauá Mirim,Feminino,Emprego,Mitouso,Não,Não
+38,30 a 39,Duque,Masculino,Saúde,f,Não,Não
+24,22 a 24,Espirito Santo,Masculino,Saúde,Mitouso,Não,Não
+63,60 e +,Urucu,Masculino,Saúde,Adail,Sim,Sim
+33,30 a 39,Urucu,Feminino,Emprego,Adail,Sim,Sim
+62,60 e +,Urucu,Feminino,Emprego,Adail,Não,Sim
+21,18 a 21,Urucu,Feminino,Emprego,Adail,Sim,Não
+25,25 a 29,Urucu,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+50,50 a 59,Urucu,Feminino,Saúde,Magalhaes,Não,Não
+50,50 a 59,Urucu,Feminino,Educação,Magalhaes,Não,Não
+50,50 a 59,Urucu,Masculino,Emprego,Magalhaes,Sim,Não
+19,18 a 21,Urucu,Feminino,Saúde,Adail,Sim,Sim
+40,40 a 49,Urucu,Feminino,Saúde,Magalhaes,Sem Opiniao,Sem Opiniao
+30,30 a 39,Urucu,Masculino,Segurança,Magalhaes,Sim,Não
+61,60 e +,Urucu,Feminino,Asfalto,Nulo,Sem Opiniao,Sem Opiniao
+53,50 a 59,Urucu,Masculino,Saúde,Adail,Não,Sim
+25,25 a 29,Espirito Santo,Feminino,Saúde,Magalhaes,Sem Opiniao,Sim
+60,60 e +,Espirito Santo,Feminino,Saúde,Mitouso,Sim,Sim
+46,40 a 49,Espirito Santo,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+39,30 a 39,Espirito Santo,Masculino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+39,30 a 39,Espirito Santo,Feminino,Saúde,Adail,Sim,Sim
+69,60 e +,Espirito Santo,Masculino,Emprego,f,Sim,Sim
+29,25 a 29,Espirito Santo,Masculino,Saúde,Mitouso,Não,Não
+17,16 e 17,Santa Helena,Feminino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+18,18 a 21,Santa Helena,Feminino,Emprego,Adail,Sem Opiniao,Sim
+49,40 a 49,Santa Helena,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+23,22 a 24,Santa Helena,Feminino,Emprego,Adail,Sem Opiniao,Sim
+61,60 e +,Santa Helena,Feminino,Emprego,Nulo,Sem Opiniao,Sem Opiniao
+42,40 a 49,Santa Helena,Feminino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+44,40 a 49,Santa Helena,Masculino,Corrupção,Nulo,Não,Não
+30,30 a 39,Santa Helena,Masculino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+39,30 a 39,Santa Helena,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+24,22 a 24,Santa Helena,Masculino,Segurança,f,Sem Opiniao,Sem Opiniao
+35,30 a 39,Santa Helena,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+29,25 a 29,Santa Helena,Masculino,Emprego,Adail,Não,Não
+60,60 e +,Santa Helena,Masculino,Saneamento e urbanização,Adail,Sem Opiniao,Sem Opiniao
+21,18 a 21,Santa Helena,Masculino,Infraestrutura,Adail,Sim,Sim
+65,60 e +,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não
+19,18 a 21,Santa Efigênia,Masculino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+16,16 e 17,Santa Helena,Masculino,Infraestrutura,Adail,Sem Opiniao,Sem Opiniao
+22,22 a 24,Santa Helena,Masculino,Infraestrutura,Magalhaes,Sim,Sim
+21,18 a 21,Santa Efigênia,Masculino,Saneamento e urbanização,Adail,Não,Sim
+40,40 a 49,Santa Efigênia,Masculino,Corrupção,Magalhaes,Sem Opiniao,Não
+29,25 a 29,Santa Efigênia,Masculino,Saúde,Adail,Sem Opiniao,Sem Opiniao
+17,16 e 17,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não
+24,22 a 24,Santa Efigênia,Feminino,Saúde,Magalhaes,Sem Opiniao,Não
+28,25 a 29,Santa Efigênia,Masculino,Saneamento e urbanização,Magalhaes,Sem Opiniao,Sem Opiniao
+18,18 a 21,Santa Efigênia,Masculino,Renda,Magalhaes,Sim,Sim
+24,22 a 24,Santa Efigênia,Feminino,Emprego,Magalhaes,Não,Não
+19,18 a 21,Centro,Feminino,Saúde,Adail,Sim,Sim
+19,18 a 21,Centro,Feminino,Emprego,Magalhaes,Sem Opiniao,Sem Opiniao
+18,18 a 21,Centro,Masculino,Emprego,Magalhaes,Sim,Sim
+25,25 a 29,Centro,Masculino,Emprego,Adail,Não,Sim
+22,22 a 24,União,Masculino,Emprego,Mitouso,Sem Opiniao,Sim
+18,18 a 21,União,Feminino,Segurança,Magalhaes,Sim,Sim
+20,18 a 21,União,Feminino,Salário,f,Sem Opiniao,Sem Opiniao
+18,18 a 21,União,Feminino,Emprego,Adail,Sim,Sim
+58,50 a 59,Do Pera,Masculino,Saúde,Adail,Sim,Sim
+19,18 a 21,União,Masculino,Saneamento e urbanização,g,Sim,Sim
+49,40 a 49,Chagas,Masculino,Asfalto,Adail,Sim,Sim
+20,18 a 21,Chagas,Feminino,Saúde,Adail,Sem Opiniao,Sim
+18,18 a 21,Chagas,Masculino,Segurança,f,Sim,Sem Opiniao
+55,50 a 59,Chagas,Feminino,Administração pública,,Sem Opiniao,Sem Opiniao
+25,25 a 29,Chagas,Masculino,Saúde,f,Não,Não
+20,18 a 21,Chagas,Masculino,Segurança,Magalhaes,Sem Opiniao,Sem Opiniao
+21,18 a 21,União,Masculino,Emprego,Adail,Sim,Sem Opiniao
+18,18 a 21,Chagas,Masculino,Administração pública,Mitouso,Sim,Sem Opiniao
+23,22 a 24,Do Pera,Masculino,Saúde,Magalhaes,Sem Opiniao,Sem Opiniao
+68,60 e +,Do Pera,Masculino,Outros,Adail,Sim,Sim
+24,22 a 24,Do Pera,Feminino,Renda,Adail,Sim,Sim
+34,30 a 39,Do Pera,Feminino,Emprego,Adail,Sim,Sim
+29,25 a 29,Do Pera,Masculino,Saúde,Magalhaes,Sim,Não
+37,30 a 39,Do Pera,Feminino,Água,Mitouso,Sem Opiniao,Sem Opiniao
+16,16 e 17,Do Pera,Masculino,Segurança,Adail,Sim,Sim
+37,30 a 39,Do Pera,Masculino,Infraestrutura,Adail,Sem Opiniao,Sim
+30,30 a 39,Do Pera,Masculino,Emprego,Adail,Sim,Não
+32,30 a 39,Do Pera,Masculino,Emprego,Adail,Sem Opiniao,Sem Opiniao
+54,50 a 59,Do Pera,Feminino,Emprego,Adail,Sim,Não
