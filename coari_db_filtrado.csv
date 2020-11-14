@@ -1,462 +1,462 @@
-,Idade,Faixa,Bairro,Genero,Prioridade,Intencao,Por Omar,Por Braga,Escolaridade,Renda
-0,42,40 a 49,Urucu,Masculino,Salário,Adail,Sim,Sim,Fundam. Incompleto,1000.0
-1,48,40 a 49,Itamarati,Masculino,Asfalto,indeciso,Sim,Sem Opinião,Médio Completo,1800.0
-2,22,22 a 24,União,Masculino,Segurança,Magalhaes,Sim,Não,Superior Incompleto,2500.0
-3,19,18 a 21,Itamarati,Feminino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,1000.0
-4,34,30 a 39,União,Feminino,Emprego,Adail,Sem Opinião,Sim,Médio Completo,500.0
-5,27,25 a 29,Chagas,Masculino,Saúde,Magalhaes,Não,Sim,Fundam. Completo,1200.0
-6,30,30 a 39,União,Masculino,Corrupção,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,600.0
-7,25,25 a 29,Itamarati,Feminino,Asfalto,Adail,Sim,Sim,Fundam. Incompleto,150.0
-8,54,50 a 59,Santa Helena,Feminino,Saneamento e urbanização,Adail,Sim,Não,Fundam. Incompleto,500.0
-9,35,30 a 39,Centro,Masculino,Emprego,Magalhaes,Sem Opinião,Não,Médio Completo,2000.0
-10,37,30 a 39,Centro,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,1300.0
-11,19,18 a 21,Santa Efigênia,Feminino,Salário,Magalhaes,Não,Sim,Médio Completo,2000.0
-12,26,25 a 29,Chagas,Masculino,Emprego,Magalhaes,Não,Não,Fundam. Completo,2700.0
-13,41,40 a 49,União,Masculino,Renda,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
-14,32,30 a 39,Tauá Mirim,Masculino,Administração pública,Adail,Sim,Sim,Médio Incompleto,650.0
-15,33,30 a 39,Santa Efigênia,Masculino,Corrupção,Adail,Sem Opinião,Sem Opinião,Médio Completo,2500.0
-16,20,18 a 21,Santa Efigênia,Feminino,Emprego,Magalhaes,Sim,Sim,Médio Completo,2000.0
-17,58,50 a 59,Chagas,Masculino,Corrupção,Adail,Não,Sim,Médio Completo,1000.0
-18,48,40 a 49,Centro,Masculino,Salário,Magalhaes,Sim,Sem Opinião,Fundam. Incompleto,600.0
-19,58,50 a 59,Centro,Masculino,Saúde,Adail,Sem Opinião,Sim,Fundam. Completo,1500.0
-20,23,22 a 24,Tauá Mirim,Masculino,Saúde,Adail,Sim,Sim,Médio Incompleto,600.0
-21,46,40 a 49,Centro,Masculino,Segurança,Magalhaes,Sim,Sim,Médio Completo,2800.0
-22,39,30 a 39,Itamarati,Feminino,Asfalto,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
-23,38,30 a 39,Duque,Feminino,Saúde,indeciso,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-24,51,50 a 59,Tauá Mirim,Masculino,Infraestrutura,Magalhaes,Sem Opinião,Não,Pós graduação,0.0
-25,23,22 a 24,Urucu,Masculino,Emprego,Magalhaes,Sim,Não,Fundam. Completo,400.0
-26,38,30 a 39,Santa Efigênia,Masculino,Salário,Mitouso,Sem Opinião,Não,Médio Completo,1000.0
-27,38,30 a 39,Centro,Masculino,Renda,Mitouso,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
-28,57,50 a 59,Centro,Masculino,Saneamento e urbanização,Mitouso,Sim,Não,Pós graduação,5000.0
-29,29,25 a 29,Urucu,Masculino,Saúde,Magalhaes,Sim,Não,Médio Completo,1000.0
-30,22,22 a 24,Duque,Masculino,Asfalto,Magalhaes,Sem Opinião,Sim,Fundam. Completo,600.0
-31,19,18 a 21,Chagas,Feminino,Corrupção,Magalhaes,Sem Opinião,Sim,Médio Completo,650.0
-32,32,30 a 39,Urucu,Masculino,Salário,Adail,Sem Opinião,Sim,Fundam. Incompleto,1800.0
-33,36,30 a 39,Tauá Mirim,Masculino,Outros,Magalhaes,Não,Sim,Médio Completo,1200.0
-34,32,30 a 39,Duque,Feminino,Educação,Nulo,Não,Sim,Superior Incompleto,1500.0
-35,21,18 a 21,Espirito Santo,Feminino,Emprego,Adail,Sim,Sim,Médio Incompleto,650.0
-36,50,50 a 59,Itamarati,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,1500.0
-37,16,16 e 17,Tauá Mirim,Feminino,Renda,Magalhaes,Sem Opinião,Sim,Fundam. Incompleto,900.0
-38,52,50 a 59,Centro,Masculino,Saúde,Adail,Sim,Não,Médio Completo,1900.0
-39,22,22 a 24,Tauá Mirim,Feminino,Salário,Adail,Sim,Sim,Fundam. Incompleto,900.0
-40,41,40 a 49,Chagas,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1000.0
-41,32,30 a 39,União,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,900.0
-42,30,30 a 39,centro,Masculino,Emprego,Adail,Sem Opinião,Não,Fundam. Completo,2500.0
-43,18,18 a 21,Itamarati,Feminino,Saneamento e urbanização,Mitouso,Não,Não,Médio Completo,1500.0
-44,21,18 a 21,Itamarati,Feminino,Saúde,Magalhaes,Não,Não,Fundam. Completo,4000.0
-45,35,30 a 39,Itamarati,Feminino,Renda,Nulo,Sim,Não,Pós graduação,2500.0
-46,59,50 a 59,Espirito Santo,Masculino,Saneamento e urbanização,indeciso,Sem Opinião,Sem Opinião,Médio Incompleto,300.0
-47,64,60 e +,Chagas,Masculino,Salário,Adail,Sem Opinião,Não,Médio Completo,2000.0
-48,33,30 a 39,Tauá Mirim,Masculino,Saneamento e urbanização,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,2000.0
-49,20,18 a 21,Do Pera,Feminino,Emprego,Magalhaes,Sim,Sim,Médio Completo,650.0
-50,50,50 a 59,Centro,Feminino,Renda,indeciso,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
-51,20,18 a 21,Itamarati,Masculino,Administração pública,Magalhaes,Sem Opinião,Sim,Médio Completo,2000.0
-52,30,30 a 39,Chagas,Masculino,Renda,Adail,Sim,Sim,Médio Completo,510.0
-53,40,40 a 49,Duque,Masculino,Saneamento e urbanização,Nulo,Não,Não,Fundam. Incompleto,650.0
-54,21,18 a 21,Duque,Feminino,Segurança,f,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-55,21,18 a 21,Chagas,Feminino,Salário,Nulo,Não,Sim,Médio Completo,2600.0
-56,21,18 a 21,Itamarati,Masculino,Saúde,Nulo,Sem Opinião,Sem Opinião,Fundam. Completo,620.0
-57,22,22 a 24,Chagas,Masculino,Emprego,Adail,Não,Não,Fundam. Completo,600.0
-58,32,30 a 39,Santa Efigênia,Feminino,Segurança,f,Não,Sem Opinião,Médio Completo,900.0
-59,18,18 a 21,Itamarati,Masculino,Energia,Adail,Sim,Sim,Médio Incompleto,1800.0
-60,50,50 a 59,Chagas,Feminino,Saúde,Mitouso,Sim,Sim,Não Alfabetizado,100.0
-61,16,16 e 17,Chagas,Feminino,Saúde,Mitouso,Sim,Sim,Fundam. Completo,100.0
-62,33,30 a 39,Tauá Mirim,Masculino,Infraestrutura,Mitouso,Sim,Não,Médio Completo,1950.0
-63,55,50 a 59,Centro,Feminino,Segurança,Magalhaes,Não,Não,Fundam. Completo,1000.0
-64,24,22 a 24,Tauá Mirim,Feminino,Segurança,Magalhaes,Sem Opinião,Não,Médio Completo,1300.0
-65,21,18 a 21,Itamarati,Feminino,Asfalto,f,Sem Opinião,Sem Opinião,Médio Completo,650.0
-66,30,30 a 39,Urucu,Feminino,,Magalhaes,Sim,Não,Fundam. Completo,650.0
-67,19,18 a 21,Itamarati,Feminino,Segurança,Adail,Não,Sim,Médio Completo,800.0
-68,24,22 a 24,Chagas,Feminino,Salário,Magalhaes,Não,Sim,Médio Completo,1000.0
-69,19,18 a 21,Urucu,Feminino,Emprego,Adail,Sim,Sim,Médio Incompleto,480.0
-70,28,25 a 29,Centro,Feminino,Salário,Adail,Sim,Sim,Fundam. Completo,650.0
-71,28,25 a 29,Tauá Mirim,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Incompleto,700.0
-72,24,22 a 24,Chagas,Masculino,Salário,Magalhaes,Não,Não,Médio Completo,
-73,39,30 a 39,Tauá Mirim,Masculino,Segurança,Magalhaes,Sem Opinião,Sim,Médio Completo,3000.0
-74,21,18 a 21,Do Pera,Feminino,Saúde,Adail,Não,Não,Médio Completo,622.0
-75,17,16 e 17,Chagas,Feminino,Segurança,Adail,Sim,Não,Médio Incompleto,1000.0
-76,43,40 a 49,Centro,Feminino,Infraestrutura,Mitouso,Não,Não,Fundam. Incompleto,
-77,34,30 a 39,Santa Efigênia,Feminino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Completo,650.0
-78,28,25 a 29,União,Masculino,Asfalto,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,650.0
-79,21,18 a 21,Espirito Santo,Feminino,Segurança,Mitouso,Sem Opinião,Não,Médio Completo,650.0
-80,23,22 a 24,Centro,Feminino,Saúde,Mitouso,Sim,Sim,Médio Completo,
-81,17,16 e 17,Espirito Santo,Feminino,,Adail,Sim,Não,Médio Completo,2600.0
-82,18,18 a 21,Tauá Mirim,Feminino,Saúde,f,Não,Não,Médio Incompleto,
-83,18,18 a 21,Do Pera,Feminino,Emprego,Magalhaes,Sim,Sim,Médio Incompleto,
-84,36,30 a 39,Tauá Mirim,Feminino,,Adail,Não,Não,Fundam. Incompleto,500.0
-85,32,30 a 39,Itamarati,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,650.0
-86,16,16 e 17,Espirito Santo,Masculino,Administração pública,Magalhaes,Não,Não,Médio Incompleto,5000.0
-87,31,30 a 39,Tauá Mirim,Feminino,,Mitouso,Não,Não,Médio Completo,2000.0
-88,33,30 a 39,Centro,Feminino,Segurança,f,Sim,Sim,Fundam. Completo,
-89,27,25 a 29,Itamarati,Feminino,Infraestrutura,Nulo,Sem Opinião,Sem Opinião,Médio Completo,650.0
-90,28,25 a 29,Duque,Masculino,Corrupção,Adail,Sim,Sim,Médio Completo,1900.0
-91,33,30 a 39,Itamarati,Masculino,Emprego,Adail,Sim,Sim,Médio Completo,1950.0
-92,40,40 a 49,Chagas,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,1244.0
-93,31,30 a 39,Chagas,Masculino,Saúde,Magalhaes,Não,Sim,Pós graduação,1000.0
-94,35,30 a 39,Chagas,Masculino,Saneamento e urbanização,Mitouso,Sem Opinião,Não,Pós graduação,
-95,19,18 a 21,Chagas,Masculino,Emprego,Adail,Sim,Sim,Médio Completo,600.0
-96,27,25 a 29,União,Masculino,Emprego,Adail,Sem Opinião,Sim,Médio Completo,200.0
-97,21,18 a 21,Santa Helena,Feminino,Asfalto,Nulo,Não,Não,Médio Completo,5000.0
-98,28,25 a 29,Centro,Masculino,Corrupção,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,2400.0
-99,16,16 e 17,União,Masculino,Saúde,Magalhaes,Sim,Sim,Médio Incompleto,2500.0
-100,31,30 a 39,Centro,Masculino,Segurança,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,2000.0
-101,40,40 a 49,Santa Efigênia,Masculino,Moradia,Magalhaes,Sim,Não,Fundam. Incompleto,1600.0
-102,27,25 a 29,União,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
-103,18,18 a 21,Centro,Feminino,,Adail,Sem Opinião,Sim,Fundam. Completo,1300.0
-104,24,22 a 24,Chagas,Masculino,Saneamento e urbanização,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-105,26,25 a 29,Do Pera,Masculino,Emprego,Magalhaes,Sim,Não,Médio Incompleto,500.0
-106,18,18 a 21,Centro,Feminino,Emprego,Mitouso,Sim,Sim,Médio Incompleto,
-107,21,18 a 21,Urucu,Masculino,Saúde,Magalhaes,Sem Opinião,Sim,Médio Completo,1950.0
-108,27,25 a 29,Duque,Masculino,Saneamento e urbanização,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,1300.0
-109,41,40 a 49,Urucu,Masculino,Segurança,Magalhaes,Sem Opinião,Não,Pós graduação,2400.0
-110,44,40 a 49,Centro,Feminino,Segurança,,Não,Sim,Fundam. Incompleto,3000.0
-111,60,60 e +,Do Pera,Feminino,Educação,,Não,Sem Opinião,Não Alfabetizado,1000.0
-112,37,30 a 39,Itamarati,Masculino,Saúde,,Sem Opinião,Sem Opinião,Apenas Alfabetizado,800.0
-113,32,30 a 39,Centro,Feminino,Educação,Magalhaes,Sem Opinião,,Pós graduação,8000.0
-114,48,40 a 49,Do Pera,Masculino,Moradia,Adail,Não,Não,Não Alfabetizado,600.0
-115,26,25 a 29,Centro,Masculino,Infraestrutura,Magalhaes,Sem Opinião,Sim,Superior Incompleto,5000.0
-116,33,30 a 39,Santa Efigênia,Feminino,Saúde,,Sem Opinião,Não,Médio Completo,1000.0
-117,43,40 a 49,Itamarati,Feminino,Segurança,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,600.0
-118,25,25 a 29,Duque,Feminino,Saúde,Magalhaes,Sim,Sim,Médio Completo,650.0
-119,33,30 a 39,Tauá Mirim,Masculino,Emprego,,Sim,Sem Opinião,Médio Completo,2000.0
-120,22,22 a 24,União,Feminino,Emprego,Nulo,Sem Opinião,Sem Opinião,Médio Completo,700.0
-121,35,30 a 39,Santa Helena,Feminino,Saúde,Adail,Sim,Sem Opinião,Médio Completo,650.0
-122,33,30 a 39,Urucu,Masculino,Asfalto,,Sem Opinião,Sim,Fundam. Incompleto,650.0
-123,29,25 a 29,Urucu,Masculino,Salário,Adail,Não,Não,Médio Incompleto,1000.0
-124,51,50 a 59,Santa Efigênia,Masculino,Salário,,Sim,Sim,Médio Completo,1800.0
-125,44,40 a 49,Santa Efigênia,Feminino,Emprego,,Não,Não,Médio Incompleto,500.0
-126,55,50 a 59,Santa Efigênia,Masculino,Saúde,Magalhaes,Sem Opinião,Não,Não Alfabetizado,650.0
-127,17,16 e 17,Urucu,Feminino,Saúde,,Não,Sem Opinião,Médio Incompleto,2000.0
-128,20,18 a 21,Tauá Mirim,Feminino,Segurança,Magalhaes,Não,Não,Médio Completo,1000.0
-129,21,18 a 21,Santa Efigênia,Feminino,Saúde,Adail,Sem Opinião,Sim,Médio Incompleto,2000.0
-130,18,18 a 21,Urucu,Masculino,Energia,Adail,Não,Não,Médio Incompleto,2000.0
-131,49,40 a 49,Santa Efigênia,Feminino,Emprego,,Não,Sim,Apenas Alfabetizado,380.0
-132,62,60 e +,Centro,Masculino,Saúde,,Sem Opinião,Sem Opinião,Não Alfabetizado,
-133,70,60 e +,Tauá Mirim,Masculino,Segurança,,Não,Não,Apenas Alfabetizado,650.0
-134,63,60 e +,Centro,Feminino,Educação,Magalhaes,Sem Opinião,Sem Opinião,Pós graduação,6000.0
-135,19,18 a 21,Centro,Masculino,Emprego,,Sem Opinião,Sim,Fundam. Incompleto,2000.0
-136,73,60 e +,Chagas,Masculino,Saúde,,Sem Opinião,Sem Opinião,Não Alfabetizado,800.0
-137,41,40 a 49,União,Masculino,Emprego,,Sem Opinião,Sem Opinião,Fundam. Incompleto,
-138,23,22 a 24,Centro,Feminino,Salário,Magalhaes,Sim,Não,Médio Incompleto,650.0
-139,18,18 a 21,Itamarati,Feminino,Asfalto,Adail,Sem Opinião,Sim,Fundam. Incompleto,800.0
-140,17,16 e 17,Santa Efigênia,Masculino,Emprego,Adail,Sim,Sim,Médio Incompleto,800.0
-141,48,40 a 49,Urucu,Masculino,Salário,,Sem Opinião,Sem Opinião,Não Alfabetizado,
-142,36,30 a 39,Centro,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,
-143,21,18 a 21,Duque,Feminino,Emprego,Magalhaes,Não,Sim,Médio Completo,650.0
-144,40,40 a 49,Centro,Masculino,Segurança,Adail,Não,Não,Médio Completo,4000.0
-145,36,30 a 39,Urucu,Masculino,Moradia,,Sem Opinião,Não,Fundam. Incompleto,2000.0
-146,17,16 e 17,Tauá Mirim,Feminino,Moradia,,Sem Opinião,Não,Médio Incompleto,1300.0
-147,22,22 a 24,Itamarati,Feminino,Saúde,Magalhaes,Não,Sim,Médio Completo,1300.0
-148,18,18 a 21,Santa Efigênia,Masculino,Saúde,Iran,Sim,Não,Fundam. Incompleto,650.0
-149,18,18 a 21,Chagas,Feminino,Emprego,,Não,Sim,Fundam. Incompleto,100.0
-150,47,40 a 49,Centro,Feminino,Saúde,,Sim,Não,Médio Completo,1800.0
-151,40,40 a 49,Duque,Masculino,Educação,,Sim,Sim,Não Alfabetizado,650.0
-152,27,25 a 29,Chagas,Masculino,Asfalto,Nulo,Sim,Sim,Médio Completo,1300.0
-153,53,50 a 59,Centro,Masculino,Saneamento e urbanização,,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
-154,33,30 a 39,União,Masculino,Salário,,Sim,Não,Médio Incompleto,8000.0
-155,23,22 a 24,Centro,Masculino,Salário,,Sim,Sim,Médio Completo,500.0
-156,22,22 a 24,Chagas,Masculino,Emprego,Adail,Não,Não,Fundam. Incompleto,1200.0
-157,17,16 e 17,União,Feminino,Salário,,Não,Não,Médio Incompleto,800.0
-158,16,16 e 17,Centro,Feminino,Outros,Iran,Sim,Sim,Médio Incompleto,500.0
-159,23,22 a 24,Itamarati,Feminino,Moradia,Magalhaes,Não,Sim,Médio Completo,100.0
-160,40,40 a 49,Centro,Masculino,Emprego,Adail,Sim,Sim,Apenas Alfabetizado,500.0
-161,36,30 a 39,Santa Efigênia,Masculino,Emprego,,Sim,Sim,Não Alfabetizado,1300.0
-162,22,22 a 24,Centro,Masculino,Transporte,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,1800.0
-163,54,50 a 59,Santa Helena,Masculino,Saúde,Adail,Sem Opinião,Não,Médio Completo,10000.0
-164,30,30 a 39,União,Masculino,Emprego,Adail,Não,Sim,Médio Completo,1200.0
-165,18,18 a 21,Centro,Feminino,Saúde,Nulo,Não,Sim,Fundam. Incompleto,650.0
-166,49,40 a 49,Centro,Feminino,Emprego,,Sim,Sim,Médio Incompleto,1200.0
-167,35,30 a 39,União,Feminino,Emprego,f,Sem Opinião,Sim,Fundam. Incompleto,200.0
-168,24,22 a 24,Centro,Feminino,Saúde,h,Não,Sem Opinião,Pós graduação,
-169,36,30 a 39,Urucu,Feminino,Saúde,Adail,Não,Não,Médio Incompleto,600.0
-170,47,40 a 49,União,Masculino,Corrupção,Magalhaes,Sem Opinião,Sim,Fundam. Incompleto,300.0
-171,50,50 a 59,Itamarati,Masculino,Moradia,Adail,Não,Não,Fundam. Incompleto,
-172,24,22 a 24,Itamarati,Masculino,Emprego,,Sem Opinião,Sim,Fundam. Incompleto,600.0
-173,27,25 a 29,Z - Rural,Masculino,Emprego,,Sim,Sim,Fundam. Incompleto,400.0
-174,43,40 a 49,Do Pera,Masculino,Saúde,f,Não,Sem Opinião,Pós graduação,1300.0
-175,20,18 a 21,Urucu,Masculino,Saúde,Magalhaes,Sim,Não,Pós graduação,1600.0
-176,45,40 a 49,Espirito Santo,Feminino,Emprego,Adail,Não,Sem Opinião,Fundam. Incompleto,
-177,21,18 a 21,Santa Helena,Masculino,Saúde,Magalhaes,Sim,Sim,Fundam. Incompleto,
-178,23,22 a 24,Chagas,Masculino,Educação,Adail,Não,Sim,Médio Incompleto,1000.0
-179,19,18 a 21,Tauá Mirim,Masculino,Outros,Magalhaes,Não,Sim,Fundam. Incompleto,200.0
-180,48,40 a 49,Z - Rural,Masculino,Corrupção,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
-181,49,40 a 49,Z - Rural,Feminino,Corrupção,Nulo,Sim,Sem Opinião,Fundam. Incompleto,530.0
-182,26,25 a 29,Do Pera,Masculino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,1000.0
-183,20,18 a 21,Chagas,Feminino,Emprego,f,Sim,Sim,Médio Completo,1300.0
-184,29,25 a 29,União,Feminino,Segurança,Adail,Sem Opinião,Sim,Superior Incompleto,3000.0
-185,26,25 a 29,Espirito Santo,Feminino,Saúde,Adail,Não,Sim,Fundam. Incompleto,650.0
-186,23,22 a 24,Espirito Santo,Feminino,Salário,Adail,Sem Opinião,Sem Opinião,Médio Completo,650.0
-187,28,25 a 29,Santa Helena,Feminino,Renda,Adail,Sim,Sim,Fundam. Incompleto,650.0
-188,26,25 a 29,Urucu,Feminino,Saúde,Magalhaes,Não,Sem Opinião,Médio Completo,650.0
-189,41,40 a 49,Itamarati,Masculino,Emprego,Magalhaes,Sim,Não,Fundam. Completo,5000.0
-190,22,22 a 24,Urucu,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,180.0
-191,29,25 a 29,Centro,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,650.0
-192,16,16 e 17,Urucu,Feminino,Administração pública,Adail,Sim,Sim,Médio Incompleto,1000.0
-193,28,25 a 29,Urucu,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,600.0
-194,29,25 a 29,Chagas,Feminino,Renda,Adail,Não,Sim,Fundam. Completo,5000.0
-195,18,18 a 21,Tauá Mirim,Feminino,Saneamento e urbanização,Adail,Sem Opinião,Sim,Médio Incompleto,650.0
-196,28,25 a 29,Chagas,Feminino,Renda,Iran,Sem Opinião,Não,Médio Completo,500.0
-197,24,22 a 24,Urucu,Feminino,Segurança,Adail,Sem Opinião,Sim,Fundam. Completo,600.0
-198,28,25 a 29,Centro,Feminino,Educação,Mitouso,Sim,Não,Médio Completo,800.0
-199,29,25 a 29,Tauá Mirim,Feminino,Emprego,Nulo,Sem Opinião,Sim,Superior Incompleto,1000.0
-200,37,30 a 39,União,Masculino,Saúde,Adail,Sim,Sim,Fundam. Incompleto,150000.0
-201,22,22 a 24,União,Feminino,Administração pública,Magalhaes,Sim,Sim,Médio Completo,1300.0
-202,29,25 a 29,Chagas,Feminino,Salário,Adail,Sim,Sim,Médio Completo,1000.0
-203,28,25 a 29,Urucu,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,1950.0
-204,18,18 a 21,Chagas,Feminino,Infraestrutura,Magalhaes,Sim,Sim,Médio Incompleto,400.0
-205,29,25 a 29,Urucu,Feminino,Corrupção,Adail,Sim,Sim,Fundam. Incompleto,300.0
-206,22,22 a 24,Chagas,Feminino,Segurança,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,1300.0
-207,28,25 a 29,Do Pera,Feminino,Infraestrutura,indeciso,Sem Opinião,Sem Opinião,Fundam. Incompleto,300.0
-208,27,25 a 29,Do Pera,Feminino,Saúde,Adail,Sim,Sim,Fundam. Incompleto,650.0
-209,29,25 a 29,Chagas,Feminino,Emprego,Mitouso,Sim,Não,Médio Completo,1500.0
-210,27,25 a 29,Santa Helena,Feminino,Saúde,Adail,Sim,Não,Pós graduação,4000.0
-211,27,25 a 29,Duque,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
-212,16,16 e 17,União,Feminino,Renda,Magalhaes,Não,Sim,Fundam. Incompleto,3250.0
-213,32,30 a 39,Centro,Masculino,Segurança,Adail,Sem Opinião,Sim,Médio Completo,1300.0
-214,26,25 a 29,União,Feminino,Emprego,f,Não,b ,Médio Completo,
-215,29,25 a 29,Santa Efigênia,Feminino,Emprego,f,Não,Não,Médio Completo,
-216,27,25 a 29,União,Feminino,Saúde,Nulo,Sim,Sim,Médio Incompleto,682.0
-217,18,18 a 21,União,Feminino,Emprego,Iran,Sem Opinião,Sem Opinião,Médio Completo,650.0
-218,17,16 e 17,Chagas,Masculino,Emprego,Magalhaes,Sim,Sim,Fundam. Incompleto,1300.0
-219,24,22 a 24,Urucu,Masculino,Educação,f,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
-220,20,18 a 21,Itamarati,Feminino,Emprego,Magalhaes,Não,Sim,Médio Completo,800.0
-221,25,25 a 29,Tauá Mirim,Masculino,Moradia,Magalhaes,Não,Sem Opinião,Médio Completo,650.0
-222,19,18 a 21,Do Pera,Masculino,Corrupção,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,
-223,19,18 a 21,Do Pera,Masculino,Corrupção,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
-224,21,18 a 21,Urucu,Masculino,Segurança,Magalhaes,Sim,Não,Médio Completo,1200.0
-225,22,22 a 24,Tauá Mirim,Masculino,Emprego,Adail,Não,Não,Médio Incompleto,1200.0
-226,49,40 a 49,Centro,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Completo,3000.0
-227,39,30 a 39,Duque,Masculino,Saneamento e urbanização,Adail,Não,Não,Médio Completo,1000.0
-228,38,30 a 39,Centro,Masculino,Saúde,Magalhaes,Sim,Não,Médio Completo,650.0
-229,54,50 a 59,União,Masculino,Segurança,Magalhaes,Sim,Não,Pós graduação,1400.0
-230,19,18 a 21,Urucu,Masculino,Emprego,,Não,Não,Médio Completo,1000.0
-231,20,18 a 21,Urucu,Masculino,Emprego,Magalhaes,Não,Sim,Médio Incompleto,
-232,31,30 a 39,Chagas,Masculino,Saúde,Adail,Não,Não,Fundam. Incompleto,1000.0
-233,32,30 a 39,Centro,Masculino,Corrupção,Magalhaes,Sim,Sim,Pós graduação,7000.0
-234,30,30 a 39,Itamarati,Feminino,Saúde,Adail,Sim,Sim,Pós graduação,871.0
-235,28,25 a 29,Tauá Mirim,Masculino,Emprego,Adail,Não,Sim,Médio Completo,1500.0
-236,29,25 a 29,Santa Helena,Masculino,Outros,Magalhaes,Sem Opinião,Não,Fundam. Incompleto,600.0
-237,23,22 a 24,Duque,Masculino,Emprego,Magalhaes,Não,Não,Médio Incompleto,2000.0
-238,19,18 a 21,União,Masculino,Segurança,Magalhaes,Não,Não,Médio Incompleto,3250.0
-239,23,22 a 24,Itamarati,Masculino,Saúde,Adail,Sem Opinião,Não,Médio Completo,783.0
-240,51,50 a 59,Duque,Masculino,Emprego,Magalhaes,Não,Não,Fundam. Incompleto,1500.0
-241,51,50 a 59,Itamarati,Feminino,Emprego,Magalhaes,Não,Não,Fundam. Incompleto,600.0
-242,27,25 a 29,Urucu,Masculino,Energia,Mitouso,Não,Não,Fundam. Incompleto,650.0
-243,18,18 a 21,Itamarati,Masculino,Educação,Adail,Sim,Sim,Médio Incompleto,1500.0
-244,30,30 a 39,Espirito Santo,Masculino,Infraestrutura,Magalhaes,Não,Não,Pós graduação,1200.0
-245,18,18 a 21,Espirito Santo,Masculino,Segurança,Magalhaes,Não,Sim,Médio Completo,3900.0
-246,27,25 a 29,Espirito Santo,Masculino,Salário,Magalhaes,Sim,Não,Médio Completo,650.0
-247,17,16 e 17,Tauá Mirim,Masculino,Educação,Iran,Não,Não,Médio Incompleto,
-248,18,18 a 21,Itamarati,Masculino,Emprego,Magalhaes,Não,Sim,Médio Incompleto,
-249,21,18 a 21,Espirito Santo,Masculino,Emprego,Magalhaes,Não,Sim,Médio Completo,630.0
-250,32,30 a 39,Duque,Feminino,Emprego,,Sem Opinião,Sem Opinião,Médio Completo,800.0
-251,73,60 e +,Chagas,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
-252,32,30 a 39,Chagas,Feminino,Saúde,f,Sim,Sim,Superior Incompleto,1800.0
-253,61,60 e +,Centro,Feminino,Saúde,f,Sim,Não,Médio Completo,100.0
-254,30,30 a 39,Santa Helena,Feminino,Saneamento e urbanização,Magalhaes,Sem Opinião,Sim,Médio Completo,2500.0
-255,30,30 a 39,Chagas,Feminino,Salário,f,Sim,Sim,Médio Completo,1900.0
-256,50,50 a 59,Duque,Feminino,Emprego,Adail,Sim,Sim,Apenas Alfabetizado,650.0
-257,34,30 a 39,Itamarati,Feminino,Saúde,,Sem Opinião,Sim,Apenas Alfabetizado,700.0
-258,51,50 a 59,Tauá Mirim,Feminino,Renda,,Não,Não,Fundam. Incompleto,650.0
-259,53,50 a 59,Espirito Santo,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1000.0
-260,33,30 a 39,União,Feminino,Saúde,indeciso,Sem Opinião,Sem Opinião,Médio Completo,1000.0
-261,34,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Pós graduação,1900.0
-262,42,40 a 49,Urucu,Feminino,Saneamento e urbanização,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,2000.0
-263,60,60 e +,Itamarati,Feminino,Saúde,Magalhaes,Sim,Sim,Apenas Alfabetizado,650.0
-264,35,30 a 39,Tauá Mirim,Feminino,,f,Sem Opinião,Sem Opinião,Médio Completo,2000.0
-265,46,40 a 49,Do Pera,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,600.0
-266,32,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sim,Sim,Médio Completo,1300.0
-267,42,40 a 49,Itamarati,Feminino,Emprego,f,Sem Opinião,Sem Opinião,Fundam. Incompleto,20000.0
-268,42,40 a 49,Duque,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,170.0
-269,33,30 a 39,Itamarati,Feminino,Emprego,f,Sim,Sim,Fundam. Incompleto,240.0
-270,53,50 a 59,Santa Efigênia,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,800.0
-271,30,30 a 39,Espirito Santo,Feminino,Salário,Mitouso,Sem Opinião,Sem Opinião,Médio Incompleto,2000.0
-272,48,40 a 49,União,Feminino,Emprego,Adail,Não,Não,Apenas Alfabetizado,650.0
-273,34,30 a 39,União,Feminino,Outros,Mitouso,Não,Não,Médio Completo,1200.0
-274,40,40 a 49,Santa Efigênia,Feminino,Emprego,Adail,Sim,Sim,Apenas Alfabetizado,650.0
-275,57,50 a 59,Itamarati,Feminino,Segurança,Mitouso,Sem Opinião,Sem Opinião,Não Alfabetizado,
-276,39,30 a 39,Santa Helena,Feminino,Asfalto,Adail,Não,Sim,Apenas Alfabetizado,1000.0
-277,31,30 a 39,União,Feminino,Saúde,Adail,Sim,Sim,Médio Incompleto,650.0
-278,16,16 e 17,Urucu,Feminino,Asfalto,Magalhaes,Sim,Não,Médio Incompleto,650.0
-279,36,30 a 39,Tauá Mirim,Feminino,Saúde,Iran,Não,Não,Médio Incompleto,2000.0
-280,21,18 a 21,Centro,Feminino,Salário,Magalhaes,Sim,Sim,Médio Completo,3000.0
-281,24,22 a 24,Urucu,Feminino,Segurança,Magalhaes,Não,Não,Médio Completo,1000.0
-282,54,50 a 59,Centro,Masculino,Renda,Magalhaes,Sim,Não,Médio Completo,2000.0
-283,60,60 e +,Centro,Masculino,Emprego,Magalhaes,Sim,Não,Superior Incompleto,6000.0
-284,16,16 e 17,Duque,Feminino,Salário,Magalhaes,Sim,Não,Médio Incompleto,1300.0
-285,18,18 a 21,União,Feminino,Infraestrutura,indeciso,Sim,Sem Opinião,Superior Incompleto,1300.0
-286,24,22 a 24,Do Pera,Feminino,Infraestrutura,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,650.0
-287,29,25 a 29,Tauá Mirim,Feminino,Outros,indeciso,Sem Opinião,Sem Opinião,Pós graduação,10000.0
-288,26,25 a 29,União,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-289,20,18 a 21,Urucu,Feminino,Saúde,Nulo,Sem Opinião,Sem Opinião,Médio Completo,650.0
-290,29,25 a 29,Itamarati,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,
-291,29,25 a 29,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não,Fundam. Completo,500.0
-292,63,60 e +,Chagas,Masculino,Moradia,Adail,Sim,Sim,Apenas Alfabetizado,500.0
-293,40,40 a 49,Itamarati,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Completo,400.0
-294,64,60 e +,Duque,Masculino,Asfalto,Mitouso,Não,Não,Não Alfabetizado,600.0
-295,53,50 a 59,Chagas,Masculino,,Mitouso,Não,Sim,Fundam. Incompleto,1500.0
-296,36,30 a 39,União,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-297,45,40 a 49,Chagas,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
-298,55,50 a 59,Duque,Masculino,Corrupção,Adail,Sem Opinião,Sim,Fundam. Incompleto,600.0
-299,38,30 a 39,União,Masculino,Emprego,indeciso,Sem Opinião,Sem Opinião,Fundam. Incompleto,
-300,59,50 a 59,Chagas,Masculino,Asfalto,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,
-301,45,40 a 49,Chagas,Masculino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Não Alfabetizado,650.0
-302,45,40 a 49,Itamarati,Masculino,Administração pública,Magalhaes,Sim,Sim,Fundam. Incompleto,700.0
-303,34,30 a 39,Chagas,Masculino,Corrupção,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,5000.0
-304,31,30 a 39,Urucu,Masculino,,Adail,Sem Opinião,Sim,Não Alfabetizado,200.0
-305,34,30 a 39,Chagas,Masculino,Saúde,f,Sem Opinião,Sem Opinião,Médio Completo,650.0
-306,37,30 a 39,Itamarati,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1200.0
-307,52,50 a 59,União,Masculino,Educação,f,Não,Não,Médio Completo,650.0
-308,64,60 e +,União,Masculino,Emprego,Adail,Sim,Não,Médio Completo,650.0
-309,41,40 a 49,União,Masculino,Infraestrutura,Mitouso,Sem Opinião,Não,Médio Completo,6500.0
-310,78,60 e +,União,Feminino,Emprego,Adail,Sim,Sim,Não Alfabetizado,800.0
-311,46,40 a 49,Espirito Santo,Masculino,Administração pública,Adail,Sem Opinião,Sem Opinião,Médio Completo,1000.0
-312,38,30 a 39,União,Masculino,Corrupção,Mitouso,Sem Opinião,Sem Opinião,Fundam. Incompleto,700.0
-313,33,30 a 39,União,Masculino,Saúde,Adail,Sem Opinião,Sim,Médio Completo,650.0
-314,60,60 e +,Urucu,Masculino,Asfalto,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-315,50,50 a 59,União,Masculino,Corrupção,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
-316,91,60 e +,União,Masculino,Emprego,Magalhaes,Sem Opinião,Sim,Não Alfabetizado,650.0
-317,49,40 a 49,Chagas,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,600.0
-318,60,60 e +,Santa Efigênia,Masculino,Saúde,Magalhaes,Sem Opinião,Não,Fundam. Incompleto,1000.0
-319,43,40 a 49,Tauá Mirim,Masculino,Segurança,Adail,Sim,Sim,Fundam. Completo,2000.0
-320,64,60 e +,Tauá Mirim,Masculino,Saúde,,Sem Opinião,Sem Opinião,Não Alfabetizado,
-321,31,30 a 39,Urucu,Masculino,Outros,,Sem Opinião,Sem Opinião,Médio Completo,650.0
-322,54,50 a 59,Tauá Mirim,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
-323,41,40 a 49,Urucu,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,600.0
-324,40,40 a 49,Santa Helena,Feminino,Salário,Adail,Sem Opinião,Sim,Médio Completo,650.0
-325,43,40 a 49,União,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
-326,26,25 a 29,Itamarati,Feminino,Emprego,Magalhaes,Sem Opinião,Sim,Médio Completo,1300.0
-327,43,40 a 49,Chagas,Feminino,Saúde,Adail,Não,Sim,Médio Completo,1300.0
-328,59,50 a 59,Tauá Mirim,Feminino,Saúde,Adail,Sim,Sim,Apenas Alfabetizado,400.0
-329,30,30 a 39,Urucu,Feminino,Educação,Adail,Não,Sim,Médio Completo,650.0
-330,51,50 a 59,União,Feminino,Saúde,Magalhaes,Sim,Sem Opinião,Médio Completo,1200.0
-331,63,60 e +,Duque,Feminino,Asfalto,Mitouso,Sim,Não,Não Alfabetizado,600.0
-332,50,50 a 59,União,Feminino,Salário,Adail,Sim,Sim,Apenas Alfabetizado,500.0
-333,40,40 a 49,União,Feminino,Emprego,Adail,Não,Sim,Apenas Alfabetizado,
-334,61,60 e +,Centro,Feminino,Saneamento e urbanização,Adail,Sem Opinião,Sim,Apenas Alfabetizado,650.0
-335,33,30 a 39,Do Pera,Feminino,Saúde,Adail,Sim,Não,Apenas Alfabetizado,650.0
-336,43,40 a 49,Chagas,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-337,67,60 e +,Duque,Feminino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Não Alfabetizado,650.0
-338,66,60 e +,Chagas,Feminino,Saúde,Magalhaes,Sim,Sem Opinião,Não Alfabetizado,650.0
-339,38,30 a 39,União,Feminino,Emprego,Adail,Sem Opinião,Sim,Fundam. Incompleto,600.0
-340,62,60 e +,Chagas,Feminino,Asfalto,f,Sem Opinião,Sem Opinião,Médio Completo,650.0
-341,45,40 a 49,Itamarati,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,650.0
-342,46,40 a 49,Duque,Feminino,Outros,Adail,Sim,Sim,Fundam. Incompleto,500.0
-343,62,60 e +,Santa Helena,Feminino,Emprego,Magalhaes,Sem Opinião,Sim,Não Alfabetizado,600.0
-344,19,18 a 21,União,Feminino,Emprego,Adail,Sim,Sem Opinião,Médio Completo,
-345,30,30 a 39,Urucu,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,600.0
-346,39,30 a 39,Centro,Feminino,Saúde,Adail,Sim,Sem Opinião,Médio Completo,300.0
-347,30,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sim,Sim,Médio Completo,1300.0
-348,22,22 a 24,Urucu,Feminino,Educação,Mitouso,Não,Não,Superior Incompleto,1900.0
-349,41,40 a 49,Do Pera,Feminino,Salário,Magalhaes,Sim,Sem Opinião,Médio Incompleto,650.0
-350,63,60 e +,Itamarati,Feminino,Saúde,f,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
-351,31,30 a 39,Urucu,Feminino,Água,Adail,Sim,Sim,Apenas Alfabetizado,120.0
-352,57,50 a 59,Itamarati,Masculino,Segurança,Iran,Não,Sem Opinião,Médio Completo,3141.0
-353,18,18 a 21,Chagas,Masculino,Segurança,Adail,Sim,Sim,Fundam. Incompleto,
-354,29,25 a 29,Itamarati,Feminino,Corrupção,Adail,Não,Não,Médio Completo,980.0
-355,29,25 a 29,Centro,Feminino,Corrupção,Adail,Não,Não,Médio Completo,1000.0
-356,20,18 a 21,Duque,Masculino,Emprego,Adail,Sim,Não,Fundam. Incompleto,800.0
-357,18,18 a 21,Urucu,Masculino,Energia,Adail,Não,Sim,Médio Incompleto,1000.0
-358,29,25 a 29,União,Masculino,Corrupção,Magalhaes,Não,Não,Superior Incompleto,1800.0
-359,18,18 a 21,Duque,Masculino,Emprego,Adail,Não,Não,Médio Completo,
-360,16,16 e 17,Chagas,Masculino,Segurança,Adail,Não,Sim,Fundam. Incompleto,800.0
-361,16,16 e 17,União,Masculino,Corrupção,Magalhaes,Não,Não,Médio Incompleto,
-362,22,22 a 24,Itamarati,Masculino,Emprego,C.T.,Sim,Não,Fundam. Incompleto,
-363,19,18 a 21,Centro,Masculino,Saúde,Magalhaes,Sim,Não,Médio Completo,1000.0
-364,30,30 a 39,Itamarati,Masculino,Saúde,Adail,Sim,Sem Opinião,Fundam. Incompleto,570.0
-365,18,18 a 21,Tauá Mirim,Masculino,Educação,Adail,Não,Sim,Médio Incompleto,400.0
-366,19,18 a 21,Urucu,Masculino,Infraestrutura,Magalhaes,Não,Sim,Médio Incompleto,1300.0
-367,16,16 e 17,Itamarati,Masculino,Corrupção,Magalhaes,Sim,Não,Médio Incompleto,
-368,43,40 a 49,Tauá Mirim,Feminino,Saúde,Adail,Sim,Não,Médio Incompleto,650.0
-369,45,40 a 49,Tauá Mirim,Feminino,Saúde,f,Não,Não,Fundam. Incompleto,1000.0
-370,32,30 a 39,Duque,Masculino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,800.0
-371,23,22 a 24,Duque,Feminino,Corrupção,Adail,Não,Não,Médio Incompleto,300.0
-372,79,60 e +,Tauá Mirim,Feminino,Saúde,Mitouso,Não,Não,Fundam. Incompleto,650.0
-373,32,30 a 39,Tauá Mirim,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Apenas Alfabetizado,135.0
-374,32,60 e +,Tauá Mirim,Masculino,Emprego,Mitouso,Sem Opinião,Não,Médio Completo,2000.0
-375,20,18 a 21,Tauá Mirim,Masculino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Superior Incompleto,1000.0
-376,43,40 a 49,Tauá Mirim,Masculino,Segurança,Mitouso,Não,Não,Médio Incompleto,4000.0
-377,19,18 a 21,Duque,Masculino,Emprego,Magalhaes,Sem Opinião,Não,Médio Incompleto,1000.0
-378,80,60 e +,Tauá Mirim,Feminino,Emprego,Mitouso,Não,Não,Fundam. Incompleto,650.0
-379,40,40 a 49,Tauá Mirim,Masculino,Emprego,Mitouso,Não,Não,Superior Incompleto,1350.0
-380,43,40 a 49,Tauá Mirim,Feminino,Saúde,Adail,Não,Sim,Médio Completo,
-381,21,18 a 21,Tauá Mirim,Feminino,Educação,f,Não,Não,Fundam. Incompleto,
-382,75,60 e +,Tauá Mirim,Feminino,Saúde,f,Não,Sem Opinião,Fundam. Incompleto,650.0
-383,77,60 e +,Tauá Mirim,Feminino,Emprego,Mitouso,Não,Não,Não Alfabetizado,
-384,38,30 a 39,Duque,Masculino,Saúde,f,Não,Não,Fundam. Incompleto,1500.0
-385,24,22 a 24,Espirito Santo,Masculino,Saúde,Mitouso,Não,Não,Médio Completo,2000.0
-386,63,60 e +,Urucu,Masculino,Saúde,Adail,Sim,Sim,Médio Incompleto,1000.0
-387,33,30 a 39,Urucu,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,
-388,62,60 e +,Urucu,Feminino,Emprego,Adail,Não,Sim,Não Alfabetizado,700.0
-389,21,18 a 21,Urucu,Feminino,Emprego,Adail,Sim,Não,Médio Incompleto,650.0
-390,25,25 a 29,Urucu,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,
-391,50,50 a 59,Urucu,Feminino,Saúde,Magalhaes,Não,Não,Superior Incompleto,1500.0
-392,50,50 a 59,Urucu,Feminino,Educação,Magalhaes,Não,Não,Fundam. Incompleto,650.0
-393,50,50 a 59,Urucu,Masculino,Emprego,Magalhaes,Sim,Não,Apenas Alfabetizado,400.0
-394,19,18 a 21,Urucu,Feminino,Saúde,Adail,Sim,Sim,Médio Incompleto,800.0
-395,40,40 a 49,Urucu,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,1300.0
-396,30,30 a 39,Urucu,Masculino,Segurança,Magalhaes,Sim,Não,Médio Completo,1200.0
-397,61,60 e +,Urucu,Feminino,Asfalto,Nulo,Sem Opinião,Sem Opinião,Não Alfabetizado,650.0
-398,53,50 a 59,Urucu,Masculino,Saúde,Adail,Não,Sim,Médio Completo,2500.0
-399,25,25 a 29,Espirito Santo,Feminino,Saúde,Magalhaes,Sem Opinião,Sim,Fundam. Incompleto,650.0
-400,60,60 e +,Espirito Santo,Feminino,Saúde,Mitouso,Sim,Sim,Não Alfabetizado,800.0
-401,46,40 a 49,Espirito Santo,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Completo,
-402,39,30 a 39,Espirito Santo,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,650.0
-403,39,30 a 39,Espirito Santo,Feminino,Saúde,Adail,Sim,Sim,Apenas Alfabetizado,100.0
-404,69,60 e +,Espirito Santo,Masculino,Emprego,f,Sim,Sim,Não Alfabetizado,650.0
-405,29,25 a 29,Espirito Santo,Masculino,Saúde,Mitouso,Não,Não,Médio Completo,1500.0
-406,17,16 e 17,Santa Helena,Feminino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
-407,18,18 a 21,Santa Helena,Feminino,Emprego,Adail,Sem Opinião,Sim,Médio Incompleto,650.0
-408,49,40 a 49,Santa Helena,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Incompleto,1000.0
-409,23,22 a 24,Santa Helena,Feminino,Emprego,Adail,Sem Opinião,Sim,Fundam. Completo,400.0
-410,61,60 e +,Santa Helena,Feminino,Emprego,Nulo,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-411,42,40 a 49,Santa Helena,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1300.0
-412,44,40 a 49,Santa Helena,Masculino,Corrupção,Nulo,Não,Não,Fundam. Incompleto,650.0
-413,30,30 a 39,Santa Helena,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,1300.0
-414,39,30 a 39,Santa Helena,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
-415,24,22 a 24,Santa Helena,Masculino,Segurança,f,Sem Opinião,Sem Opinião,Fundam. Incompleto,
-416,35,30 a 39,Santa Helena,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
-417,29,25 a 29,Santa Helena,Masculino,Emprego,Adail,Não,Não,Fundam. Incompleto,650.0
-418,60,60 e +,Santa Helena,Masculino,Saneamento e urbanização,Adail,Sem Opinião,Sem Opinião,Médio Completo,650.0
-419,21,18 a 21,Santa Helena,Masculino,Infraestrutura,Adail,Sim,Sim,Superior Incompleto,1500.0
-420,65,60 e +,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não,Não Alfabetizado,300.0
-421,19,18 a 21,Santa Efigênia,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,600.0
-422,16,16 e 17,Santa Helena,Masculino,Infraestrutura,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,640.0
-423,22,22 a 24,Santa Helena,Masculino,Infraestrutura,Magalhaes,Sim,Sim,Fundam. Incompleto,650.0
-424,21,18 a 21,Santa Efigênia,Masculino,Saneamento e urbanização,Adail,Não,Sim,Médio Incompleto,500.0
-425,40,40 a 49,Santa Efigênia,Masculino,Corrupção,Magalhaes,Sem Opinião,Não,Pós graduação,4500.0
-426,29,25 a 29,Santa Efigênia,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
-427,17,16 e 17,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não,Fundam. Incompleto,650.0
-428,24,22 a 24,Santa Efigênia,Feminino,Saúde,Magalhaes,Sem Opinião,Não,Médio Completo,700.0
-429,28,25 a 29,Santa Efigênia,Masculino,Saneamento e urbanização,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,700.0
-430,18,18 a 21,Santa Efigênia,Masculino,Renda,Magalhaes,Sim,Sim,Médio Incompleto,1300.0
-431,24,22 a 24,Santa Efigênia,Feminino,Emprego,Magalhaes,Não,Não,Médio Completo,650.0
-432,19,18 a 21,Centro,Feminino,Saúde,Adail,Sim,Sim,Fundam. Incompleto,
-433,19,18 a 21,Centro,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,650.0
-434,18,18 a 21,Centro,Masculino,Emprego,Magalhaes,Sim,Sim,Médio Incompleto,1500.0
-435,25,25 a 29,Centro,Masculino,Emprego,Adail,Não,Sim,Fundam. Incompleto,2000.0
-436,22,22 a 24,União,Masculino,Emprego,Mitouso,Sem Opinião,Sim,Médio Completo,7500.0
-437,18,18 a 21,União,Feminino,Segurança,Magalhaes,Sim,Sim,Médio Incompleto,1300.0
-438,20,18 a 21,União,Feminino,Salário,f,Sem Opinião,Sem Opinião,Médio Incompleto,1000.0
-439,18,18 a 21,União,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,650.0
-440,58,50 a 59,Do Pera,Masculino,Saúde,Adail,Sim,Sim,Não Alfabetizado,
-441,19,18 a 21,União,Masculino,Saneamento e urbanização,g,Sim,Sim,Médio Completo,883.0
-442,49,40 a 49,Chagas,Masculino,Asfalto,Adail,Sim,Sim,Fundam. Incompleto,650.0
-443,20,18 a 21,Chagas,Feminino,Saúde,Adail,Sem Opinião,Sim,Médio Completo,1300.0
-444,18,18 a 21,Chagas,Masculino,Segurança,f,Sim,Sem Opinião,Médio Incompleto,650.0
-445,55,50 a 59,Chagas,Feminino,Administração pública,,Sem Opinião,Sem Opinião,Superior Incompleto,1350.0
-446,25,25 a 29,Chagas,Masculino,Saúde,f,Não,Não,Médio Completo,650.0
-447,20,18 a 21,Chagas,Masculino,Segurança,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,650.0
-448,21,18 a 21,União,Masculino,Emprego,Adail,Sim,Sem Opinião,Médio Incompleto,200.0
-449,18,18 a 21,Chagas,Masculino,Administração pública,Mitouso,Sim,Sem Opinião,Médio Completo,1300.0
-450,23,22 a 24,Do Pera,Masculino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,200.0
-451,68,60 e +,Do Pera,Masculino,Outros,Adail,Sim,Sim,Não Alfabetizado,400.0
-452,24,22 a 24,Do Pera,Feminino,Renda,Adail,Sim,Sim,Fundam. Incompleto,1300.0
-453,34,30 a 39,Do Pera,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,300.0
-454,29,25 a 29,Do Pera,Masculino,Saúde,Magalhaes,Sim,Não,Fundam. Incompleto,
-455,37,30 a 39,Do Pera,Feminino,Água,Mitouso,Sem Opinião,Sem Opinião,Fundam. Completo,600.0
-456,16,16 e 17,Do Pera,Masculino,Segurança,Adail,Sim,Sim,Não Alfabetizado,
-457,37,30 a 39,Do Pera,Masculino,Infraestrutura,Adail,Sem Opinião,Sim,Fundam. Completo,700.0
-458,30,30 a 39,Do Pera,Masculino,Emprego,Adail,Sim,Não,Médio Completo,1300.0
-459,32,30 a 39,Do Pera,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,
-460,54,50 a 59,Do Pera,Feminino,Emprego,Adail,Sim,Não,Fundam. Incompleto,450.0
+Idade,Faixa,Bairro,Genero,Prioridade,Intencao,Por Omar,Por Braga,Escolaridade,Renda
+42,40 a 49,Urucu,Masculino,Salário,Adail,Sim,Sim,Fundam. Incompleto,1000.0
+48,40 a 49,Itamarati,Masculino,Asfalto,indeciso,Sim,Sem Opinião,Médio Completo,1800.0
+22,22 a 24,União,Masculino,Segurança,Magalhaes,Sim,Não,Superior Incompleto,2500.0
+19,18 a 21,Itamarati,Feminino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,1000.0
+34,30 a 39,União,Feminino,Emprego,Adail,Sem Opinião,Sim,Médio Completo,500.0
+27,25 a 29,Chagas,Masculino,Saúde,Magalhaes,Não,Sim,Fundam. Completo,1200.0
+30,30 a 39,União,Masculino,Corrupção,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,600.0
+25,25 a 29,Itamarati,Feminino,Asfalto,Adail,Sim,Sim,Fundam. Incompleto,150.0
+54,50 a 59,Santa Helena,Feminino,Saneamento e urbanização,Adail,Sim,Não,Fundam. Incompleto,500.0
+35,30 a 39,Centro,Masculino,Emprego,Magalhaes,Sem Opinião,Não,Médio Completo,2000.0
+37,30 a 39,Centro,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,1300.0
+19,18 a 21,Santa Efigênia,Feminino,Salário,Magalhaes,Não,Sim,Médio Completo,2000.0
+26,25 a 29,Chagas,Masculino,Emprego,Magalhaes,Não,Não,Fundam. Completo,2700.0
+41,40 a 49,União,Masculino,Renda,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
+32,30 a 39,Tauá Mirim,Masculino,Administração pública,Adail,Sim,Sim,Médio Incompleto,650.0
+33,30 a 39,Santa Efigênia,Masculino,Corrupção,Adail,Sem Opinião,Sem Opinião,Médio Completo,2500.0
+20,18 a 21,Santa Efigênia,Feminino,Emprego,Magalhaes,Sim,Sim,Médio Completo,2000.0
+58,50 a 59,Chagas,Masculino,Corrupção,Adail,Não,Sim,Médio Completo,1000.0
+48,40 a 49,Centro,Masculino,Salário,Magalhaes,Sim,Sem Opinião,Fundam. Incompleto,600.0
+58,50 a 59,Centro,Masculino,Saúde,Adail,Sem Opinião,Sim,Fundam. Completo,1500.0
+23,22 a 24,Tauá Mirim,Masculino,Saúde,Adail,Sim,Sim,Médio Incompleto,600.0
+46,40 a 49,Centro,Masculino,Segurança,Magalhaes,Sim,Sim,Médio Completo,2800.0
+39,30 a 39,Itamarati,Feminino,Asfalto,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
+38,30 a 39,Duque,Feminino,Saúde,indeciso,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+51,50 a 59,Tauá Mirim,Masculino,Infraestrutura,Magalhaes,Sem Opinião,Não,Pós graduação,0.0
+23,22 a 24,Urucu,Masculino,Emprego,Magalhaes,Sim,Não,Fundam. Completo,400.0
+38,30 a 39,Santa Efigênia,Masculino,Salário,Mitouso,Sem Opinião,Não,Médio Completo,1000.0
+38,30 a 39,Centro,Masculino,Renda,Mitouso,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
+57,50 a 59,Centro,Masculino,Saneamento e urbanização,Mitouso,Sim,Não,Pós graduação,5000.0
+29,25 a 29,Urucu,Masculino,Saúde,Magalhaes,Sim,Não,Médio Completo,1000.0
+22,22 a 24,Duque,Masculino,Asfalto,Magalhaes,Sem Opinião,Sim,Fundam. Completo,600.0
+19,18 a 21,Chagas,Feminino,Corrupção,Magalhaes,Sem Opinião,Sim,Médio Completo,650.0
+32,30 a 39,Urucu,Masculino,Salário,Adail,Sem Opinião,Sim,Fundam. Incompleto,1800.0
+36,30 a 39,Tauá Mirim,Masculino,Outros,Magalhaes,Não,Sim,Médio Completo,1200.0
+32,30 a 39,Duque,Feminino,Educação,Nulo,Não,Sim,Superior Incompleto,1500.0
+21,18 a 21,Espirito Santo,Feminino,Emprego,Adail,Sim,Sim,Médio Incompleto,650.0
+50,50 a 59,Itamarati,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,1500.0
+16,16 e 17,Tauá Mirim,Feminino,Renda,Magalhaes,Sem Opinião,Sim,Fundam. Incompleto,900.0
+52,50 a 59,Centro,Masculino,Saúde,Adail,Sim,Não,Médio Completo,1900.0
+22,22 a 24,Tauá Mirim,Feminino,Salário,Adail,Sim,Sim,Fundam. Incompleto,900.0
+41,40 a 49,Chagas,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1000.0
+32,30 a 39,União,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,900.0
+30,30 a 39,centro,Masculino,Emprego,Adail,Sem Opinião,Não,Fundam. Completo,2500.0
+18,18 a 21,Itamarati,Feminino,Saneamento e urbanização,Mitouso,Não,Não,Médio Completo,1500.0
+21,18 a 21,Itamarati,Feminino,Saúde,Magalhaes,Não,Não,Fundam. Completo,4000.0
+35,30 a 39,Itamarati,Feminino,Renda,Nulo,Sim,Não,Pós graduação,2500.0
+59,50 a 59,Espirito Santo,Masculino,Saneamento e urbanização,indeciso,Sem Opinião,Sem Opinião,Médio Incompleto,300.0
+64,60 e +,Chagas,Masculino,Salário,Adail,Sem Opinião,Não,Médio Completo,2000.0
+33,30 a 39,Tauá Mirim,Masculino,Saneamento e urbanização,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,2000.0
+20,18 a 21,Do Pera,Feminino,Emprego,Magalhaes,Sim,Sim,Médio Completo,650.0
+50,50 a 59,Centro,Feminino,Renda,indeciso,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
+20,18 a 21,Itamarati,Masculino,Administração pública,Magalhaes,Sem Opinião,Sim,Médio Completo,2000.0
+30,30 a 39,Chagas,Masculino,Renda,Adail,Sim,Sim,Médio Completo,510.0
+40,40 a 49,Duque,Masculino,Saneamento e urbanização,Nulo,Não,Não,Fundam. Incompleto,650.0
+21,18 a 21,Duque,Feminino,Segurança,Nulo,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+21,18 a 21,Chagas,Feminino,Salário,Nulo,Não,Sim,Médio Completo,2600.0
+21,18 a 21,Itamarati,Masculino,Saúde,Nulo,Sem Opinião,Sem Opinião,Fundam. Completo,620.0
+22,22 a 24,Chagas,Masculino,Emprego,Adail,Não,Não,Fundam. Completo,600.0
+32,30 a 39,Santa Efigênia,Feminino,Segurança,Nulo,Não,Sem Opinião,Médio Completo,900.0
+18,18 a 21,Itamarati,Masculino,Energia,Adail,Sim,Sim,Médio Incompleto,1800.0
+50,50 a 59,Chagas,Feminino,Saúde,Mitouso,Sim,Sim,Não Alfabetizado,100.0
+16,16 e 17,Chagas,Feminino,Saúde,Mitouso,Sim,Sim,Fundam. Completo,100.0
+33,30 a 39,Tauá Mirim,Masculino,Infraestrutura,Mitouso,Sim,Não,Médio Completo,1950.0
+55,50 a 59,Centro,Feminino,Segurança,Magalhaes,Não,Não,Fundam. Completo,1000.0
+24,22 a 24,Tauá Mirim,Feminino,Segurança,Magalhaes,Sem Opinião,Não,Médio Completo,1300.0
+21,18 a 21,Itamarati,Feminino,Asfalto,Nulo,Sem Opinião,Sem Opinião,Médio Completo,650.0
+30,30 a 39,Urucu,Feminino,,Magalhaes,Sim,Não,Fundam. Completo,650.0
+19,18 a 21,Itamarati,Feminino,Segurança,Adail,Não,Sim,Médio Completo,800.0
+24,22 a 24,Chagas,Feminino,Salário,Magalhaes,Não,Sim,Médio Completo,1000.0
+19,18 a 21,Urucu,Feminino,Emprego,Adail,Sim,Sim,Médio Incompleto,480.0
+28,25 a 29,Centro,Feminino,Salário,Adail,Sim,Sim,Fundam. Completo,650.0
+28,25 a 29,Tauá Mirim,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Incompleto,700.0
+24,22 a 24,Chagas,Masculino,Salário,Magalhaes,Não,Não,Médio Completo,
+39,30 a 39,Tauá Mirim,Masculino,Segurança,Magalhaes,Sem Opinião,Sim,Médio Completo,3000.0
+21,18 a 21,Do Pera,Feminino,Saúde,Adail,Não,Não,Médio Completo,622.0
+17,16 e 17,Chagas,Feminino,Segurança,Adail,Sim,Não,Médio Incompleto,1000.0
+43,40 a 49,Centro,Feminino,Infraestrutura,Mitouso,Não,Não,Fundam. Incompleto,
+34,30 a 39,Santa Efigênia,Feminino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Completo,650.0
+28,25 a 29,União,Masculino,Asfalto,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,650.0
+21,18 a 21,Espirito Santo,Feminino,Segurança,Mitouso,Sem Opinião,Não,Médio Completo,650.0
+23,22 a 24,Centro,Feminino,Saúde,Mitouso,Sim,Sim,Médio Completo,
+17,16 e 17,Espirito Santo,Feminino,,Adail,Sim,Não,Médio Completo,2600.0
+18,18 a 21,Tauá Mirim,Feminino,Saúde,Nulo,Não,Não,Médio Incompleto,
+18,18 a 21,Do Pera,Feminino,Emprego,Magalhaes,Sim,Sim,Médio Incompleto,
+36,30 a 39,Tauá Mirim,Feminino,,Adail,Não,Não,Fundam. Incompleto,500.0
+32,30 a 39,Itamarati,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,650.0
+16,16 e 17,Espirito Santo,Masculino,Administração pública,Magalhaes,Não,Não,Médio Incompleto,5000.0
+31,30 a 39,Tauá Mirim,Feminino,,Mitouso,Não,Não,Médio Completo,2000.0
+33,30 a 39,Centro,Feminino,Segurança,Nulo,Sim,Sim,Fundam. Completo,
+27,25 a 29,Itamarati,Feminino,Infraestrutura,Nulo,Sem Opinião,Sem Opinião,Médio Completo,650.0
+28,25 a 29,Duque,Masculino,Corrupção,Adail,Sim,Sim,Médio Completo,1900.0
+33,30 a 39,Itamarati,Masculino,Emprego,Adail,Sim,Sim,Médio Completo,1950.0
+40,40 a 49,Chagas,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,1244.0
+31,30 a 39,Chagas,Masculino,Saúde,Magalhaes,Não,Sim,Pós graduação,1000.0
+35,30 a 39,Chagas,Masculino,Saneamento e urbanização,Mitouso,Sem Opinião,Não,Pós graduação,
+19,18 a 21,Chagas,Masculino,Emprego,Adail,Sim,Sim,Médio Completo,600.0
+27,25 a 29,União,Masculino,Emprego,Adail,Sem Opinião,Sim,Médio Completo,200.0
+21,18 a 21,Santa Helena,Feminino,Asfalto,Nulo,Não,Não,Médio Completo,5000.0
+28,25 a 29,Centro,Masculino,Corrupção,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,2400.0
+16,16 e 17,União,Masculino,Saúde,Magalhaes,Sim,Sim,Médio Incompleto,2500.0
+31,30 a 39,Centro,Masculino,Segurança,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,2000.0
+40,40 a 49,Santa Efigênia,Masculino,Moradia,Magalhaes,Sim,Não,Fundam. Incompleto,1600.0
+27,25 a 29,União,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
+18,18 a 21,Centro,Feminino,,Adail,Sem Opinião,Sim,Fundam. Completo,1300.0
+24,22 a 24,Chagas,Masculino,Saneamento e urbanização,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+26,25 a 29,Do Pera,Masculino,Emprego,Magalhaes,Sim,Não,Médio Incompleto,500.0
+18,18 a 21,Centro,Feminino,Emprego,Mitouso,Sim,Sim,Médio Incompleto,
+21,18 a 21,Urucu,Masculino,Saúde,Magalhaes,Sem Opinião,Sim,Médio Completo,1950.0
+27,25 a 29,Duque,Masculino,Saneamento e urbanização,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,1300.0
+41,40 a 49,Urucu,Masculino,Segurança,Magalhaes,Sem Opinião,Não,Pós graduação,2400.0
+44,40 a 49,Centro,Feminino,Segurança,Sem Opinião,Não,Sim,Fundam. Incompleto,3000.0
+60,60 e +,Do Pera,Feminino,Educação,Sem Opinião,Não,Sem Opinião,Não Alfabetizado,1000.0
+37,30 a 39,Itamarati,Masculino,Saúde,Sem Opinião,Sem Opinião,Sem Opinião,Apenas Alfabetizado,800.0
+32,30 a 39,Centro,Feminino,Educação,Magalhaes,Sem Opinião,,Pós graduação,8000.0
+48,40 a 49,Do Pera,Masculino,Moradia,Adail,Não,Não,Não Alfabetizado,600.0
+26,25 a 29,Centro,Masculino,Infraestrutura,Magalhaes,Sem Opinião,Sim,Superior Incompleto,5000.0
+33,30 a 39,Santa Efigênia,Feminino,Saúde,Sem Opinião,Sem Opinião,Não,Médio Completo,1000.0
+43,40 a 49,Itamarati,Feminino,Segurança,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,600.0
+25,25 a 29,Duque,Feminino,Saúde,Magalhaes,Sim,Sim,Médio Completo,650.0
+33,30 a 39,Tauá Mirim,Masculino,Emprego,Sem Opinião,Sim,Sem Opinião,Médio Completo,2000.0
+22,22 a 24,União,Feminino,Emprego,Nulo,Sem Opinião,Sem Opinião,Médio Completo,700.0
+35,30 a 39,Santa Helena,Feminino,Saúde,Adail,Sim,Sem Opinião,Médio Completo,650.0
+33,30 a 39,Urucu,Masculino,Asfalto,Sem Opinião,Sem Opinião,Sim,Fundam. Incompleto,650.0
+29,25 a 29,Urucu,Masculino,Salário,Adail,Não,Não,Médio Incompleto,1000.0
+51,50 a 59,Santa Efigênia,Masculino,Salário,Sem Opinião,Sim,Sim,Médio Completo,1800.0
+44,40 a 49,Santa Efigênia,Feminino,Emprego,Sem Opinião,Não,Não,Médio Incompleto,500.0
+55,50 a 59,Santa Efigênia,Masculino,Saúde,Magalhaes,Sem Opinião,Não,Não Alfabetizado,650.0
+17,16 e 17,Urucu,Feminino,Saúde,Sem Opinião,Não,Sem Opinião,Médio Incompleto,2000.0
+20,18 a 21,Tauá Mirim,Feminino,Segurança,Magalhaes,Não,Não,Médio Completo,1000.0
+21,18 a 21,Santa Efigênia,Feminino,Saúde,Adail,Sem Opinião,Sim,Médio Incompleto,2000.0
+18,18 a 21,Urucu,Masculino,Energia,Adail,Não,Não,Médio Incompleto,2000.0
+49,40 a 49,Santa Efigênia,Feminino,Emprego,Sem Opinião,Não,Sim,Apenas Alfabetizado,380.0
+62,60 e +,Centro,Masculino,Saúde,Sem Opinião,Sem Opinião,Sem Opinião,Não Alfabetizado,
+70,60 e +,Tauá Mirim,Masculino,Segurança,Sem Opinião,Não,Não,Apenas Alfabetizado,650.0
+63,60 e +,Centro,Feminino,Educação,Magalhaes,Sem Opinião,Sem Opinião,Pós graduação,6000.0
+19,18 a 21,Centro,Masculino,Emprego,Sem Opinião,Sem Opinião,Sim,Fundam. Incompleto,2000.0
+73,60 e +,Chagas,Masculino,Saúde,Sem Opinião,Sem Opinião,Sem Opinião,Não Alfabetizado,800.0
+41,40 a 49,União,Masculino,Emprego,Sem Opinião,Sem Opinião,Sem Opinião,Fundam. Incompleto,
+23,22 a 24,Centro,Feminino,Salário,Magalhaes,Sim,Não,Médio Incompleto,650.0
+18,18 a 21,Itamarati,Feminino,Asfalto,Adail,Sem Opinião,Sim,Fundam. Incompleto,800.0
+17,16 e 17,Santa Efigênia,Masculino,Emprego,Adail,Sim,Sim,Médio Incompleto,800.0
+48,40 a 49,Urucu,Masculino,Salário,Sem Opinião,Sem Opinião,Sem Opinião,Não Alfabetizado,
+36,30 a 39,Centro,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,
+21,18 a 21,Duque,Feminino,Emprego,Magalhaes,Não,Sim,Médio Completo,650.0
+40,40 a 49,Centro,Masculino,Segurança,Adail,Não,Não,Médio Completo,4000.0
+36,30 a 39,Urucu,Masculino,Moradia,Sem Opinião,Sem Opinião,Não,Fundam. Incompleto,2000.0
+17,16 e 17,Tauá Mirim,Feminino,Moradia,Sem Opinião,Sem Opinião,Não,Médio Incompleto,1300.0
+22,22 a 24,Itamarati,Feminino,Saúde,Magalhaes,Não,Sim,Médio Completo,1300.0
+18,18 a 21,Santa Efigênia,Masculino,Saúde,Iran,Sim,Não,Fundam. Incompleto,650.0
+18,18 a 21,Chagas,Feminino,Emprego,Sem Opinião,Não,Sim,Fundam. Incompleto,100.0
+47,40 a 49,Centro,Feminino,Saúde,Sem Opinião,Sim,Não,Médio Completo,1800.0
+40,40 a 49,Duque,Masculino,Educação,Sem Opinião,Sim,Sim,Não Alfabetizado,650.0
+27,25 a 29,Chagas,Masculino,Asfalto,Nulo,Sim,Sim,Médio Completo,1300.0
+53,50 a 59,Centro,Masculino,Saneamento e urbanização,Sem Opinião,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
+33,30 a 39,União,Masculino,Salário,Sem Opinião,Sim,Não,Médio Incompleto,8000.0
+23,22 a 24,Centro,Masculino,Salário,Sem Opinião,Sim,Sim,Médio Completo,500.0
+22,22 a 24,Chagas,Masculino,Emprego,Adail,Não,Não,Fundam. Incompleto,1200.0
+17,16 e 17,União,Feminino,Salário,Sem Opinião,Não,Não,Médio Incompleto,800.0
+16,16 e 17,Centro,Feminino,Outros,Iran,Sim,Sim,Médio Incompleto,500.0
+23,22 a 24,Itamarati,Feminino,Moradia,Magalhaes,Não,Sim,Médio Completo,100.0
+40,40 a 49,Centro,Masculino,Emprego,Adail,Sim,Sim,Apenas Alfabetizado,500.0
+36,30 a 39,Santa Efigênia,Masculino,Emprego,Sem Opinião,Sim,Sim,Não Alfabetizado,1300.0
+22,22 a 24,Centro,Masculino,Transporte,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,1800.0
+54,50 a 59,Santa Helena,Masculino,Saúde,Adail,Sem Opinião,Não,Médio Completo,10000.0
+30,30 a 39,União,Masculino,Emprego,Adail,Não,Sim,Médio Completo,1200.0
+18,18 a 21,Centro,Feminino,Saúde,Nulo,Não,Sim,Fundam. Incompleto,650.0
+49,40 a 49,Centro,Feminino,Emprego,Sem Opinião,Sim,Sim,Médio Incompleto,1200.0
+35,30 a 39,União,Feminino,Emprego,Nulo,Sem Opinião,Sim,Fundam. Incompleto,200.0
+24,22 a 24,Centro,Feminino,Saúde,Outros,Não,Sem Opinião,Pós graduação,
+36,30 a 39,Urucu,Feminino,Saúde,Adail,Não,Não,Médio Incompleto,600.0
+47,40 a 49,União,Masculino,Corrupção,Magalhaes,Sem Opinião,Sim,Fundam. Incompleto,300.0
+50,50 a 59,Itamarati,Masculino,Moradia,Adail,Não,Não,Fundam. Incompleto,
+24,22 a 24,Itamarati,Masculino,Emprego,Sem Opinião,Sem Opinião,Sim,Fundam. Incompleto,600.0
+27,25 a 29,Z - Rural,Masculino,Emprego,Sem Opinião,Sim,Sim,Fundam. Incompleto,400.0
+43,40 a 49,Do Pera,Masculino,Saúde,Nulo,Não,Sem Opinião,Pós graduação,1300.0
+20,18 a 21,Urucu,Masculino,Saúde,Magalhaes,Sim,Não,Pós graduação,1600.0
+45,40 a 49,Espirito Santo,Feminino,Emprego,Adail,Não,Sem Opinião,Fundam. Incompleto,
+21,18 a 21,Santa Helena,Masculino,Saúde,Magalhaes,Sim,Sim,Fundam. Incompleto,
+23,22 a 24,Chagas,Masculino,Educação,Adail,Não,Sim,Médio Incompleto,1000.0
+19,18 a 21,Tauá Mirim,Masculino,Outros,Magalhaes,Não,Sim,Fundam. Incompleto,200.0
+48,40 a 49,Z - Rural,Masculino,Corrupção,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
+49,40 a 49,Z - Rural,Feminino,Corrupção,Nulo,Sim,Sem Opinião,Fundam. Incompleto,530.0
+26,25 a 29,Do Pera,Masculino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,1000.0
+20,18 a 21,Chagas,Feminino,Emprego,Nulo,Sim,Sim,Médio Completo,1300.0
+29,25 a 29,União,Feminino,Segurança,Adail,Sem Opinião,Sim,Superior Incompleto,3000.0
+26,25 a 29,Espirito Santo,Feminino,Saúde,Adail,Não,Sim,Fundam. Incompleto,650.0
+23,22 a 24,Espirito Santo,Feminino,Salário,Adail,Sem Opinião,Sem Opinião,Médio Completo,650.0
+28,25 a 29,Santa Helena,Feminino,Renda,Adail,Sim,Sim,Fundam. Incompleto,650.0
+26,25 a 29,Urucu,Feminino,Saúde,Magalhaes,Não,Sem Opinião,Médio Completo,650.0
+41,40 a 49,Itamarati,Masculino,Emprego,Magalhaes,Sim,Não,Fundam. Completo,5000.0
+22,22 a 24,Urucu,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,180.0
+29,25 a 29,Centro,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,650.0
+16,16 e 17,Urucu,Feminino,Administração pública,Adail,Sim,Sim,Médio Incompleto,1000.0
+28,25 a 29,Urucu,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,600.0
+29,25 a 29,Chagas,Feminino,Renda,Adail,Não,Sim,Fundam. Completo,5000.0
+18,18 a 21,Tauá Mirim,Feminino,Saneamento e urbanização,Adail,Sem Opinião,Sim,Médio Incompleto,650.0
+28,25 a 29,Chagas,Feminino,Renda,Iran,Sem Opinião,Não,Médio Completo,500.0
+24,22 a 24,Urucu,Feminino,Segurança,Adail,Sem Opinião,Sim,Fundam. Completo,600.0
+28,25 a 29,Centro,Feminino,Educação,Mitouso,Sim,Não,Médio Completo,800.0
+29,25 a 29,Tauá Mirim,Feminino,Emprego,Nulo,Sem Opinião,Sim,Superior Incompleto,1000.0
+37,30 a 39,União,Masculino,Saúde,Adail,Sim,Sim,Fundam. Incompleto,150000.0
+22,22 a 24,União,Feminino,Administração pública,Magalhaes,Sim,Sim,Médio Completo,1300.0
+29,25 a 29,Chagas,Feminino,Salário,Adail,Sim,Sim,Médio Completo,1000.0
+28,25 a 29,Urucu,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,1950.0
+18,18 a 21,Chagas,Feminino,Infraestrutura,Magalhaes,Sim,Sim,Médio Incompleto,400.0
+29,25 a 29,Urucu,Feminino,Corrupção,Adail,Sim,Sim,Fundam. Incompleto,300.0
+22,22 a 24,Chagas,Feminino,Segurança,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,1300.0
+28,25 a 29,Do Pera,Feminino,Infraestrutura,indeciso,Sem Opinião,Sem Opinião,Fundam. Incompleto,300.0
+27,25 a 29,Do Pera,Feminino,Saúde,Adail,Sim,Sim,Fundam. Incompleto,650.0
+29,25 a 29,Chagas,Feminino,Emprego,Mitouso,Sim,Não,Médio Completo,1500.0
+27,25 a 29,Santa Helena,Feminino,Saúde,Adail,Sim,Não,Pós graduação,4000.0
+27,25 a 29,Duque,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
+16,16 e 17,União,Feminino,Renda,Magalhaes,Não,Sim,Fundam. Incompleto,3250.0
+32,30 a 39,Centro,Masculino,Segurança,Adail,Sem Opinião,Sim,Médio Completo,1300.0
+26,25 a 29,União,Feminino,Emprego,Nulo,Não,b ,Médio Completo,
+29,25 a 29,Santa Efigênia,Feminino,Emprego,Nulo,Não,Não,Médio Completo,
+27,25 a 29,União,Feminino,Saúde,Nulo,Sim,Sim,Médio Incompleto,682.0
+18,18 a 21,União,Feminino,Emprego,Iran,Sem Opinião,Sem Opinião,Médio Completo,650.0
+17,16 e 17,Chagas,Masculino,Emprego,Magalhaes,Sim,Sim,Fundam. Incompleto,1300.0
+24,22 a 24,Urucu,Masculino,Educação,Nulo,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
+20,18 a 21,Itamarati,Feminino,Emprego,Magalhaes,Não,Sim,Médio Completo,800.0
+25,25 a 29,Tauá Mirim,Masculino,Moradia,Magalhaes,Não,Sem Opinião,Médio Completo,650.0
+19,18 a 21,Do Pera,Masculino,Corrupção,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,
+19,18 a 21,Do Pera,Masculino,Corrupção,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
+21,18 a 21,Urucu,Masculino,Segurança,Magalhaes,Sim,Não,Médio Completo,1200.0
+22,22 a 24,Tauá Mirim,Masculino,Emprego,Adail,Não,Não,Médio Incompleto,1200.0
+49,40 a 49,Centro,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Completo,3000.0
+39,30 a 39,Duque,Masculino,Saneamento e urbanização,Adail,Não,Não,Médio Completo,1000.0
+38,30 a 39,Centro,Masculino,Saúde,Magalhaes,Sim,Não,Médio Completo,650.0
+54,50 a 59,União,Masculino,Segurança,Magalhaes,Sim,Não,Pós graduação,1400.0
+19,18 a 21,Urucu,Masculino,Emprego,Sem Opinião,Não,Não,Médio Completo,1000.0
+20,18 a 21,Urucu,Masculino,Emprego,Magalhaes,Não,Sim,Médio Incompleto,
+31,30 a 39,Chagas,Masculino,Saúde,Adail,Não,Não,Fundam. Incompleto,1000.0
+32,30 a 39,Centro,Masculino,Corrupção,Magalhaes,Sim,Sim,Pós graduação,7000.0
+30,30 a 39,Itamarati,Feminino,Saúde,Adail,Sim,Sim,Pós graduação,871.0
+28,25 a 29,Tauá Mirim,Masculino,Emprego,Adail,Não,Sim,Médio Completo,1500.0
+29,25 a 29,Santa Helena,Masculino,Outros,Magalhaes,Sem Opinião,Não,Fundam. Incompleto,600.0
+23,22 a 24,Duque,Masculino,Emprego,Magalhaes,Não,Não,Médio Incompleto,2000.0
+19,18 a 21,União,Masculino,Segurança,Magalhaes,Não,Não,Médio Incompleto,3250.0
+23,22 a 24,Itamarati,Masculino,Saúde,Adail,Sem Opinião,Não,Médio Completo,783.0
+51,50 a 59,Duque,Masculino,Emprego,Magalhaes,Não,Não,Fundam. Incompleto,1500.0
+51,50 a 59,Itamarati,Feminino,Emprego,Magalhaes,Não,Não,Fundam. Incompleto,600.0
+27,25 a 29,Urucu,Masculino,Energia,Mitouso,Não,Não,Fundam. Incompleto,650.0
+18,18 a 21,Itamarati,Masculino,Educação,Adail,Sim,Sim,Médio Incompleto,1500.0
+30,30 a 39,Espirito Santo,Masculino,Infraestrutura,Magalhaes,Não,Não,Pós graduação,1200.0
+18,18 a 21,Espirito Santo,Masculino,Segurança,Magalhaes,Não,Sim,Médio Completo,3900.0
+27,25 a 29,Espirito Santo,Masculino,Salário,Magalhaes,Sim,Não,Médio Completo,650.0
+17,16 e 17,Tauá Mirim,Masculino,Educação,Iran,Não,Não,Médio Incompleto,
+18,18 a 21,Itamarati,Masculino,Emprego,Magalhaes,Não,Sim,Médio Incompleto,
+21,18 a 21,Espirito Santo,Masculino,Emprego,Magalhaes,Não,Sim,Médio Completo,630.0
+32,30 a 39,Duque,Feminino,Emprego,Sem Opinião,Sem Opinião,Sem Opinião,Médio Completo,800.0
+73,60 e +,Chagas,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
+32,30 a 39,Chagas,Feminino,Saúde,Nulo,Sim,Sim,Superior Incompleto,1800.0
+61,60 e +,Centro,Feminino,Saúde,Nulo,Sim,Não,Médio Completo,100.0
+30,30 a 39,Santa Helena,Feminino,Saneamento e urbanização,Magalhaes,Sem Opinião,Sim,Médio Completo,2500.0
+30,30 a 39,Chagas,Feminino,Salário,Nulo,Sim,Sim,Médio Completo,1900.0
+50,50 a 59,Duque,Feminino,Emprego,Adail,Sim,Sim,Apenas Alfabetizado,650.0
+34,30 a 39,Itamarati,Feminino,Saúde,Sem Opinião,Sem Opinião,Sim,Apenas Alfabetizado,700.0
+51,50 a 59,Tauá Mirim,Feminino,Renda,Sem Opinião,Não,Não,Fundam. Incompleto,650.0
+53,50 a 59,Espirito Santo,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1000.0
+33,30 a 39,União,Feminino,Saúde,indeciso,Sem Opinião,Sem Opinião,Médio Completo,1000.0
+34,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Pós graduação,1900.0
+42,40 a 49,Urucu,Feminino,Saneamento e urbanização,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,2000.0
+60,60 e +,Itamarati,Feminino,Saúde,Magalhaes,Sim,Sim,Apenas Alfabetizado,650.0
+35,30 a 39,Tauá Mirim,Feminino,,Nulo,Sem Opinião,Sem Opinião,Médio Completo,2000.0
+46,40 a 49,Do Pera,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,600.0
+32,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sim,Sim,Médio Completo,1300.0
+42,40 a 49,Itamarati,Feminino,Emprego,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,20000.0
+42,40 a 49,Duque,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,170.0
+33,30 a 39,Itamarati,Feminino,Emprego,Nulo,Sim,Sim,Fundam. Incompleto,240.0
+53,50 a 59,Santa Efigênia,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,800.0
+30,30 a 39,Espirito Santo,Feminino,Salário,Mitouso,Sem Opinião,Sem Opinião,Médio Incompleto,2000.0
+48,40 a 49,União,Feminino,Emprego,Adail,Não,Não,Apenas Alfabetizado,650.0
+34,30 a 39,União,Feminino,Outros,Mitouso,Não,Não,Médio Completo,1200.0
+40,40 a 49,Santa Efigênia,Feminino,Emprego,Adail,Sim,Sim,Apenas Alfabetizado,650.0
+57,50 a 59,Itamarati,Feminino,Segurança,Mitouso,Sem Opinião,Sem Opinião,Não Alfabetizado,
+39,30 a 39,Santa Helena,Feminino,Asfalto,Adail,Não,Sim,Apenas Alfabetizado,1000.0
+31,30 a 39,União,Feminino,Saúde,Adail,Sim,Sim,Médio Incompleto,650.0
+16,16 e 17,Urucu,Feminino,Asfalto,Magalhaes,Sim,Não,Médio Incompleto,650.0
+36,30 a 39,Tauá Mirim,Feminino,Saúde,Iran,Não,Não,Médio Incompleto,2000.0
+21,18 a 21,Centro,Feminino,Salário,Magalhaes,Sim,Sim,Médio Completo,3000.0
+24,22 a 24,Urucu,Feminino,Segurança,Magalhaes,Não,Não,Médio Completo,1000.0
+54,50 a 59,Centro,Masculino,Renda,Magalhaes,Sim,Não,Médio Completo,2000.0
+60,60 e +,Centro,Masculino,Emprego,Magalhaes,Sim,Não,Superior Incompleto,6000.0
+16,16 e 17,Duque,Feminino,Salário,Magalhaes,Sim,Não,Médio Incompleto,1300.0
+18,18 a 21,União,Feminino,Infraestrutura,indeciso,Sim,Sem Opinião,Superior Incompleto,1300.0
+24,22 a 24,Do Pera,Feminino,Infraestrutura,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,650.0
+29,25 a 29,Tauá Mirim,Feminino,Outros,indeciso,Sem Opinião,Sem Opinião,Pós graduação,10000.0
+26,25 a 29,União,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+20,18 a 21,Urucu,Feminino,Saúde,Nulo,Sem Opinião,Sem Opinião,Médio Completo,650.0
+29,25 a 29,Itamarati,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,
+29,25 a 29,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não,Fundam. Completo,500.0
+63,60 e +,Chagas,Masculino,Moradia,Adail,Sim,Sim,Apenas Alfabetizado,500.0
+40,40 a 49,Itamarati,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Completo,400.0
+64,60 e +,Duque,Masculino,Asfalto,Mitouso,Não,Não,Não Alfabetizado,600.0
+53,50 a 59,Chagas,Masculino,,Mitouso,Não,Sim,Fundam. Incompleto,1500.0
+36,30 a 39,União,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+45,40 a 49,Chagas,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
+55,50 a 59,Duque,Masculino,Corrupção,Adail,Sem Opinião,Sim,Fundam. Incompleto,600.0
+38,30 a 39,União,Masculino,Emprego,indeciso,Sem Opinião,Sem Opinião,Fundam. Incompleto,
+59,50 a 59,Chagas,Masculino,Asfalto,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,
+45,40 a 49,Chagas,Masculino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Não Alfabetizado,650.0
+45,40 a 49,Itamarati,Masculino,Administração pública,Magalhaes,Sim,Sim,Fundam. Incompleto,700.0
+34,30 a 39,Chagas,Masculino,Corrupção,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,5000.0
+31,30 a 39,Urucu,Masculino,,Adail,Sem Opinião,Sim,Não Alfabetizado,200.0
+34,30 a 39,Chagas,Masculino,Saúde,Nulo,Sem Opinião,Sem Opinião,Médio Completo,650.0
+37,30 a 39,Itamarati,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1200.0
+52,50 a 59,União,Masculino,Educação,Nulo,Não,Não,Médio Completo,650.0
+64,60 e +,União,Masculino,Emprego,Adail,Sim,Não,Médio Completo,650.0
+41,40 a 49,União,Masculino,Infraestrutura,Mitouso,Sem Opinião,Não,Médio Completo,6500.0
+78,60 e +,União,Feminino,Emprego,Adail,Sim,Sim,Não Alfabetizado,800.0
+46,40 a 49,Espirito Santo,Masculino,Administração pública,Adail,Sem Opinião,Sem Opinião,Médio Completo,1000.0
+38,30 a 39,União,Masculino,Corrupção,Mitouso,Sem Opinião,Sem Opinião,Fundam. Incompleto,700.0
+33,30 a 39,União,Masculino,Saúde,Adail,Sem Opinião,Sim,Médio Completo,650.0
+60,60 e +,Urucu,Masculino,Asfalto,Mitouso,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+50,50 a 59,União,Masculino,Corrupção,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
+91,60 e +,União,Masculino,Emprego,Magalhaes,Sem Opinião,Sim,Não Alfabetizado,650.0
+49,40 a 49,Chagas,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,600.0
+60,60 e +,Santa Efigênia,Masculino,Saúde,Magalhaes,Sem Opinião,Não,Fundam. Incompleto,1000.0
+43,40 a 49,Tauá Mirim,Masculino,Segurança,Adail,Sim,Sim,Fundam. Completo,2000.0
+64,60 e +,Tauá Mirim,Masculino,Saúde,Sem Opinião,Sem Opinião,Sem Opinião,Não Alfabetizado,
+31,30 a 39,Urucu,Masculino,Outros,Sem Opinião,Sem Opinião,Sem Opinião,Médio Completo,650.0
+54,50 a 59,Tauá Mirim,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
+41,40 a 49,Urucu,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,600.0
+40,40 a 49,Santa Helena,Feminino,Salário,Adail,Sem Opinião,Sim,Médio Completo,650.0
+43,40 a 49,União,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,400.0
+26,25 a 29,Itamarati,Feminino,Emprego,Magalhaes,Sem Opinião,Sim,Médio Completo,1300.0
+43,40 a 49,Chagas,Feminino,Saúde,Adail,Não,Sim,Médio Completo,1300.0
+59,50 a 59,Tauá Mirim,Feminino,Saúde,Adail,Sim,Sim,Apenas Alfabetizado,400.0
+30,30 a 39,Urucu,Feminino,Educação,Adail,Não,Sim,Médio Completo,650.0
+51,50 a 59,União,Feminino,Saúde,Magalhaes,Sim,Sem Opinião,Médio Completo,1200.0
+63,60 e +,Duque,Feminino,Asfalto,Mitouso,Sim,Não,Não Alfabetizado,600.0
+50,50 a 59,União,Feminino,Salário,Adail,Sim,Sim,Apenas Alfabetizado,500.0
+40,40 a 49,União,Feminino,Emprego,Adail,Não,Sim,Apenas Alfabetizado,
+61,60 e +,Centro,Feminino,Saneamento e urbanização,Adail,Sem Opinião,Sim,Apenas Alfabetizado,650.0
+33,30 a 39,Do Pera,Feminino,Saúde,Adail,Sim,Não,Apenas Alfabetizado,650.0
+43,40 a 49,Chagas,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+67,60 e +,Duque,Feminino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Não Alfabetizado,650.0
+66,60 e +,Chagas,Feminino,Saúde,Magalhaes,Sim,Sem Opinião,Não Alfabetizado,650.0
+38,30 a 39,União,Feminino,Emprego,Adail,Sem Opinião,Sim,Fundam. Incompleto,600.0
+62,60 e +,Chagas,Feminino,Asfalto,Nulo,Sem Opinião,Sem Opinião,Médio Completo,650.0
+45,40 a 49,Itamarati,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,650.0
+46,40 a 49,Duque,Feminino,Outros,Adail,Sim,Sim,Fundam. Incompleto,500.0
+62,60 e +,Santa Helena,Feminino,Emprego,Magalhaes,Sem Opinião,Sim,Não Alfabetizado,600.0
+19,18 a 21,União,Feminino,Emprego,Adail,Sim,Sem Opinião,Médio Completo,
+30,30 a 39,Urucu,Feminino,Saúde,Adail,Sim,Sim,Médio Completo,600.0
+39,30 a 39,Centro,Feminino,Saúde,Adail,Sim,Sem Opinião,Médio Completo,300.0
+30,30 a 39,Chagas,Feminino,Saúde,Magalhaes,Sim,Sim,Médio Completo,1300.0
+22,22 a 24,Urucu,Feminino,Educação,Mitouso,Não,Não,Superior Incompleto,1900.0
+41,40 a 49,Do Pera,Feminino,Salário,Magalhaes,Sim,Sem Opinião,Médio Incompleto,650.0
+63,60 e +,Itamarati,Feminino,Saúde,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,1000.0
+31,30 a 39,Urucu,Feminino,Água,Adail,Sim,Sim,Apenas Alfabetizado,120.0
+57,50 a 59,Itamarati,Masculino,Segurança,Iran,Não,Sem Opinião,Médio Completo,3141.0
+18,18 a 21,Chagas,Masculino,Segurança,Adail,Sim,Sim,Fundam. Incompleto,
+29,25 a 29,Itamarati,Feminino,Corrupção,Adail,Não,Não,Médio Completo,980.0
+29,25 a 29,Centro,Feminino,Corrupção,Adail,Não,Não,Médio Completo,1000.0
+20,18 a 21,Duque,Masculino,Emprego,Adail,Sim,Não,Fundam. Incompleto,800.0
+18,18 a 21,Urucu,Masculino,Energia,Adail,Não,Sim,Médio Incompleto,1000.0
+29,25 a 29,União,Masculino,Corrupção,Magalhaes,Não,Não,Superior Incompleto,1800.0
+18,18 a 21,Duque,Masculino,Emprego,Adail,Não,Não,Médio Completo,
+16,16 e 17,Chagas,Masculino,Segurança,Adail,Não,Sim,Fundam. Incompleto,800.0
+16,16 e 17,União,Masculino,Corrupção,Magalhaes,Não,Não,Médio Incompleto,
+22,22 a 24,Itamarati,Masculino,Emprego,C.T.,Sim,Não,Fundam. Incompleto,
+19,18 a 21,Centro,Masculino,Saúde,Magalhaes,Sim,Não,Médio Completo,1000.0
+30,30 a 39,Itamarati,Masculino,Saúde,Adail,Sim,Sem Opinião,Fundam. Incompleto,570.0
+18,18 a 21,Tauá Mirim,Masculino,Educação,Adail,Não,Sim,Médio Incompleto,400.0
+19,18 a 21,Urucu,Masculino,Infraestrutura,Magalhaes,Não,Sim,Médio Incompleto,1300.0
+16,16 e 17,Itamarati,Masculino,Corrupção,Magalhaes,Sim,Não,Médio Incompleto,
+43,40 a 49,Tauá Mirim,Feminino,Saúde,Adail,Sim,Não,Médio Incompleto,650.0
+45,40 a 49,Tauá Mirim,Feminino,Saúde,Nulo,Não,Não,Fundam. Incompleto,1000.0
+32,30 a 39,Duque,Masculino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,800.0
+23,22 a 24,Duque,Feminino,Corrupção,Adail,Não,Não,Médio Incompleto,300.0
+79,60 e +,Tauá Mirim,Feminino,Saúde,Mitouso,Não,Não,Fundam. Incompleto,650.0
+32,30 a 39,Tauá Mirim,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Apenas Alfabetizado,135.0
+32,60 e +,Tauá Mirim,Masculino,Emprego,Mitouso,Sem Opinião,Não,Médio Completo,2000.0
+20,18 a 21,Tauá Mirim,Masculino,Emprego,Mitouso,Sem Opinião,Sem Opinião,Superior Incompleto,1000.0
+43,40 a 49,Tauá Mirim,Masculino,Segurança,Mitouso,Não,Não,Médio Incompleto,4000.0
+19,18 a 21,Duque,Masculino,Emprego,Magalhaes,Sem Opinião,Não,Médio Incompleto,1000.0
+80,60 e +,Tauá Mirim,Feminino,Emprego,Mitouso,Não,Não,Fundam. Incompleto,650.0
+40,40 a 49,Tauá Mirim,Masculino,Emprego,Mitouso,Não,Não,Superior Incompleto,1350.0
+43,40 a 49,Tauá Mirim,Feminino,Saúde,Adail,Não,Sim,Médio Completo,
+21,18 a 21,Tauá Mirim,Feminino,Educação,Nulo,Não,Não,Fundam. Incompleto,
+75,60 e +,Tauá Mirim,Feminino,Saúde,Nulo,Não,Sem Opinião,Fundam. Incompleto,650.0
+77,60 e +,Tauá Mirim,Feminino,Emprego,Mitouso,Não,Não,Não Alfabetizado,
+38,30 a 39,Duque,Masculino,Saúde,Nulo,Não,Não,Fundam. Incompleto,1500.0
+24,22 a 24,Espirito Santo,Masculino,Saúde,Mitouso,Não,Não,Médio Completo,2000.0
+63,60 e +,Urucu,Masculino,Saúde,Adail,Sim,Sim,Médio Incompleto,1000.0
+33,30 a 39,Urucu,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,
+62,60 e +,Urucu,Feminino,Emprego,Adail,Não,Sim,Não Alfabetizado,700.0
+21,18 a 21,Urucu,Feminino,Emprego,Adail,Sim,Não,Médio Incompleto,650.0
+25,25 a 29,Urucu,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,
+50,50 a 59,Urucu,Feminino,Saúde,Magalhaes,Não,Não,Superior Incompleto,1500.0
+50,50 a 59,Urucu,Feminino,Educação,Magalhaes,Não,Não,Fundam. Incompleto,650.0
+50,50 a 59,Urucu,Masculino,Emprego,Magalhaes,Sim,Não,Apenas Alfabetizado,400.0
+19,18 a 21,Urucu,Feminino,Saúde,Adail,Sim,Sim,Médio Incompleto,800.0
+40,40 a 49,Urucu,Feminino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Fundam. Incompleto,1300.0
+30,30 a 39,Urucu,Masculino,Segurança,Magalhaes,Sim,Não,Médio Completo,1200.0
+61,60 e +,Urucu,Feminino,Asfalto,Nulo,Sem Opinião,Sem Opinião,Não Alfabetizado,650.0
+53,50 a 59,Urucu,Masculino,Saúde,Adail,Não,Sim,Médio Completo,2500.0
+25,25 a 29,Espirito Santo,Feminino,Saúde,Magalhaes,Sem Opinião,Sim,Fundam. Incompleto,650.0
+60,60 e +,Espirito Santo,Feminino,Saúde,Mitouso,Sim,Sim,Não Alfabetizado,800.0
+46,40 a 49,Espirito Santo,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Completo,
+39,30 a 39,Espirito Santo,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Apenas Alfabetizado,650.0
+39,30 a 39,Espirito Santo,Feminino,Saúde,Adail,Sim,Sim,Apenas Alfabetizado,100.0
+69,60 e +,Espirito Santo,Masculino,Emprego,Nulo,Sim,Sim,Não Alfabetizado,650.0
+29,25 a 29,Espirito Santo,Masculino,Saúde,Mitouso,Não,Não,Médio Completo,1500.0
+17,16 e 17,Santa Helena,Feminino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Incompleto,650.0
+18,18 a 21,Santa Helena,Feminino,Emprego,Adail,Sem Opinião,Sim,Médio Incompleto,650.0
+49,40 a 49,Santa Helena,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Médio Incompleto,1000.0
+23,22 a 24,Santa Helena,Feminino,Emprego,Adail,Sem Opinião,Sim,Fundam. Completo,400.0
+61,60 e +,Santa Helena,Feminino,Emprego,Nulo,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+42,40 a 49,Santa Helena,Feminino,Saúde,Adail,Sem Opinião,Sem Opinião,Médio Completo,1300.0
+44,40 a 49,Santa Helena,Masculino,Corrupção,Nulo,Não,Não,Fundam. Incompleto,650.0
+30,30 a 39,Santa Helena,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Completo,1300.0
+39,30 a 39,Santa Helena,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,500.0
+24,22 a 24,Santa Helena,Masculino,Segurança,Nulo,Sem Opinião,Sem Opinião,Fundam. Incompleto,
+35,30 a 39,Santa Helena,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
+29,25 a 29,Santa Helena,Masculino,Emprego,Adail,Não,Não,Fundam. Incompleto,650.0
+60,60 e +,Santa Helena,Masculino,Saneamento e urbanização,Adail,Sem Opinião,Sem Opinião,Médio Completo,650.0
+21,18 a 21,Santa Helena,Masculino,Infraestrutura,Adail,Sim,Sim,Superior Incompleto,1500.0
+65,60 e +,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não,Não Alfabetizado,300.0
+19,18 a 21,Santa Efigênia,Masculino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Incompleto,600.0
+16,16 e 17,Santa Helena,Masculino,Infraestrutura,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,640.0
+22,22 a 24,Santa Helena,Masculino,Infraestrutura,Magalhaes,Sim,Sim,Fundam. Incompleto,650.0
+21,18 a 21,Santa Efigênia,Masculino,Saneamento e urbanização,Adail,Não,Sim,Médio Incompleto,500.0
+40,40 a 49,Santa Efigênia,Masculino,Corrupção,Magalhaes,Sem Opinião,Não,Pós graduação,4500.0
+29,25 a 29,Santa Efigênia,Masculino,Saúde,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,650.0
+17,16 e 17,Santa Efigênia,Feminino,Saúde,Magalhaes,Sim,Não,Fundam. Incompleto,650.0
+24,22 a 24,Santa Efigênia,Feminino,Saúde,Magalhaes,Sem Opinião,Não,Médio Completo,700.0
+28,25 a 29,Santa Efigênia,Masculino,Saneamento e urbanização,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,700.0
+18,18 a 21,Santa Efigênia,Masculino,Renda,Magalhaes,Sim,Sim,Médio Incompleto,1300.0
+24,22 a 24,Santa Efigênia,Feminino,Emprego,Magalhaes,Não,Não,Médio Completo,650.0
+19,18 a 21,Centro,Feminino,Saúde,Adail,Sim,Sim,Fundam. Incompleto,
+19,18 a 21,Centro,Feminino,Emprego,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,650.0
+18,18 a 21,Centro,Masculino,Emprego,Magalhaes,Sim,Sim,Médio Incompleto,1500.0
+25,25 a 29,Centro,Masculino,Emprego,Adail,Não,Sim,Fundam. Incompleto,2000.0
+22,22 a 24,União,Masculino,Emprego,Mitouso,Sem Opinião,Sim,Médio Completo,7500.0
+18,18 a 21,União,Feminino,Segurança,Magalhaes,Sim,Sim,Médio Incompleto,1300.0
+20,18 a 21,União,Feminino,Salário,Nulo,Sem Opinião,Sem Opinião,Médio Incompleto,1000.0
+18,18 a 21,União,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,650.0
+58,50 a 59,Do Pera,Masculino,Saúde,Adail,Sim,Sim,Não Alfabetizado,
+19,18 a 21,União,Masculino,Saneamento e urbanização,Outros,Sim,Sim,Médio Completo,883.0
+49,40 a 49,Chagas,Masculino,Asfalto,Adail,Sim,Sim,Fundam. Incompleto,650.0
+20,18 a 21,Chagas,Feminino,Saúde,Adail,Sem Opinião,Sim,Médio Completo,1300.0
+18,18 a 21,Chagas,Masculino,Segurança,Nulo,Sim,Sem Opinião,Médio Incompleto,650.0
+55,50 a 59,Chagas,Feminino,Administração pública,Sem Opinião,Sem Opinião,Sem Opinião,Superior Incompleto,1350.0
+25,25 a 29,Chagas,Masculino,Saúde,Nulo,Não,Não,Médio Completo,650.0
+20,18 a 21,Chagas,Masculino,Segurança,Magalhaes,Sem Opinião,Sem Opinião,Superior Incompleto,650.0
+21,18 a 21,União,Masculino,Emprego,Adail,Sim,Sem Opinião,Médio Incompleto,200.0
+18,18 a 21,Chagas,Masculino,Administração pública,Mitouso,Sim,Sem Opinião,Médio Completo,1300.0
+23,22 a 24,Do Pera,Masculino,Saúde,Magalhaes,Sem Opinião,Sem Opinião,Médio Completo,200.0
+68,60 e +,Do Pera,Masculino,Outros,Adail,Sim,Sim,Não Alfabetizado,400.0
+24,22 a 24,Do Pera,Feminino,Renda,Adail,Sim,Sim,Fundam. Incompleto,1300.0
+34,30 a 39,Do Pera,Feminino,Emprego,Adail,Sim,Sim,Fundam. Incompleto,300.0
+29,25 a 29,Do Pera,Masculino,Saúde,Magalhaes,Sim,Não,Fundam. Incompleto,
+37,30 a 39,Do Pera,Feminino,Água,Mitouso,Sem Opinião,Sem Opinião,Fundam. Completo,600.0
+16,16 e 17,Do Pera,Masculino,Segurança,Adail,Sim,Sim,Não Alfabetizado,
+37,30 a 39,Do Pera,Masculino,Infraestrutura,Adail,Sem Opinião,Sim,Fundam. Completo,700.0
+30,30 a 39,Do Pera,Masculino,Emprego,Adail,Sim,Não,Médio Completo,1300.0
+32,30 a 39,Do Pera,Masculino,Emprego,Adail,Sem Opinião,Sem Opinião,Fundam. Incompleto,
+54,50 a 59,Do Pera,Feminino,Emprego,Adail,Sim,Não,Fundam. Incompleto,450.0
